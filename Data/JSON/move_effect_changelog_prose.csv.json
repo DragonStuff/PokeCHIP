@@ -1,0 +1,142 @@
+[
+    {
+        "effect": "Halves the target's [Defense]{mechanic:defense} for damage calculation",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "1"
+    },
+    {
+        "effect": "Hits Pok\u00e9mon under the effects of []{move:dig} and []{move:fly}.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "2"
+    },
+    {
+        "effect": "Does nothing in trainer battles.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "3"
+    },
+    {
+        "effect": "Works while asleep through []{move:sleep-talk} if not at full health.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "4"
+    },
+    {
+        "effect": "If this move misses",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "5"
+    },
+    {
+        "effect": "If this move misses",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "6"
+    },
+    {
+        "effect": "Locks the user into this move. Due to a bug",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "7"
+    },
+    {
+        "effect": "Can call any move except for []{move:struggle} and itself.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "8"
+    },
+    {
+        "effect": "Does not interact with []{move:stomp}.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "9"
+    },
+    {
+        "effect": "Raises [evasion]{mechanic:evasion} by one stage.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "10"
+    },
+    {
+        "effect": "Does not raise [Defense]{mechanic:defense}.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "11"
+    },
+    {
+        "effect": "Does not hit Pok\u00e9mon under the effects of []{move:dig}.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "12"
+    },
+    {
+        "effect": "Does not hit Pok\u00e9mon under the effects of []{move:fly}.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "13"
+    },
+    {
+        "effect": "Does not interact with []{move:minimize}.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "14"
+    },
+    {
+        "effect": "Does not hit Pok\u00e9mon under the effects of []{move:fly}.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "15"
+    },
+    {
+        "effect": "Determines damage using each participant's base [Attack]{mechanic:attack} and the opponent's base [Defense]{mechanic:defense} in place of calculated stats.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "16"
+    },
+    {
+        "effect": "[]{move:swift} can hit the user while in the air",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "17"
+    },
+    {
+        "effect": "Does not raise [Defense]{mechanic:defense} or [Special Defense]{mechanic:special-defense}.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "18"
+    },
+    {
+        "effect": "Does not raise the user's [Special Defense]{mechanic:special-defense}.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "19"
+    },
+    {
+        "effect": "Heals replacement Pok\u00e9mon by half of their max HP.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "20"
+    },
+    {
+        "effect": "Inflicts []{type:normal}-type damage.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "21"
+    },
+    {
+        "effect": "[]{move:swift} can hit the user while underground",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "22"
+    },
+    {
+        "effect": "Does not interact with []{move:hail}.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "23"
+    },
+    {
+        "effect": "Ignores []{ability:wonder-guard}.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "24"
+    },
+    {
+        "effect": "Lasts either two or three turns.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "25"
+    },
+    {
+        "effect": "If the target is not under the effect of []{move:detect} or []{move:protect}",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "26"
+    },
+    {
+        "effect": "The user receieves 1/2 of the damage dealt in recoil.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "27"
+    },
+    {
+        "effect": "The barriers are destroyed even if this move has [no effect]{mechanic:no-effect}.",
+        "local_language_id": "9",
+        "move_effect_changelog_id": "28"
+    }
+]

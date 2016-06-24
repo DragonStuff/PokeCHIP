@@ -1,0 +1,72 @@
+[
+    {
+        "description": "Inflicts damage",
+        "local_language_id": "9",
+        "move_meta_category_id": "0"
+    },
+    {
+        "description": "No damage; inflicts status ailment",
+        "local_language_id": "9",
+        "move_meta_category_id": "1"
+    },
+    {
+        "description": "No damage; lowers target's stats or raises user's stats",
+        "local_language_id": "9",
+        "move_meta_category_id": "2"
+    },
+    {
+        "description": "No damage; heals the user",
+        "local_language_id": "9",
+        "move_meta_category_id": "3"
+    },
+    {
+        "description": "Inflicts damage; inflicts status ailment",
+        "local_language_id": "9",
+        "move_meta_category_id": "4"
+    },
+    {
+        "description": "No damage; inflicts status ailment; raises target's stats",
+        "local_language_id": "9",
+        "move_meta_category_id": "5"
+    },
+    {
+        "description": "Inflicts damage; lowers target's stats",
+        "local_language_id": "9",
+        "move_meta_category_id": "6"
+    },
+    {
+        "description": "Inflicts damage; raises user's stats",
+        "local_language_id": "9",
+        "move_meta_category_id": "7"
+    },
+    {
+        "description": "Inflicts damage; absorbs damage done to heal the user",
+        "local_language_id": "9",
+        "move_meta_category_id": "8"
+    },
+    {
+        "description": "One-hit KO",
+        "local_language_id": "9",
+        "move_meta_category_id": "9"
+    },
+    {
+        "description": "Effect on the whole field",
+        "local_language_id": "9",
+        "move_meta_category_id": "10"
+    },
+    {
+        "description": "Effect on one side of the field",
+        "local_language_id": "9",
+        "move_meta_category_id": "11"
+    },
+    {
+        "description": "Forces target to switch out",
+        "local_language_id": "9",
+        "move_meta_category_id": "12"
+    },
+    {
+        "description": "Unique effect",
+        "local_language_id": "9",
+        "move_meta_category_id": "13"
+    }
+]

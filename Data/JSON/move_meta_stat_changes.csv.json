@@ -1,0 +1,817 @@
+[
+    {
+        "change": "2",
+        "move_id": "14",
+        "stat_id": "2"
+    },
+    {
+        "change": "-1",
+        "move_id": "28",
+        "stat_id": "7"
+    },
+    {
+        "change": "-1",
+        "move_id": "39",
+        "stat_id": "3"
+    },
+    {
+        "change": "-1",
+        "move_id": "43",
+        "stat_id": "3"
+    },
+    {
+        "change": "-1",
+        "move_id": "45",
+        "stat_id": "2"
+    },
+    {
+        "change": "-1",
+        "move_id": "51",
+        "stat_id": "5"
+    },
+    {
+        "change": "-1",
+        "move_id": "61",
+        "stat_id": "6"
+    },
+    {
+        "change": "-1",
+        "move_id": "62",
+        "stat_id": "2"
+    },
+    {
+        "change": "1",
+        "move_id": "74",
+        "stat_id": "2"
+    },
+    {
+        "change": "1",
+        "move_id": "74",
+        "stat_id": "4"
+    },
+    {
+        "change": "-2",
+        "move_id": "81",
+        "stat_id": "6"
+    },
+    {
+        "change": "-1",
+        "move_id": "94",
+        "stat_id": "5"
+    },
+    {
+        "change": "1",
+        "move_id": "96",
+        "stat_id": "2"
+    },
+    {
+        "change": "2",
+        "move_id": "97",
+        "stat_id": "6"
+    },
+    {
+        "change": "-2",
+        "move_id": "103",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "104",
+        "stat_id": "8"
+    },
+    {
+        "change": "1",
+        "move_id": "106",
+        "stat_id": "3"
+    },
+    {
+        "change": "2",
+        "move_id": "107",
+        "stat_id": "8"
+    },
+    {
+        "change": "-1",
+        "move_id": "108",
+        "stat_id": "7"
+    },
+    {
+        "change": "1",
+        "move_id": "110",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "111",
+        "stat_id": "3"
+    },
+    {
+        "change": "2",
+        "move_id": "112",
+        "stat_id": "3"
+    },
+    {
+        "change": "-1",
+        "move_id": "132",
+        "stat_id": "6"
+    },
+    {
+        "change": "2",
+        "move_id": "133",
+        "stat_id": "5"
+    },
+    {
+        "change": "-1",
+        "move_id": "134",
+        "stat_id": "7"
+    },
+    {
+        "change": "-1",
+        "move_id": "145",
+        "stat_id": "6"
+    },
+    {
+        "change": "-1",
+        "move_id": "148",
+        "stat_id": "7"
+    },
+    {
+        "change": "2",
+        "move_id": "151",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "159",
+        "stat_id": "2"
+    },
+    {
+        "change": "-2",
+        "move_id": "178",
+        "stat_id": "6"
+    },
+    {
+        "change": "-2",
+        "move_id": "184",
+        "stat_id": "6"
+    },
+    {
+        "change": "-1",
+        "move_id": "189",
+        "stat_id": "7"
+    },
+    {
+        "change": "-1",
+        "move_id": "190",
+        "stat_id": "7"
+    },
+    {
+        "change": "-1",
+        "move_id": "196",
+        "stat_id": "6"
+    },
+    {
+        "change": "-2",
+        "move_id": "204",
+        "stat_id": "2"
+    },
+    {
+        "change": "2",
+        "move_id": "207",
+        "stat_id": "2"
+    },
+    {
+        "change": "1",
+        "move_id": "211",
+        "stat_id": "3"
+    },
+    {
+        "change": "-2",
+        "move_id": "230",
+        "stat_id": "8"
+    },
+    {
+        "change": "-1",
+        "move_id": "231",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "232",
+        "stat_id": "2"
+    },
+    {
+        "change": "-1",
+        "move_id": "242",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "246",
+        "stat_id": "1"
+    },
+    {
+        "change": "1",
+        "move_id": "246",
+        "stat_id": "2"
+    },
+    {
+        "change": "1",
+        "move_id": "246",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "246",
+        "stat_id": "4"
+    },
+    {
+        "change": "1",
+        "move_id": "246",
+        "stat_id": "5"
+    },
+    {
+        "change": "1",
+        "move_id": "246",
+        "stat_id": "6"
+    },
+    {
+        "change": "-1",
+        "move_id": "247",
+        "stat_id": "5"
+    },
+    {
+        "change": "-1",
+        "move_id": "249",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "260",
+        "stat_id": "4"
+    },
+    {
+        "change": "1",
+        "move_id": "268",
+        "stat_id": "5"
+    },
+    {
+        "change": "-1",
+        "move_id": "276",
+        "stat_id": "2"
+    },
+    {
+        "change": "-1",
+        "move_id": "276",
+        "stat_id": "3"
+    },
+    {
+        "change": "3",
+        "move_id": "294",
+        "stat_id": "4"
+    },
+    {
+        "change": "-1",
+        "move_id": "295",
+        "stat_id": "5"
+    },
+    {
+        "change": "-1",
+        "move_id": "296",
+        "stat_id": "4"
+    },
+    {
+        "change": "-2",
+        "move_id": "297",
+        "stat_id": "2"
+    },
+    {
+        "change": "-1",
+        "move_id": "306",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "309",
+        "stat_id": "2"
+    },
+    {
+        "change": "-2",
+        "move_id": "313",
+        "stat_id": "5"
+    },
+    {
+        "change": "-2",
+        "move_id": "315",
+        "stat_id": "4"
+    },
+    {
+        "change": "-1",
+        "move_id": "317",
+        "stat_id": "6"
+    },
+    {
+        "change": "1",
+        "move_id": "318",
+        "stat_id": "1"
+    },
+    {
+        "change": "1",
+        "move_id": "318",
+        "stat_id": "2"
+    },
+    {
+        "change": "1",
+        "move_id": "318",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "318",
+        "stat_id": "4"
+    },
+    {
+        "change": "1",
+        "move_id": "318",
+        "stat_id": "5"
+    },
+    {
+        "change": "1",
+        "move_id": "318",
+        "stat_id": "6"
+    },
+    {
+        "change": "-2",
+        "move_id": "319",
+        "stat_id": "5"
+    },
+    {
+        "change": "-1",
+        "move_id": "321",
+        "stat_id": "2"
+    },
+    {
+        "change": "-1",
+        "move_id": "321",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "322",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "322",
+        "stat_id": "5"
+    },
+    {
+        "change": "-1",
+        "move_id": "330",
+        "stat_id": "7"
+    },
+    {
+        "change": "2",
+        "move_id": "334",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "336",
+        "stat_id": "2"
+    },
+    {
+        "change": "1",
+        "move_id": "339",
+        "stat_id": "2"
+    },
+    {
+        "change": "1",
+        "move_id": "339",
+        "stat_id": "3"
+    },
+    {
+        "change": "-1",
+        "move_id": "341",
+        "stat_id": "6"
+    },
+    {
+        "change": "1",
+        "move_id": "347",
+        "stat_id": "4"
+    },
+    {
+        "change": "1",
+        "move_id": "347",
+        "stat_id": "5"
+    },
+    {
+        "change": "1",
+        "move_id": "349",
+        "stat_id": "2"
+    },
+    {
+        "change": "1",
+        "move_id": "349",
+        "stat_id": "6"
+    },
+    {
+        "change": "-2",
+        "move_id": "354",
+        "stat_id": "4"
+    },
+    {
+        "change": "-1",
+        "move_id": "359",
+        "stat_id": "6"
+    },
+    {
+        "change": "-1",
+        "move_id": "370",
+        "stat_id": "3"
+    },
+    {
+        "change": "-1",
+        "move_id": "370",
+        "stat_id": "5"
+    },
+    {
+        "change": "2",
+        "move_id": "397",
+        "stat_id": "6"
+    },
+    {
+        "change": "-1",
+        "move_id": "405",
+        "stat_id": "5"
+    },
+    {
+        "change": "-1",
+        "move_id": "411",
+        "stat_id": "5"
+    },
+    {
+        "change": "-1",
+        "move_id": "412",
+        "stat_id": "5"
+    },
+    {
+        "change": "-1",
+        "move_id": "414",
+        "stat_id": "5"
+    },
+    {
+        "change": "2",
+        "move_id": "417",
+        "stat_id": "4"
+    },
+    {
+        "change": "-1",
+        "move_id": "426",
+        "stat_id": "7"
+    },
+    {
+        "change": "-1",
+        "move_id": "429",
+        "stat_id": "7"
+    },
+    {
+        "change": "-1",
+        "move_id": "430",
+        "stat_id": "5"
+    },
+    {
+        "change": "-2",
+        "move_id": "434",
+        "stat_id": "4"
+    },
+    {
+        "change": "-2",
+        "move_id": "437",
+        "stat_id": "4"
+    },
+    {
+        "change": "-2",
+        "move_id": "445",
+        "stat_id": "4"
+    },
+    {
+        "change": "1",
+        "move_id": "451",
+        "stat_id": "4"
+    },
+    {
+        "change": "1",
+        "move_id": "455",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "455",
+        "stat_id": "5"
+    },
+    {
+        "change": "-2",
+        "move_id": "465",
+        "stat_id": "5"
+    },
+    {
+        "change": "1",
+        "move_id": "466",
+        "stat_id": "1"
+    },
+    {
+        "change": "1",
+        "move_id": "466",
+        "stat_id": "2"
+    },
+    {
+        "change": "1",
+        "move_id": "466",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "466",
+        "stat_id": "4"
+    },
+    {
+        "change": "1",
+        "move_id": "466",
+        "stat_id": "5"
+    },
+    {
+        "change": "1",
+        "move_id": "466",
+        "stat_id": "6"
+    },
+    {
+        "change": "1",
+        "move_id": "468",
+        "stat_id": "2"
+    },
+    {
+        "change": "1",
+        "move_id": "468",
+        "stat_id": "7"
+    },
+    {
+        "change": "2",
+        "move_id": "475",
+        "stat_id": "6"
+    },
+    {
+        "change": "1",
+        "move_id": "483",
+        "stat_id": "4"
+    },
+    {
+        "change": "1",
+        "move_id": "483",
+        "stat_id": "5"
+    },
+    {
+        "change": "1",
+        "move_id": "483",
+        "stat_id": "6"
+    },
+    {
+        "change": "1",
+        "move_id": "488",
+        "stat_id": "6"
+    },
+    {
+        "change": "1",
+        "move_id": "489",
+        "stat_id": "2"
+    },
+    {
+        "change": "1",
+        "move_id": "489",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "489",
+        "stat_id": "7"
+    },
+    {
+        "change": "-1",
+        "move_id": "490",
+        "stat_id": "6"
+    },
+    {
+        "change": "-2",
+        "move_id": "491",
+        "stat_id": "5"
+    },
+    {
+        "change": "1",
+        "move_id": "508",
+        "stat_id": "2"
+    },
+    {
+        "change": "2",
+        "move_id": "508",
+        "stat_id": "6"
+    },
+    {
+        "change": "-1",
+        "move_id": "522",
+        "stat_id": "4"
+    },
+    {
+        "change": "-1",
+        "move_id": "523",
+        "stat_id": "6"
+    },
+    {
+        "change": "1",
+        "move_id": "526",
+        "stat_id": "2"
+    },
+    {
+        "change": "1",
+        "move_id": "526",
+        "stat_id": "4"
+    },
+    {
+        "change": "-1",
+        "move_id": "527",
+        "stat_id": "6"
+    },
+    {
+        "change": "-1",
+        "move_id": "534",
+        "stat_id": "3"
+    },
+    {
+        "change": "-1",
+        "move_id": "536",
+        "stat_id": "7"
+    },
+    {
+        "change": "3",
+        "move_id": "538",
+        "stat_id": "3"
+    },
+    {
+        "change": "-1",
+        "move_id": "539",
+        "stat_id": "7"
+    },
+    {
+        "change": "-1",
+        "move_id": "549",
+        "stat_id": "6"
+    },
+    {
+        "change": "1",
+        "move_id": "552",
+        "stat_id": "4"
+    },
+    {
+        "change": "-1",
+        "move_id": "555",
+        "stat_id": "4"
+    },
+    {
+        "change": "-1",
+        "move_id": "557",
+        "stat_id": "3"
+    },
+    {
+        "change": "-1",
+        "move_id": "557",
+        "stat_id": "5"
+    },
+    {
+        "change": "-1",
+        "move_id": "557",
+        "stat_id": "6"
+    },
+    {
+        "change": "1",
+        "move_id": "563",
+        "stat_id": "2"
+    },
+    {
+        "change": "1",
+        "move_id": "563",
+        "stat_id": "4"
+    },
+    {
+        "change": "-1",
+        "move_id": "568",
+        "stat_id": "2"
+    },
+    {
+        "change": "-1",
+        "move_id": "568",
+        "stat_id": "4"
+    },
+    {
+        "change": "-1",
+        "move_id": "575",
+        "stat_id": "2"
+    },
+    {
+        "change": "-1",
+        "move_id": "575",
+        "stat_id": "4"
+    },
+    {
+        "change": "1",
+        "move_id": "579",
+        "stat_id": "3"
+    },
+    {
+        "change": "-1",
+        "move_id": "583",
+        "stat_id": "2"
+    },
+    {
+        "change": "-1",
+        "move_id": "585",
+        "stat_id": "4"
+    },
+    {
+        "change": "-1",
+        "move_id": "589",
+        "stat_id": "2"
+    },
+    {
+        "change": "-1",
+        "move_id": "590",
+        "stat_id": "4"
+    },
+    {
+        "change": "1",
+        "move_id": "591",
+        "stat_id": "3"
+    },
+    {
+        "change": "-1",
+        "move_id": "595",
+        "stat_id": "4"
+    },
+    {
+        "change": "1",
+        "move_id": "597",
+        "stat_id": "5"
+    },
+    {
+        "change": "-2",
+        "move_id": "598",
+        "stat_id": "4"
+    },
+    {
+        "change": "-1",
+        "move_id": "599",
+        "stat_id": "2"
+    },
+    {
+        "change": "-1",
+        "move_id": "599",
+        "stat_id": "4"
+    },
+    {
+        "change": "-1",
+        "move_id": "599",
+        "stat_id": "6"
+    },
+    {
+        "change": "2",
+        "move_id": "601",
+        "stat_id": "4"
+    },
+    {
+        "change": "2",
+        "move_id": "601",
+        "stat_id": "5"
+    },
+    {
+        "change": "2",
+        "move_id": "601",
+        "stat_id": "6"
+    },
+    {
+        "change": "1",
+        "move_id": "602",
+        "stat_id": "3"
+    },
+    {
+        "change": "1",
+        "move_id": "602",
+        "stat_id": "5"
+    },
+    {
+        "change": "-1",
+        "move_id": "608",
+        "stat_id": "2"
+    },
+    {
+        "change": "1",
+        "move_id": "612",
+        "stat_id": "2"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "local_language_id": "1",
+        "name": "HP",
+        "stat_id": "1"
+    },
+    {
+        "local_language_id": "5",
+        "name": "PV",
+        "stat_id": "1"
+    },
+    {
+        "local_language_id": "6",
+        "name": "KP",
+        "stat_id": "1"
+    },
+    {
+        "local_language_id": "7",
+        "name": "PS",
+        "stat_id": "1"
+    },
+    {
+        "local_language_id": "8",
+        "name": "PS",
+        "stat_id": "1"
+    },
+    {
+        "local_language_id": "9",
+        "name": "HP",
+        "stat_id": "1"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3053\u3046\u3052\u304d",
+        "stat_id": "2"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Attaque",
+        "stat_id": "2"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Angriff",
+        "stat_id": "2"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Ataque",
+        "stat_id": "2"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Attacco",
+        "stat_id": "2"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Attack",
+        "stat_id": "2"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u307c\u3046\u304e\u3087",
+        "stat_id": "3"
+    },
+    {
+        "local_language_id": "5",
+        "name": "D\u00e9fense",
+        "stat_id": "3"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Verteidigung",
+        "stat_id": "3"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Defensa",
+        "stat_id": "3"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Difesa",
+        "stat_id": "3"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Defense",
+        "stat_id": "3"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3068\u304f\u3053\u3046",
+        "stat_id": "4"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Attaque Sp\u00e9ciale",
+        "stat_id": "4"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Spezialangriff",
+        "stat_id": "4"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Ataque Especial",
+        "stat_id": "4"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Attacco Speciale",
+        "stat_id": "4"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Special Attack",
+        "stat_id": "4"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3068\u304f\u307c\u3046",
+        "stat_id": "5"
+    },
+    {
+        "local_language_id": "5",
+        "name": "D\u00e9fense Sp\u00e9ciale",
+        "stat_id": "5"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Spezialverteidigung",
+        "stat_id": "5"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Defensa Especial",
+        "stat_id": "5"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Difesa Speciale",
+        "stat_id": "5"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Special Defense",
+        "stat_id": "5"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3059\u3070\u3084\u3055",
+        "stat_id": "6"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Vitesse",
+        "stat_id": "6"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Initiative",
+        "stat_id": "6"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Velocidad",
+        "stat_id": "6"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Velocit\u00e0",
+        "stat_id": "6"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Speed",
+        "stat_id": "6"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3081\u3044\u3061\u3085\u3046",
+        "stat_id": "7"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Pr\u00e9cision",
+        "stat_id": "7"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Genauigkeit",
+        "stat_id": "7"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Precisi\u00f3n",
+        "stat_id": "7"
+    },
+    {
+        "local_language_id": "8",
+        "name": "precisione",
+        "stat_id": "7"
+    },
+    {
+        "local_language_id": "9",
+        "name": "accuracy",
+        "stat_id": "7"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u304b\u3044\u3072",
+        "stat_id": "8"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Esquive",
+        "stat_id": "8"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Fluchtwert",
+        "stat_id": "8"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Evasi\u00f3n",
+        "stat_id": "8"
+    },
+    {
+        "local_language_id": "8",
+        "name": "elusione",
+        "stat_id": "8"
+    },
+    {
+        "local_language_id": "9",
+        "name": "evasion",
+        "stat_id": "8"
+    }
+]

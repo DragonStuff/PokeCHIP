@@ -1,0 +1,112 @@
+[
+    {
+        "flavor_text": "Enables the user to perform first in the next turn.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "1"
+    },
+    {
+        "flavor_text": "Enables the user to perform last in the next turn.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "2"
+    },
+    {
+        "flavor_text": "Earn +2 if the Judge's Voltage goes up.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "4"
+    },
+    {
+        "flavor_text": "A basic performance using a move known by the Pok\u00e9mon.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "5"
+    },
+    {
+        "flavor_text": "Earn +3 if no other Pok\u00e9mon has chosen the same Judge.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "6"
+    },
+    {
+        "flavor_text": "Allows performance of the same move twice in a row.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "7"
+    },
+    {
+        "flavor_text": "Increased Voltage is added to the performance score.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "8"
+    },
+    {
+        "flavor_text": "Earn +15 if all the Pok\u00e9mon choose the same Judge.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "9"
+    },
+    {
+        "flavor_text": "Lowers the Voltage of all Judges by one each.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "10"
+    },
+    {
+        "flavor_text": "Earn double the score in the next turn.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "11"
+    },
+    {
+        "flavor_text": "Steals the Voltage of the Pok\u00e9mon that just went.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "12"
+    },
+    {
+        "flavor_text": "Prevents the Voltage from going up in the same turn.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "13"
+    },
+    {
+        "flavor_text": "Makes the order of contestants random in the next turn.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "14"
+    },
+    {
+        "flavor_text": "Earns double the score on the final performance.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "15"
+    },
+    {
+        "flavor_text": "Raises the score if the Voltage is low.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "16"
+    },
+    {
+        "flavor_text": "Earn +2 if the Pok\u00e9mon performs first in the turn.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "17"
+    },
+    {
+        "flavor_text": "Earn +2 if the Pok\u00e9mon performs last in the turn.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "18"
+    },
+    {
+        "flavor_text": "Prevents the Voltage from going down in the same turn.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "19"
+    },
+    {
+        "flavor_text": "Earn +3 if two Pok\u00e9mon raise the Voltage in a row.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "20"
+    },
+    {
+        "flavor_text": "Earn a higher score the later the Pok\u00e9mon performs.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "21"
+    },
+    {
+        "flavor_text": "Earn +3 if the Pok\u00e9mon that just went hit max Voltage.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "22"
+    },
+    {
+        "flavor_text": "Earn +3 if the Pok\u00e9mon gets the lowest score.",
+        "local_language_id": "9",
+        "super_contest_effect_id": "23"
+    }
+]

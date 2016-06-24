@@ -1,0 +1,58 @@
+[
+    {
+        "id": "0",
+        "identifier": "damage"
+    },
+    {
+        "id": "1",
+        "identifier": "ailment"
+    },
+    {
+        "id": "2",
+        "identifier": "net-good-stats"
+    },
+    {
+        "id": "3",
+        "identifier": "heal"
+    },
+    {
+        "id": "4",
+        "identifier": "damage+ailment"
+    },
+    {
+        "id": "5",
+        "identifier": "swagger"
+    },
+    {
+        "id": "6",
+        "identifier": "damage+lower"
+    },
+    {
+        "id": "7",
+        "identifier": "damage+raise"
+    },
+    {
+        "id": "8",
+        "identifier": "damage+heal"
+    },
+    {
+        "id": "9",
+        "identifier": "ohko"
+    },
+    {
+        "id": "10",
+        "identifier": "whole-field-effect"
+    },
+    {
+        "id": "11",
+        "identifier": "field-effect"
+    },
+    {
+        "id": "12",
+        "identifier": "force-switch"
+    },
+    {
+        "id": "13",
+        "identifier": "unique"
+    }
+]

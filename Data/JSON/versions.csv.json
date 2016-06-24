@@ -1,0 +1,132 @@
+[
+    {
+        "id": "1",
+        "identifier": "red",
+        "version_group_id": "1"
+    },
+    {
+        "id": "2",
+        "identifier": "blue",
+        "version_group_id": "1"
+    },
+    {
+        "id": "3",
+        "identifier": "yellow",
+        "version_group_id": "2"
+    },
+    {
+        "id": "4",
+        "identifier": "gold",
+        "version_group_id": "3"
+    },
+    {
+        "id": "5",
+        "identifier": "silver",
+        "version_group_id": "3"
+    },
+    {
+        "id": "6",
+        "identifier": "crystal",
+        "version_group_id": "4"
+    },
+    {
+        "id": "7",
+        "identifier": "ruby",
+        "version_group_id": "5"
+    },
+    {
+        "id": "8",
+        "identifier": "sapphire",
+        "version_group_id": "5"
+    },
+    {
+        "id": "9",
+        "identifier": "emerald",
+        "version_group_id": "6"
+    },
+    {
+        "id": "10",
+        "identifier": "firered",
+        "version_group_id": "7"
+    },
+    {
+        "id": "11",
+        "identifier": "leafgreen",
+        "version_group_id": "7"
+    },
+    {
+        "id": "12",
+        "identifier": "diamond",
+        "version_group_id": "8"
+    },
+    {
+        "id": "13",
+        "identifier": "pearl",
+        "version_group_id": "8"
+    },
+    {
+        "id": "14",
+        "identifier": "platinum",
+        "version_group_id": "9"
+    },
+    {
+        "id": "15",
+        "identifier": "heartgold",
+        "version_group_id": "10"
+    },
+    {
+        "id": "16",
+        "identifier": "soulsilver",
+        "version_group_id": "10"
+    },
+    {
+        "id": "17",
+        "identifier": "black",
+        "version_group_id": "11"
+    },
+    {
+        "id": "18",
+        "identifier": "white",
+        "version_group_id": "11"
+    },
+    {
+        "id": "19",
+        "identifier": "colosseum",
+        "version_group_id": "12"
+    },
+    {
+        "id": "20",
+        "identifier": "xd",
+        "version_group_id": "13"
+    },
+    {
+        "id": "21",
+        "identifier": "black-2",
+        "version_group_id": "14"
+    },
+    {
+        "id": "22",
+        "identifier": "white-2",
+        "version_group_id": "14"
+    },
+    {
+        "id": "23",
+        "identifier": "x",
+        "version_group_id": "15"
+    },
+    {
+        "id": "24",
+        "identifier": "y",
+        "version_group_id": "15"
+    },
+    {
+        "id": "25",
+        "identifier": "omega-ruby",
+        "version_group_id": "16"
+    },
+    {
+        "id": "26",
+        "identifier": "alpha-sapphire",
+        "version_group_id": "16"
+    }
+]

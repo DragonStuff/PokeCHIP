@@ -1,0 +1,52 @@
+[
+    {
+        "local_language_id": "5",
+        "name": "For\u00eat",
+        "pal_park_area_id": "1"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Forest",
+        "pal_park_area_id": "1"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Plaine",
+        "pal_park_area_id": "2"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Field",
+        "pal_park_area_id": "2"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Montagne",
+        "pal_park_area_id": "3"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Mountain",
+        "pal_park_area_id": "3"
+    },
+    {
+        "local_language_id": "5",
+        "name": "\u00c9tang",
+        "pal_park_area_id": "4"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Pond",
+        "pal_park_area_id": "4"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Mer",
+        "pal_park_area_id": "5"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Sea",
+        "pal_park_area_id": "5"
+    }
+]

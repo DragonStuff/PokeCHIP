@@ -1,0 +1,687 @@
+[
+    {
+        "local_language_id": "1",
+        "name": "\u30ce\u30fc\u30de\u30eb",
+        "type_id": "1"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ub178\ub9d0",
+        "type_id": "1"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Normal",
+        "type_id": "1"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Normal",
+        "type_id": "1"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Normal",
+        "type_id": "1"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Normale",
+        "type_id": "1"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Normal",
+        "type_id": "1"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u304b\u304f\u3068\u3046",
+        "type_id": "2"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uaca9\ud22c",
+        "type_id": "2"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Combat",
+        "type_id": "2"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Kampf",
+        "type_id": "2"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Lucha",
+        "type_id": "2"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Lotta",
+        "type_id": "2"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Fighting",
+        "type_id": "2"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3072\u3053\u3046",
+        "type_id": "3"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ube44\ud589",
+        "type_id": "3"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Vol",
+        "type_id": "3"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Flug",
+        "type_id": "3"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Volador",
+        "type_id": "3"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Volante",
+        "type_id": "3"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Flying",
+        "type_id": "3"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3069\u304f",
+        "type_id": "4"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ub3c5",
+        "type_id": "4"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Poison",
+        "type_id": "4"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Gift",
+        "type_id": "4"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Veneno",
+        "type_id": "4"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Veleno",
+        "type_id": "4"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Poison",
+        "type_id": "4"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3058\u3081\u3093",
+        "type_id": "5"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ub545",
+        "type_id": "5"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Sol",
+        "type_id": "5"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Boden",
+        "type_id": "5"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Tierra",
+        "type_id": "5"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Terra",
+        "type_id": "5"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Ground",
+        "type_id": "5"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3044\u308f",
+        "type_id": "6"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ubc14\uc704",
+        "type_id": "6"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Roche",
+        "type_id": "6"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Gestein",
+        "type_id": "6"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Roca",
+        "type_id": "6"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Roccia",
+        "type_id": "6"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Rock",
+        "type_id": "6"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3080\u3057",
+        "type_id": "7"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ubc8c\ub808",
+        "type_id": "7"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Insecte",
+        "type_id": "7"
+    },
+    {
+        "local_language_id": "6",
+        "name": "K\u00e4fer",
+        "type_id": "7"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Bicho",
+        "type_id": "7"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Coleottero",
+        "type_id": "7"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Bug",
+        "type_id": "7"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30b4\u30fc\u30b9\u30c8",
+        "type_id": "8"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uace0\uc2a4\ud2b8",
+        "type_id": "8"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Spectre",
+        "type_id": "8"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Geist",
+        "type_id": "8"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Fantasma",
+        "type_id": "8"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Spettro",
+        "type_id": "8"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Ghost",
+        "type_id": "8"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u306f\u304c\u306d",
+        "type_id": "9"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uac15\ucca0",
+        "type_id": "9"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Acier",
+        "type_id": "9"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Stahl",
+        "type_id": "9"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Acero",
+        "type_id": "9"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Acciaio",
+        "type_id": "9"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Steel",
+        "type_id": "9"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u307b\u306e\u304a",
+        "type_id": "10"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ubd88\uaf43",
+        "type_id": "10"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Feu",
+        "type_id": "10"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Feuer",
+        "type_id": "10"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Fuego",
+        "type_id": "10"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Fuoco",
+        "type_id": "10"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Fire",
+        "type_id": "10"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u307f\u305a",
+        "type_id": "11"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ubb3c",
+        "type_id": "11"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Eau",
+        "type_id": "11"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Wasser",
+        "type_id": "11"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Agua",
+        "type_id": "11"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Acqua",
+        "type_id": "11"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Water",
+        "type_id": "11"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u304f\u3055",
+        "type_id": "12"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ud480",
+        "type_id": "12"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Plante",
+        "type_id": "12"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Pflanze",
+        "type_id": "12"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Planta",
+        "type_id": "12"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Erba",
+        "type_id": "12"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Grass",
+        "type_id": "12"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3067\u3093\u304d",
+        "type_id": "13"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc804\uae30",
+        "type_id": "13"
+    },
+    {
+        "local_language_id": "5",
+        "name": "\u00c9lectrik",
+        "type_id": "13"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Elektro",
+        "type_id": "13"
+    },
+    {
+        "local_language_id": "7",
+        "name": "El\u00e9ctrico",
+        "type_id": "13"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Elettro",
+        "type_id": "13"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Electric",
+        "type_id": "13"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30a8\u30b9\u30d1\u30fc",
+        "type_id": "14"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc5d0\uc2a4\ud37c",
+        "type_id": "14"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Psy",
+        "type_id": "14"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Psycho",
+        "type_id": "14"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Ps\u00edquico",
+        "type_id": "14"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Psico",
+        "type_id": "14"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Psychic",
+        "type_id": "14"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3053\u304a\u308a",
+        "type_id": "15"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc5bc\uc74c",
+        "type_id": "15"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Glace",
+        "type_id": "15"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Eis",
+        "type_id": "15"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Hielo",
+        "type_id": "15"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Ghiaccio",
+        "type_id": "15"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Ice",
+        "type_id": "15"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30c9\u30e9\u30b4\u30f3",
+        "type_id": "16"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ub4dc\ub798\uace4",
+        "type_id": "16"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Dragon",
+        "type_id": "16"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Drache",
+        "type_id": "16"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Drag\u00f3n",
+        "type_id": "16"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Drago",
+        "type_id": "16"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Dragon",
+        "type_id": "16"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3042\u304f",
+        "type_id": "17"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc545",
+        "type_id": "17"
+    },
+    {
+        "local_language_id": "5",
+        "name": "T\u00e9n\u00e8bres",
+        "type_id": "17"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Unlicht",
+        "type_id": "17"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Siniestro",
+        "type_id": "17"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Buio",
+        "type_id": "17"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Dark",
+        "type_id": "17"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+        "type_id": "18"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ud398\uc5b4\ub9ac",
+        "type_id": "18"
+    },
+    {
+        "local_language_id": "5",
+        "name": "F\u00e9e",
+        "type_id": "18"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Fee",
+        "type_id": "18"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Hada",
+        "type_id": "18"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Folletto",
+        "type_id": "18"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Fairy",
+        "type_id": "18"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\uff1f\uff1f\uff1f",
+        "type_id": "10001"
+    },
+    {
+        "local_language_id": "5",
+        "name": "???",
+        "type_id": "10001"
+    },
+    {
+        "local_language_id": "6",
+        "name": "???",
+        "type_id": "10001"
+    },
+    {
+        "local_language_id": "7",
+        "name": "???",
+        "type_id": "10001"
+    },
+    {
+        "local_language_id": "8",
+        "name": "???",
+        "type_id": "10001"
+    },
+    {
+        "local_language_id": "9",
+        "name": "???",
+        "type_id": "10001"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30c0\u30fc\u30af",
+        "type_id": "10002"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Obscur",
+        "type_id": "10002"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Crypto",
+        "type_id": "10002"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Ombra",
+        "type_id": "10002"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Shadow",
+        "type_id": "10002"
+    }
+]

@@ -6,6 +6,7 @@ do
   echo "Processing $f file..."
   b=$(basename $f)
   ./csv2json.sh $f > Data/JSON/$b.tmp
-  python -mjson.tool Data/JSON/$b.tmp > Data/JSON/$b.json
-  rm Data/JSON/$b.tmp
+  cat Data/JSON/$b.tmp | tr -s '\"' > Data/JSON/$b.tmp.2
+  python -mjson.tool Data/JSON/$b.tmp.2 | tr -s '\"' > Data/JSON/$b.json
+  rm Data/JSON/$b.tmp*
 done

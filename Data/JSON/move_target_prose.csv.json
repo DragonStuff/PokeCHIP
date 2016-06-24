@@ -1,0 +1,170 @@
+[
+    {
+        "description": "Eine spezifische F\u00e4higkeit. Wie diese F\u00e4higkeit genutzt wird h\u00e4ngt von den genutzten F\u00e4higkeiten ab.",
+        "local_language_id": "6",
+        "move_target_id": "1",
+        "name": "Spezifische F\u00e4higkeit"
+    },
+    {
+        "description": "One specific move. How this move is chosen depends upon on the move being used.",
+        "local_language_id": "9",
+        "move_target_id": "1",
+        "name": "Specific move"
+    },
+    {
+        "description": "Ein anderes vom Trainer ausgew\u00e4hltes Pok\u00e9mon auf dem Feld. Gestohlene F\u00e4higkeiten nutzen das selbe Ziel.",
+        "local_language_id": "6",
+        "move_target_id": "2",
+        "name": "Ausgew\u00e4hltes Pok\u00e9mon"
+    },
+    {
+        "description": "One other Pok\u00e9mon on the field",
+        "local_language_id": "9",
+        "move_target_id": "2",
+        "name": "Selected Pok\u00e9mon"
+    },
+    {
+        "description": "Die Partner des Anwenders (wenn vorhanden).",
+        "local_language_id": "6",
+        "move_target_id": "3",
+        "name": "Partner"
+    },
+    {
+        "description": "The user's ally (if any).",
+        "local_language_id": "9",
+        "move_target_id": "3",
+        "name": "Ally"
+    },
+    {
+        "description": "Die Seite des Anwenders auf dem Feld. Betrifft den Anwender und seine Partner (wenn vorhanden).",
+        "local_language_id": "6",
+        "move_target_id": "4",
+        "name": "Seite des Anwenders"
+    },
+    {
+        "description": "The user's side of the field. Affects the user and its ally (if any).",
+        "local_language_id": "9",
+        "move_target_id": "4",
+        "name": "User's field"
+    },
+    {
+        "description": "Entweder der Anwender oder seine Partner. Der Trainer kann es aussuchen.",
+        "local_language_id": "6",
+        "move_target_id": "5",
+        "name": "Anwender oder Partner"
+    },
+    {
+        "description": "Either the user or its ally",
+        "local_language_id": "9",
+        "move_target_id": "5",
+        "name": "User or ally"
+    },
+    {
+        "description": "Die andere Seite des Feldes. Betrifft gegnerische Pok\u00e9mon.",
+        "local_language_id": "6",
+        "move_target_id": "6",
+        "name": "Gegnerisches Feld"
+    },
+    {
+        "description": "The opposing side of the field. Affects opposing Pok\u00e9mon.",
+        "local_language_id": "9",
+        "move_target_id": "6",
+        "name": "Opponent's field"
+    },
+    {
+        "description": "Der Anwender.",
+        "local_language_id": "6",
+        "move_target_id": "7",
+        "name": "Anwender"
+    },
+    {
+        "description": "The user.",
+        "local_language_id": "9",
+        "move_target_id": "7",
+        "name": "User"
+    },
+    {
+        "description": "Ein zuf\u00e4lliges gegnerische Pok\u00e9mon.",
+        "local_language_id": "6",
+        "move_target_id": "8",
+        "name": "Zuf\u00e4lliger Gegner"
+    },
+    {
+        "description": "One opposing Pok\u00e9mon",
+        "local_language_id": "9",
+        "move_target_id": "8",
+        "name": "Random opponent"
+    },
+    {
+        "description": "Jedes andere Pok\u00e9mon auf dem Feld.",
+        "local_language_id": "6",
+        "move_target_id": "9",
+        "name": "Alle anderen Pok\u00e9mon"
+    },
+    {
+        "description": "Every other Pok\u00e9mon on the field.",
+        "local_language_id": "9",
+        "move_target_id": "9",
+        "name": "All other Pok\u00e9mon"
+    },
+    {
+        "description": "Ein anderes Pok\u00e9mon auf dem Feld",
+        "local_language_id": "6",
+        "move_target_id": "10",
+        "name": "Ausgew\u00e4hltes Pok\u00e9mon"
+    },
+    {
+        "description": "One other Pok\u00e9mon on the field",
+        "local_language_id": "9",
+        "move_target_id": "10",
+        "name": "Selected Pok\u00e9mon"
+    },
+    {
+        "description": "Alle gegnerischen Pok\u00e9mon.",
+        "local_language_id": "6",
+        "move_target_id": "11",
+        "name": "Alle Gegner"
+    },
+    {
+        "description": "All opposing Pok\u00e9mon.",
+        "local_language_id": "9",
+        "move_target_id": "11",
+        "name": "All opponents"
+    },
+    {
+        "description": "Das komplette Feld. Betrifft alle Pok\u00e9mon.",
+        "local_language_id": "6",
+        "move_target_id": "12",
+        "name": "Komplette Feld"
+    },
+    {
+        "description": "The entire field. Affects all Pok\u00e9mon.",
+        "local_language_id": "9",
+        "move_target_id": "12",
+        "name": "Entire field"
+    },
+    {
+        "description": "Der Anwender und seine Partner.",
+        "local_language_id": "6",
+        "move_target_id": "13",
+        "name": "Anwender und Partner"
+    },
+    {
+        "description": "The user and its allies.",
+        "local_language_id": "9",
+        "move_target_id": "13",
+        "name": "User and allies"
+    },
+    {
+        "description": "Jedes Pok\u00e9mon auf dem Feld.",
+        "local_language_id": "6",
+        "move_target_id": "14",
+        "name": "Jedes Pok\u00e9mon"
+    },
+    {
+        "description": "Every Pok\u00e9mon on the field.",
+        "local_language_id": "9",
+        "move_target_id": "14",
+        "name": "All Pok\u00e9mon"
+    }
+]

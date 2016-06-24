@@ -1,0 +1,98 @@
+[
+    {
+        "generation_id": "1",
+        "id": "1",
+        "identifier": "red-blue",
+        "order": "1"
+    },
+    {
+        "generation_id": "1",
+        "id": "2",
+        "identifier": "yellow",
+        "order": "2"
+    },
+    {
+        "generation_id": "2",
+        "id": "3",
+        "identifier": "gold-silver",
+        "order": "3"
+    },
+    {
+        "generation_id": "2",
+        "id": "4",
+        "identifier": "crystal",
+        "order": "4"
+    },
+    {
+        "generation_id": "3",
+        "id": "5",
+        "identifier": "ruby-sapphire",
+        "order": "5"
+    },
+    {
+        "generation_id": "3",
+        "id": "6",
+        "identifier": "emerald",
+        "order": "6"
+    },
+    {
+        "generation_id": "3",
+        "id": "7",
+        "identifier": "firered-leafgreen",
+        "order": "9"
+    },
+    {
+        "generation_id": "4",
+        "id": "8",
+        "identifier": "diamond-pearl",
+        "order": "10"
+    },
+    {
+        "generation_id": "4",
+        "id": "9",
+        "identifier": "platinum",
+        "order": "11"
+    },
+    {
+        "generation_id": "4",
+        "id": "10",
+        "identifier": "heartgold-soulsilver",
+        "order": "12"
+    },
+    {
+        "generation_id": "5",
+        "id": "11",
+        "identifier": "black-white",
+        "order": "13"
+    },
+    {
+        "generation_id": "3",
+        "id": "12",
+        "identifier": "colosseum",
+        "order": "7"
+    },
+    {
+        "generation_id": "3",
+        "id": "13",
+        "identifier": "xd",
+        "order": "8"
+    },
+    {
+        "generation_id": "5",
+        "id": "14",
+        "identifier": "black-2-white-2",
+        "order": "14"
+    },
+    {
+        "generation_id": "6",
+        "id": "15",
+        "identifier": "x-y",
+        "order": "15"
+    },
+    {
+        "generation_id": "6",
+        "id": "16",
+        "identifier": "omega-ruby-alpha-sapphire",
+        "order": "16"
+    }
+]

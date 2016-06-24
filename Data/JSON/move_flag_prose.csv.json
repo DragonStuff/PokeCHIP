@@ -1,0 +1,242 @@
+[
+    {
+        "description": "Der Anwender ber\u00fchrt das Ziel. Dies l\u00f6st mahcne F\u00e4higkeiten aus (z.B. []{ability:static}) und Gegenst\u00e4nde (z.B. []{item:sticky-barb}).",
+        "local_language_id": "6",
+        "move_flag_id": "1",
+        "name": "Kontakt"
+    },
+    {
+        "description": "User touches the target. This triggers some abilities (e.g.",
+        "local_language_id": "9",
+        "move_flag_id": "1",
+        "name": "Makes contact"
+    },
+    {
+        "description": "Diese F\u00e4higkeit hat eine Aufladerunde",
+        "local_language_id": "6",
+        "move_flag_id": "2",
+        "name": "Hat eine Aufladerunde"
+    },
+    {
+        "description": "This move has a charging turn that can be skipped with a []{item:power-herb}.",
+        "local_language_id": "9",
+        "move_flag_id": "2",
+        "name": "Has a charging turn"
+    },
+    {
+        "description": "Die Runde nach dieser F\u00e4higkeit wird ben\u00f6tigt",
+        "local_language_id": "6",
+        "move_flag_id": "3",
+        "name": "Muss aufladen"
+    },
+    {
+        "description": "The turn after this move is used",
+        "local_language_id": "9",
+        "move_flag_id": "3",
+        "name": "Must recharge"
+    },
+    {
+        "description": "Diese F\u00e4higkeit funktioniert nicht",
+        "local_language_id": "6",
+        "move_flag_id": "4",
+        "name": "Blockiert von Scanner and Schutzschild"
+    },
+    {
+        "description": "This move will not work if the target has used []{move:detect} or []{move:protect} this turn.",
+        "local_language_id": "9",
+        "move_flag_id": "4",
+        "name": "Blocked by Detect and Protect"
+    },
+    {
+        "description": "Diese F\u00e4higkeit k\u00f6nnte reflektiert mit []{move:magic-coat} oder []{ability:magic-bounce} reflektiert werden.",
+        "local_language_id": "6",
+        "move_flag_id": "5",
+        "name": "Reflektierbar"
+    },
+    {
+        "description": "This move may be reflected back at the user with []{move:magic-coat} or []{ability:magic-bounce}.",
+        "local_language_id": "9",
+        "move_flag_id": "5",
+        "name": "Reflectable"
+    },
+    {
+        "description": "Diese F\u00e4higkeit kann \u00fcbernommen werden",
+        "local_language_id": "6",
+        "move_flag_id": "6",
+        "name": "\u00dcbernehmbar"
+    },
+    {
+        "description": "This move will be stolen if another Pok\u00e9mon has used []{move:snatch} this turn.",
+        "local_language_id": "9",
+        "move_flag_id": "6",
+        "name": "Snatchable"
+    },
+    {
+        "description": "Ein von dieser F\u00e4higkeit getroffenes Pok\u00e9mon kann []{move:mirror-move} nutzen um diese F\u00e4higkeit zu kopieren.",
+        "local_language_id": "6",
+        "move_flag_id": "7",
+        "name": "Kopierbar von Spiegeltrick"
+    },
+    {
+        "description": "A Pok\u00e9mon targeted by this move can use []{move:mirror-move} to copy it.",
+        "local_language_id": "9",
+        "move_flag_id": "7",
+        "name": "Copied by Mirror Move"
+    },
+    {
+        "description": "Diese F\u00e4higkeit hat die 1.2\u00d7 Kraft",
+        "local_language_id": "6",
+        "move_flag_id": "8",
+        "name": "Hieb basierend"
+    },
+    {
+        "description": "This move has 1.2\u00d7 its usual power when used by a Pok\u00e9mon with []{ability:iron-fist}.",
+        "local_language_id": "9",
+        "move_flag_id": "8",
+        "name": "Punch-based"
+    },
+    {
+        "description": "Pok\u00e9mon mit []{ability:soundproof} sind immun gegen diese F\u00e4higkeit.",
+        "local_language_id": "6",
+        "move_flag_id": "9",
+        "name": "Sound basierend"
+    },
+    {
+        "description": "Pok\u00e9mon with []{ability:soundproof} are immune to this move.",
+        "local_language_id": "9",
+        "move_flag_id": "9",
+        "name": "Sound-based"
+    },
+    {
+        "description": "Diese F\u00e4higkeit kann nicht bei hoher []{move:gravity} genutzt werden.",
+        "local_language_id": "6",
+        "move_flag_id": "10",
+        "name": "Nicht nutzbar bei hoher Erdanziehung"
+    },
+    {
+        "description": "This move cannot be used in high []{move:gravity}.",
+        "local_language_id": "9",
+        "move_flag_id": "10",
+        "name": "Unusable during Gravity"
+    },
+    {
+        "description": "Diese F\u00e4higkeit kann genutzt werden",
+        "local_language_id": "6",
+        "move_flag_id": "11",
+        "name": "Enteist bei benutzung"
+    },
+    {
+        "description": "This move can be used while frozen to force the Pok\u00e9mon to defrost.",
+        "local_language_id": "9",
+        "move_flag_id": "11",
+        "name": "Defrosts when used"
+    },
+    {
+        "description": "In 3er K\u00e4mpfen trifft diese F\u00e4higkeit den entferntesten Gegner.",
+        "local_language_id": "6",
+        "move_flag_id": "12",
+        "name": "Trifft gegen\u00fcber liegende Seite in 3er K\u00e4mpfen"
+    },
+    {
+        "description": "In triple battles",
+        "local_language_id": "9",
+        "move_flag_id": "12",
+        "name": "Targets opposite side in triples"
+    },
+    {
+        "description": "Diese F\u00e4higkeit wird von []{move:heal-block} blockiert.",
+        "local_language_id": "6",
+        "move_flag_id": "13",
+        "name": "Heilt"
+    },
+    {
+        "description": "This move is blocked by []{move:heal-block}.",
+        "local_language_id": "9",
+        "move_flag_id": "13",
+        "name": "Heals"
+    },
+    {
+        "description": "Diese F\u00e4higkeit ignoriert den []{move:substitute} des Ziels.",
+        "local_language_id": "6",
+        "move_flag_id": "14",
+        "name": "Ignoriert Delegator"
+    },
+    {
+        "description": "This move ignores the target's []{move:substitute}.",
+        "local_language_id": "9",
+        "move_flag_id": "14",
+        "name": "Ignores Substitute"
+    },
+    {
+        "description": "Pok\u00e9mon mit []{ability:overcoat} und []{type:grass}-Pok\u00e9mon sind immun gegen diese F\u00e4higkeit.",
+        "local_language_id": "6",
+        "move_flag_id": "15",
+        "name": "Pulver basierend"
+    },
+    {
+        "description": "Pok\u00e9mon with []{ability:overcoat} and []{type:grass}-type Pok\u00e9mon are immune to this move.",
+        "local_language_id": "9",
+        "move_flag_id": "15",
+        "name": "Powder-based"
+    },
+    {
+        "description": "Diese F\u00e4higkeit hat die 1.5\u00d7 Kraft",
+        "local_language_id": "6",
+        "move_flag_id": "16",
+        "name": "Kiefer basierend"
+    },
+    {
+        "description": "This move has 1.5\u00d7 its usual power when used by a Pok\u00e9mon with []{ability:strong-jaw}.",
+        "local_language_id": "9",
+        "move_flag_id": "16",
+        "name": "Jaw-based"
+    },
+    {
+        "description": "Diese F\u00e4higkeit hat die 1.5\u00d7 Kraft",
+        "local_language_id": "6",
+        "move_flag_id": "17",
+        "name": "Megawumme basierend"
+    },
+    {
+        "description": "This move has 1.5\u00d7 its usual power when used by a Pok\u00e9mon with []{ability:mega-launcher}.",
+        "local_language_id": "9",
+        "move_flag_id": "17",
+        "name": "Pulse-based"
+    },
+    {
+        "description": "Diese F\u00e4higkeit wird von []{ability:bulletproof} blockiert.",
+        "local_language_id": "6",
+        "move_flag_id": "18",
+        "name": "Ballistik basierend"
+    },
+    {
+        "description": "This move is blocked by []{ability:bulletproof}.",
+        "local_language_id": "9",
+        "move_flag_id": "18",
+        "name": "Ballistics-based"
+    },
+    {
+        "description": "Diese F\u00e4higkeit wird durch []{ability:aroma-veil} blockiert und wird durch []{item:mental-herb} geheilt.",
+        "local_language_id": "6",
+        "move_flag_id": "19",
+        "name": "Psychische Effekte"
+    },
+    {
+        "description": "This move is blocked by []{ability:aroma-veil} and cured by []{item:mental-herb}.",
+        "local_language_id": "9",
+        "move_flag_id": "19",
+        "name": "Mental effects"
+    },
+    {
+        "description": "Diese F\u00e4higkeit ist in Himmelsk\u00e4mpfen nicht nutzbar.",
+        "local_language_id": "6",
+        "move_flag_id": "20",
+        "name": "Nicht Nutzbar in Himmelsk\u00e4mpfen"
+    },
+    {
+        "description": "This move is unusable during Sky Battles.",
+        "local_language_id": "9",
+        "move_flag_id": "20",
+        "name": "Unusable during Sky Battles"
+    }
+]

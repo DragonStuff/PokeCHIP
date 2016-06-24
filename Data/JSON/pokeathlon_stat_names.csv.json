@@ -1,0 +1,52 @@
+[
+    {
+        "local_language_id": "5",
+        "name": "Vitesse",
+        "pokeathlon_stat_id": "1"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Speed",
+        "pokeathlon_stat_id": "1"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Force",
+        "pokeathlon_stat_id": "2"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Power",
+        "pokeathlon_stat_id": "2"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Habilet\u00e9",
+        "pokeathlon_stat_id": "3"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Skill",
+        "pokeathlon_stat_id": "3"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Endurance",
+        "pokeathlon_stat_id": "4"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Stamina",
+        "pokeathlon_stat_id": "4"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Saut",
+        "pokeathlon_stat_id": "5"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Jump",
+        "pokeathlon_stat_id": "5"
+    }
+]

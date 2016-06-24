@@ -1,15 +1,15 @@
 ability_changelog_id,local_language_id,effect
-1,9,Has no effect in battle.
-2,9,Does not prevent regular KOs from full [HP]{mechanic:hp}.
-3,9,Has no overworld effect.
+1,9,"Has no effect in battle."
+2,9,"Does not prevent regular KOs from full [HP]{mechanic:hp}."
+3,9,"Has no overworld effect."
 4,9,"Does not absorb non-damaging []{type:electric} moves, i.e. []{move:thunder-wave}."
-5,9,Triggers on every hit of multiple-hit moves.
-6,9,[]{move:will-o-wisp} does not trigger this ability for Pokémon immune to [burns]{mechanic:burn}.
-7,9,Has no overworld effect.
+5,9,"Triggers on every hit of multiple-hit moves."
+6,9,"[]{move:will-o-wisp} does not trigger this ability for Pokémon immune to [burns]{mechanic:burn}."
+7,9,"Has no overworld effect."
 8,9,Has no overworld effect.
 9,9,Does not take effect if acquired after entering battle.
 10,9,Affects other Pokémon with this ability.
-11,9,Inflicts only 1/16 of the attacker's maximum [HP]{mechanic:hp} in damage.
+11,9,"Inflicts only 1/16 of the attacker's maximum [HP]{mechanic:hp} in damage."
 12,9,"[]{move:fire-fang} and moves that inflict [typeless damage]{mechanic:typeless-damage} ignore this ability regardless of type."
 13,9,Has no overworld effect.
 14,9,Cannot influence the natures of Pokémon encountered by interacting with them on the overworld.

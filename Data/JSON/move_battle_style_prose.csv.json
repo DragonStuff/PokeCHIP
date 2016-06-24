@@ -1,0 +1,32 @@
+[
+    {
+        "local_language_id": "5",
+        "move_battle_style_id": "1",
+        "name": "Attaque"
+    },
+    {
+        "local_language_id": "9",
+        "move_battle_style_id": "1",
+        "name": "Attack"
+    },
+    {
+        "local_language_id": "5",
+        "move_battle_style_id": "2",
+        "name": "D\u00e9fense"
+    },
+    {
+        "local_language_id": "9",
+        "move_battle_style_id": "2",
+        "name": "Defense"
+    },
+    {
+        "local_language_id": "5",
+        "move_battle_style_id": "3",
+        "name": "Assistance"
+    },
+    {
+        "local_language_id": "9",
+        "move_battle_style_id": "3",
+        "name": "Support"
+    }
+]

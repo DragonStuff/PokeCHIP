@@ -1,0 +1,104 @@
+[
+    {
+        "description": "Wird gelernt",
+        "local_language_id": "6",
+        "name": "Level up",
+        "pokemon_move_method_id": "1"
+    },
+    {
+        "description": "Learned when a Pok\u00e9mon reaches a certain level.",
+        "local_language_id": "9",
+        "name": "Level up",
+        "pokemon_move_method_id": "1"
+    },
+    {
+        "description": "Erscheint bei einem frisch geschl\u00fcpften Pok\u00e9mon",
+        "local_language_id": "6",
+        "name": "Ei",
+        "pokemon_move_method_id": "2"
+    },
+    {
+        "description": "Appears on a newly-hatched Pok\u00e9mon",
+        "local_language_id": "9",
+        "name": "Egg",
+        "pokemon_move_method_id": "2"
+    },
+    {
+        "description": "Kann jederzeit von einem NPC erlernt werden.",
+        "local_language_id": "6",
+        "name": "Tutor",
+        "pokemon_move_method_id": "3"
+    },
+    {
+        "description": "Can be taught at any time by an NPC.",
+        "local_language_id": "9",
+        "name": "Tutor",
+        "pokemon_move_method_id": "3"
+    },
+    {
+        "description": "Kann jederzeit durch das benutzen eines TM oder VM erlernt werden.",
+        "local_language_id": "6",
+        "name": "Maschine",
+        "pokemon_move_method_id": "4"
+    },
+    {
+        "description": "Can be taught at any time by using a TM or HM.",
+        "local_language_id": "9",
+        "name": "Machine",
+        "pokemon_move_method_id": "4"
+    },
+    {
+        "description": "Wird gelernt",
+        "local_language_id": "6",
+        "name": "Stadium: Surfendes Pikachu",
+        "pokemon_move_method_id": "5"
+    },
+    {
+        "description": "Learned when a non-rental Pikachu helps beat Prime Cup Master Ball R-2. It must participate in every battle",
+        "local_language_id": "9",
+        "name": "Stadium: Surfing Pikachu",
+        "pokemon_move_method_id": "5"
+    },
+    {
+        "description": "Erscheint bei einem Pichu dessen Mutter einen Kugelblitz trug. Der Vater darf nicht Ditto sein.",
+        "local_language_id": "6",
+        "name": "Volttackle Pichu",
+        "pokemon_move_method_id": "6"
+    },
+    {
+        "description": "Appears on a Pichu whose mother was holding a Light Ball. The father cannot be Ditto.",
+        "local_language_id": "9",
+        "name": "Volt Tackle Pichu",
+        "pokemon_move_method_id": "6"
+    },
+    {
+        "description": "Appears on a Shadow Pok\u00e9mon as it becomes increasingly purified.",
+        "local_language_id": "9",
+        "name": "Colosseum: Purification",
+        "pokemon_move_method_id": "7"
+    },
+    {
+        "description": "Appears on a Snatched Shadow Pok\u00e9mon.",
+        "local_language_id": "9",
+        "name": "XD: Shadow",
+        "pokemon_move_method_id": "8"
+    },
+    {
+        "description": "Appears on a Shadow Pok\u00e9mon as it becomes increasingly purified.",
+        "local_language_id": "9",
+        "name": "XD: Purification",
+        "pokemon_move_method_id": "9"
+    },
+    {
+        "description": "Erscheint",
+        "local_language_id": "6",
+        "name": "Rotom Formen",
+        "pokemon_move_method_id": "10"
+    },
+    {
+        "description": "Appears when Rotom changes to this form. Disappears if Rotom becomes another form and this move can only be learned by form change.",
+        "local_language_id": "9",
+        "name": "Rotom Form",
+        "pokemon_move_method_id": "10"
+    }
+]

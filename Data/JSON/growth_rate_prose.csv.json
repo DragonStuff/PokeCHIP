@@ -1,0 +1,92 @@
+[
+    {
+        "growth_rate_id": "1",
+        "local_language_id": "5",
+        "name": "lente"
+    },
+    {
+        "growth_rate_id": "1",
+        "local_language_id": "6",
+        "name": "langsam"
+    },
+    {
+        "growth_rate_id": "1",
+        "local_language_id": "9",
+        "name": "slow"
+    },
+    {
+        "growth_rate_id": "2",
+        "local_language_id": "5",
+        "name": "moyenne"
+    },
+    {
+        "growth_rate_id": "2",
+        "local_language_id": "6",
+        "name": "mittel"
+    },
+    {
+        "growth_rate_id": "2",
+        "local_language_id": "9",
+        "name": "medium"
+    },
+    {
+        "growth_rate_id": "3",
+        "local_language_id": "5",
+        "name": "rapide"
+    },
+    {
+        "growth_rate_id": "3",
+        "local_language_id": "6",
+        "name": "schnell"
+    },
+    {
+        "growth_rate_id": "3",
+        "local_language_id": "9",
+        "name": "fast"
+    },
+    {
+        "growth_rate_id": "4",
+        "local_language_id": "5",
+        "name": "parabolique"
+    },
+    {
+        "growth_rate_id": "4",
+        "local_language_id": "6",
+        "name": "mittel langsam"
+    },
+    {
+        "growth_rate_id": "4",
+        "local_language_id": "9",
+        "name": "medium slow"
+    },
+    {
+        "growth_rate_id": "5",
+        "local_language_id": "5",
+        "name": "erratique"
+    },
+    {
+        "growth_rate_id": "5",
+        "local_language_id": "6",
+        "name": "langsam"
+    },
+    {
+        "growth_rate_id": "5",
+        "local_language_id": "9",
+        "name": "slow then very fast"
+    },
+    {
+        "growth_rate_id": "6",
+        "local_language_id": "5",
+        "name": "fluctuante"
+    },
+    {
+        "growth_rate_id": "6",
+        "local_language_id": "6",
+        "name": "schnell"
+    },
+    {
+        "growth_rate_id": "6",
+        "local_language_id": "9",
+        "name": "fast then very slow"
+    }
+]

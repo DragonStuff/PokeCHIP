@@ -1,0 +1,257 @@
+[
+    {
+        "ability_changelog_id": "1",
+        "effect": "Has no effect in battle.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "2",
+        "effect": "Does not prevent regular KOs from full [HP]{mechanic:hp}.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "3",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "4",
+        "effect": "Does not absorb non-damaging []{type:electric} moves",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "5",
+        "effect": "Triggers on every hit of multiple-hit moves.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "6",
+        "effect": "[]{move:will-o-wisp} does not trigger this ability for Pok\u00e9mon immune to [burns]{mechanic:burn}.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "7",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "8",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "9",
+        "effect": "Does not take effect if acquired after entering battle.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "10",
+        "effect": "Affects other Pok\u00e9mon with this ability.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "11",
+        "effect": "Inflicts only 1/16 of the attacker's maximum [HP]{mechanic:hp} in damage.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "12",
+        "effect": "[]{move:fire-fang} and moves that inflict [typeless damage]{mechanic:typeless-damage} ignore this ability regardless of type.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "13",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "14",
+        "effect": "Cannot influence the natures of Pok\u00e9mon encountered by interacting with them on the overworld.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "15",
+        "effect": "Passes back bad [poison]{mechanic:poison} as regular poison.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "16",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "17",
+        "effect": "Does not affect non-damaging []{type:electric} moves",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "18",
+        "effect": "Redirects []{type:electric} moves without negating them or granting any [Special Attack]{mechanic:special-attack} boost. Does not redirect []{move:hidden-power}.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "19",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "20",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "21",
+        "effect": "Prevents []{move:heal-bell} from curing the Pok\u00e9mon",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "22",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "23",
+        "effect": "Does not affect friendly Pok\u00e9mon's moves that target all other Pok\u00e9mon. This ability's presence is not announced upon entering battle.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "24",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "25",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "26",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "27",
+        "effect": "Doubles []{move:cut}'s grass-cutting radius on the overworld if any party Pok\u00e9mon has this ability.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "28",
+        "effect": "Has no effect in battle.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "29",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "30",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "31",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "32",
+        "effect": "Does not take effect during [sleep]{mechanic:sleep}.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "33",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "34",
+        "effect": "Increases the frequency of cries heard on the overworld if any party Pok\u00e9mon has this ability.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "35",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "36",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "37",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "38",
+        "effect": "[Poison]{mechanic:poison} still damages the Pok\u00e9mon outside of battle.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "39",
+        "effect": "[Paralysis]{mechanic:paralysis} cannot prevent the Pok\u00e9mon from moving",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "40",
+        "effect": "Due to a glitch",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "41",
+        "effect": "[]{move:rest} works as usual during [strong sunlight]{mechanic:strong-sunlight}.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "42",
+        "effect": "[]{move:fling} can be used as usual.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "43",
+        "effect": "Redirects []{type:water} moves without negating them or granting any [Special Attack]{mechanic:special-attack} boost. Does not redirect []{move:hidden-power}.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "44",
+        "effect": "Can copy []{ability:flower-gift} and []{ability:wonder-guard}.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "45",
+        "effect": "Can copy []{ability:forecast} and []{ability:trace}.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "46",
+        "effect": "Powers up only when paired with []{ability:minus}.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "47",
+        "effect": "Powers up only when paired with []{ability:plus}.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "48",
+        "effect": "Chance of taking effect is 30%.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "49",
+        "effect": "[]{move:triple-kick} is unaffected.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "50",
+        "effect": "[]{move:struggle} is unaffected. []{move:helping-hand} and []{move:defense-curl} are not taken into account.",
+        "local_language_id": "9"
+    },
+    {
+        "ability_changelog_id": "51",
+        "effect": "Has no overworld effect.",
+        "local_language_id": "9"
+    }
+]

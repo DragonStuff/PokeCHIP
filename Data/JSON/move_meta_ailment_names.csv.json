@@ -1,0 +1,202 @@
+[
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "-1",
+        "name": "????"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "-1",
+        "name": "????"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "0",
+        "name": "Aucun"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "0",
+        "name": "none"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "1",
+        "name": "Paralysie"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "1",
+        "name": "Paralysis"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "2",
+        "name": "Sommeil"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "2",
+        "name": "Sleep"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "3",
+        "name": "Gel"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "3",
+        "name": "Freeze"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "4",
+        "name": "Br\u00fblure"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "4",
+        "name": "Burn"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "5",
+        "name": "Empoisonnement"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "5",
+        "name": "Poison"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "6",
+        "name": "Confusion"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "6",
+        "name": "Confusion"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "7",
+        "name": "Attraction"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "7",
+        "name": "Infatuation"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "8",
+        "name": "Pi\u00e8ge"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "8",
+        "name": "Trap"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "9",
+        "name": "Cauchemar"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "9",
+        "name": "Nightmare"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "12",
+        "name": "Tourmente"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "12",
+        "name": "Torment"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "13",
+        "name": "Entrave"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "13",
+        "name": "Disable"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "14",
+        "name": "B\u00e2illement"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "14",
+        "name": "Yawn"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "15",
+        "name": "Anti-Soin"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "15",
+        "name": "Heal Block"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "17",
+        "name": "Aucune immunit\u00e9 aux types"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "17",
+        "name": "No type immunity"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "18",
+        "name": "Vampigraine"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "18",
+        "name": "Leech Seed"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "19",
+        "name": "Embargo"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "19",
+        "name": "Embargo"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "20",
+        "name": "Requiem"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "20",
+        "name": "Perish Song"
+    },
+    {
+        "local_language_id": "5",
+        "move_meta_ailment_id": "21",
+        "name": "Racines"
+    },
+    {
+        "local_language_id": "9",
+        "move_meta_ailment_id": "21",
+        "name": "Ingrain"
+    }
+]

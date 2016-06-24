@@ -1,0 +1,286 @@
+[
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "1"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "1"
+    },
+    {
+        "pokemon_move_method_id": "5",
+        "version_group_id": "1"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "2"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "2"
+    },
+    {
+        "pokemon_move_method_id": "5",
+        "version_group_id": "2"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "3"
+    },
+    {
+        "pokemon_move_method_id": "2",
+        "version_group_id": "3"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "3"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "4"
+    },
+    {
+        "pokemon_move_method_id": "2",
+        "version_group_id": "4"
+    },
+    {
+        "pokemon_move_method_id": "3",
+        "version_group_id": "4"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "4"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "5"
+    },
+    {
+        "pokemon_move_method_id": "2",
+        "version_group_id": "5"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "5"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "6"
+    },
+    {
+        "pokemon_move_method_id": "2",
+        "version_group_id": "6"
+    },
+    {
+        "pokemon_move_method_id": "3",
+        "version_group_id": "6"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "6"
+    },
+    {
+        "pokemon_move_method_id": "6",
+        "version_group_id": "6"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "7"
+    },
+    {
+        "pokemon_move_method_id": "2",
+        "version_group_id": "7"
+    },
+    {
+        "pokemon_move_method_id": "3",
+        "version_group_id": "7"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "7"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "8"
+    },
+    {
+        "pokemon_move_method_id": "2",
+        "version_group_id": "8"
+    },
+    {
+        "pokemon_move_method_id": "3",
+        "version_group_id": "8"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "8"
+    },
+    {
+        "pokemon_move_method_id": "6",
+        "version_group_id": "8"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "9"
+    },
+    {
+        "pokemon_move_method_id": "2",
+        "version_group_id": "9"
+    },
+    {
+        "pokemon_move_method_id": "3",
+        "version_group_id": "9"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "9"
+    },
+    {
+        "pokemon_move_method_id": "6",
+        "version_group_id": "9"
+    },
+    {
+        "pokemon_move_method_id": "10",
+        "version_group_id": "9"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "10"
+    },
+    {
+        "pokemon_move_method_id": "2",
+        "version_group_id": "10"
+    },
+    {
+        "pokemon_move_method_id": "3",
+        "version_group_id": "10"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "10"
+    },
+    {
+        "pokemon_move_method_id": "6",
+        "version_group_id": "10"
+    },
+    {
+        "pokemon_move_method_id": "10",
+        "version_group_id": "10"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "11"
+    },
+    {
+        "pokemon_move_method_id": "2",
+        "version_group_id": "11"
+    },
+    {
+        "pokemon_move_method_id": "3",
+        "version_group_id": "11"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "11"
+    },
+    {
+        "pokemon_move_method_id": "6",
+        "version_group_id": "11"
+    },
+    {
+        "pokemon_move_method_id": "10",
+        "version_group_id": "11"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "12"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "12"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "13"
+    },
+    {
+        "pokemon_move_method_id": "3",
+        "version_group_id": "13"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "13"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "14"
+    },
+    {
+        "pokemon_move_method_id": "2",
+        "version_group_id": "14"
+    },
+    {
+        "pokemon_move_method_id": "3",
+        "version_group_id": "14"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "14"
+    },
+    {
+        "pokemon_move_method_id": "6",
+        "version_group_id": "14"
+    },
+    {
+        "pokemon_move_method_id": "10",
+        "version_group_id": "14"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "15"
+    },
+    {
+        "pokemon_move_method_id": "2",
+        "version_group_id": "15"
+    },
+    {
+        "pokemon_move_method_id": "3",
+        "version_group_id": "15"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "15"
+    },
+    {
+        "pokemon_move_method_id": "6",
+        "version_group_id": "15"
+    },
+    {
+        "pokemon_move_method_id": "10",
+        "version_group_id": "15"
+    },
+    {
+        "pokemon_move_method_id": "1",
+        "version_group_id": "16"
+    },
+    {
+        "pokemon_move_method_id": "2",
+        "version_group_id": "16"
+    },
+    {
+        "pokemon_move_method_id": "3",
+        "version_group_id": "16"
+    },
+    {
+        "pokemon_move_method_id": "4",
+        "version_group_id": "16"
+    },
+    {
+        "pokemon_move_method_id": "6",
+        "version_group_id": "16"
+    },
+    {
+        "pokemon_move_method_id": "10",
+        "version_group_id": "16"
+    }
+]

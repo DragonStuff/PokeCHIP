@@ -1,0 +1,200 @@
+[
+    {
+        "contest_effect_id": "1",
+        "effect": "Gives a high number of appeal points wth no other effects.",
+        "flavor_text": "A highly appealing move.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "2",
+        "effect": "If the Pok\u00e9mon that appealed before the user earned less than three appeal points",
+        "flavor_text": "Affected by how well the appeal in front goes.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "3",
+        "effect": " the user is more easily startled.",
+        "flavor_text": "After this move",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "4",
+        "effect": "Attempts to jam the Pok\u00e9mon that appealed before the user.",
+        "flavor_text": "Badly startles the Pok\u00e9mon in front.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "5",
+        "effect": "Attempts to jam all Pok\u00e9mon that have appealed this turn.",
+        "flavor_text": "Badly startles those that have made appeals.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "6",
+        "effect": " and misses one turn of appeals.",
+        "flavor_text": "Jams the others",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "7",
+        "effect": " but allows no more to the end.",
+        "flavor_text": "Makes a great appeal",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "8",
+        "effect": "Attempts to jam all Pok\u00e9mon that have appealed this turn.",
+        "flavor_text": "Startles all Pok\u00e9mon that have done their appeals.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "9",
+        "effect": "Attempts to jam the Pok\u00e9mon that appealed before the user.",
+        "flavor_text": "Startles the Pok\u00e9mon that appealed before the user.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "10",
+        "effect": "Attempts to jam all Pok\u00e9mon that have appealed this turn. If a Pok\u00e9mon is in combo standby status",
+        "flavor_text": "Startles the Pok\u00e9mon that has the judge's attention.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "11",
+        "effect": "If the Applause meter is empty or at one",
+        "flavor_text": "The appeal works best the more the crowd is excited.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "12",
+        "effect": "If the last Pok\u00e9mon's appeal is the same type as this move",
+        "flavor_text": "Works well if it's the same type as the one before.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "13",
+        "effect": "Always adds a point to the applause meter",
+        "flavor_text": "An appeal that excites the audience in any contest.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "14",
+        "effect": "Attempts to jam all Pok\u00e9mon that have appealed this turn for half their appeal points (minimum 1).",
+        "flavor_text": "Badly startles all Pok\u00e9mon that made good appeals.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "15",
+        "effect": "Prevents jamming for the rest of this turn.",
+        "flavor_text": "Can avoid being startled by others.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "16",
+        "effect": "Prevents the next jam on this turn.",
+        "flavor_text": "Can avoid being startled by others once.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "17",
+        "effect": "Repeated use does not incur a penalty.",
+        "flavor_text": "Can be repeatedly used without boring the judge.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "18",
+        "effect": "Attempts to make all following Pok\u00e9mon nervous (and thus unable to appeal).",
+        "flavor_text": "Makes all Pok\u00e9mon after the user nervous.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "19",
+        "effect": "User earns appeal points equal to the points the previous Pok\u00e9mon earned plus one.",
+        "flavor_text": "Makes the appeal as good as the one before it.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "20",
+        "effect": "User earns appeal points equal to half the points ALL the previous Pok\u00e9mon earned plus one.",
+        "flavor_text": "Makes the appeal as good as those before it.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "21",
+        "effect": "Shuffles the next turn's turn order.",
+        "flavor_text": "Scrambles up the order of appeals on the next turn.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "22",
+        "effect": "Cancels combo standby status for all Pok\u00e9mon that have appealed this turn.",
+        "flavor_text": "Shifts the judge's attention from others.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "23",
+        "effect": "Attempts to jam all Pok\u00e9mon that have appealed this turn. If a Pok\u00e9mon used the same type move as this one",
+        "flavor_text": "Startles Pok\u00e9mon that made a same-type appeal.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "24",
+        "effect": "Prevents the Applause Meter from rising for the rest of the turn.",
+        "flavor_text": "Temporarily stops the crowd from getting excited.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "25",
+        "effect": "Randomly earns one",
+        "flavor_text": "The appeal's quality depends on its timing.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "26",
+        "effect": "If user appeals first this turn",
+        "flavor_text": "The appeal works better the later it is performed.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "27",
+        "effect": "If user appeals first this turn",
+        "flavor_text": "The appeal works great if performed first.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "28",
+        "effect": "If user appeals last this turn",
+        "flavor_text": "The appeal works great if performed last.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "29",
+        "effect": "If user has no stars",
+        "flavor_text": "The appeal works well if the user's condition is good.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "30",
+        "effect": "User will go first next turn.",
+        "flavor_text": "The next appeal can be made earlier next turn.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "31",
+        "effect": "User will go last next turn.",
+        "flavor_text": "The next appeal can be made later next turn.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "32",
+        "effect": "User gains one star.",
+        "flavor_text": "Ups the user's condition. Helps prevent nervousness.",
+        "local_language_id": "9"
+    },
+    {
+        "contest_effect_id": "33",
+        "effect": "Removes all stars from all Pok\u00e9mon that have appealed this turn.",
+        "flavor_text": "Worsens the condition of those that made appeals.",
+        "local_language_id": "9"
+    }
+]

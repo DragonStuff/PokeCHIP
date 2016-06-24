@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "identifier": "contact"
+    },
+    {
+        "id": "2",
+        "identifier": "charge"
+    },
+    {
+        "id": "3",
+        "identifier": "recharge"
+    },
+    {
+        "id": "4",
+        "identifier": "protect"
+    },
+    {
+        "id": "5",
+        "identifier": "reflectable"
+    },
+    {
+        "id": "6",
+        "identifier": "snatch"
+    },
+    {
+        "id": "7",
+        "identifier": "mirror"
+    },
+    {
+        "id": "8",
+        "identifier": "punch"
+    },
+    {
+        "id": "9",
+        "identifier": "sound"
+    },
+    {
+        "id": "10",
+        "identifier": "gravity"
+    },
+    {
+        "id": "11",
+        "identifier": "defrost"
+    },
+    {
+        "id": "12",
+        "identifier": "distance"
+    },
+    {
+        "id": "13",
+        "identifier": "heal"
+    },
+    {
+        "id": "14",
+        "identifier": "authentic"
+    },
+    {
+        "id": "15",
+        "identifier": "powder"
+    },
+    {
+        "id": "16",
+        "identifier": "bite"
+    },
+    {
+        "id": "17",
+        "identifier": "pulse"
+    },
+    {
+        "id": "18",
+        "identifier": "ballistics"
+    },
+    {
+        "id": "19",
+        "identifier": "mental"
+    },
+    {
+        "id": "20",
+        "identifier": "non-sky-battle"
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "local_language_id": "1",
+        "name": "\u9ed2\u3044",
+        "pokemon_color_id": "1"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Noir",
+        "pokemon_color_id": "1"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Schwarz",
+        "pokemon_color_id": "1"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Nero",
+        "pokemon_color_id": "1"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Black",
+        "pokemon_color_id": "1"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u9752\u3044",
+        "pokemon_color_id": "2"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Bleu",
+        "pokemon_color_id": "2"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Blau",
+        "pokemon_color_id": "2"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Blu",
+        "pokemon_color_id": "2"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Blue",
+        "pokemon_color_id": "2"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u8336\u8272",
+        "pokemon_color_id": "3"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Brun",
+        "pokemon_color_id": "3"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Braun",
+        "pokemon_color_id": "3"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Marrone",
+        "pokemon_color_id": "3"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Brown",
+        "pokemon_color_id": "3"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u7070\u8272",
+        "pokemon_color_id": "4"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Gris",
+        "pokemon_color_id": "4"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Grau",
+        "pokemon_color_id": "4"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Grigio",
+        "pokemon_color_id": "4"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Gray",
+        "pokemon_color_id": "4"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u7dd1",
+        "pokemon_color_id": "5"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Vert",
+        "pokemon_color_id": "5"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Gr\u00fcn",
+        "pokemon_color_id": "5"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Verde",
+        "pokemon_color_id": "5"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Green",
+        "pokemon_color_id": "5"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30d4\u30f3\u30af",
+        "pokemon_color_id": "6"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Rose",
+        "pokemon_color_id": "6"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Rosa",
+        "pokemon_color_id": "6"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Rosa",
+        "pokemon_color_id": "6"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Pink",
+        "pokemon_color_id": "6"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30d1\u30fc\u30d1\u30eb",
+        "pokemon_color_id": "7"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Violet",
+        "pokemon_color_id": "7"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Violett",
+        "pokemon_color_id": "7"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Viola",
+        "pokemon_color_id": "7"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Purple",
+        "pokemon_color_id": "7"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u8d64\u3044",
+        "pokemon_color_id": "8"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Rouge",
+        "pokemon_color_id": "8"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Rot",
+        "pokemon_color_id": "8"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Rosso",
+        "pokemon_color_id": "8"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Red",
+        "pokemon_color_id": "8"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u767d\u3044",
+        "pokemon_color_id": "9"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Blanc",
+        "pokemon_color_id": "9"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Wei\u00df",
+        "pokemon_color_id": "9"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Bianco",
+        "pokemon_color_id": "9"
+    },
+    {
+        "local_language_id": "9",
+        "name": "White",
+        "pokemon_color_id": "9"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u9ec4\u8272",
+        "pokemon_color_id": "10"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Jaune",
+        "pokemon_color_id": "10"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Gelb",
+        "pokemon_color_id": "10"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Giallo",
+        "pokemon_color_id": "10"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Yellow",
+        "pokemon_color_id": "10"
+    }
+]

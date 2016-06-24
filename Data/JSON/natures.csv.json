@@ -1,0 +1,227 @@
+[
+    {
+        "decreased_stat_id": "2",
+        "game_index": "0",
+        "hates_flavor_id": "1",
+        "id": "1",
+        "identifier": "hardy",
+        "increased_stat_id": "2",
+        "likes_flavor_id": "1"
+    },
+    {
+        "decreased_stat_id": "2",
+        "game_index": "5",
+        "hates_flavor_id": "1",
+        "id": "2",
+        "identifier": "bold",
+        "increased_stat_id": "3",
+        "likes_flavor_id": "5"
+    },
+    {
+        "decreased_stat_id": "2",
+        "game_index": "15",
+        "hates_flavor_id": "1",
+        "id": "3",
+        "identifier": "modest",
+        "increased_stat_id": "4",
+        "likes_flavor_id": "2"
+    },
+    {
+        "decreased_stat_id": "2",
+        "game_index": "20",
+        "hates_flavor_id": "1",
+        "id": "4",
+        "identifier": "calm",
+        "increased_stat_id": "5",
+        "likes_flavor_id": "4"
+    },
+    {
+        "decreased_stat_id": "2",
+        "game_index": "10",
+        "hates_flavor_id": "1",
+        "id": "5",
+        "identifier": "timid",
+        "increased_stat_id": "6",
+        "likes_flavor_id": "3"
+    },
+    {
+        "decreased_stat_id": "3",
+        "game_index": "1",
+        "hates_flavor_id": "5",
+        "id": "6",
+        "identifier": "lonely",
+        "increased_stat_id": "2",
+        "likes_flavor_id": "1"
+    },
+    {
+        "decreased_stat_id": "3",
+        "game_index": "6",
+        "hates_flavor_id": "5",
+        "id": "7",
+        "identifier": "docile",
+        "increased_stat_id": "3",
+        "likes_flavor_id": "5"
+    },
+    {
+        "decreased_stat_id": "3",
+        "game_index": "16",
+        "hates_flavor_id": "5",
+        "id": "8",
+        "identifier": "mild",
+        "increased_stat_id": "4",
+        "likes_flavor_id": "2"
+    },
+    {
+        "decreased_stat_id": "3",
+        "game_index": "21",
+        "hates_flavor_id": "5",
+        "id": "9",
+        "identifier": "gentle",
+        "increased_stat_id": "5",
+        "likes_flavor_id": "4"
+    },
+    {
+        "decreased_stat_id": "3",
+        "game_index": "11",
+        "hates_flavor_id": "5",
+        "id": "10",
+        "identifier": "hasty",
+        "increased_stat_id": "6",
+        "likes_flavor_id": "3"
+    },
+    {
+        "decreased_stat_id": "4",
+        "game_index": "3",
+        "hates_flavor_id": "2",
+        "id": "11",
+        "identifier": "adamant",
+        "increased_stat_id": "2",
+        "likes_flavor_id": "1"
+    },
+    {
+        "decreased_stat_id": "4",
+        "game_index": "8",
+        "hates_flavor_id": "2",
+        "id": "12",
+        "identifier": "impish",
+        "increased_stat_id": "3",
+        "likes_flavor_id": "5"
+    },
+    {
+        "decreased_stat_id": "4",
+        "game_index": "18",
+        "hates_flavor_id": "2",
+        "id": "13",
+        "identifier": "bashful",
+        "increased_stat_id": "4",
+        "likes_flavor_id": "2"
+    },
+    {
+        "decreased_stat_id": "4",
+        "game_index": "23",
+        "hates_flavor_id": "2",
+        "id": "14",
+        "identifier": "careful",
+        "increased_stat_id": "5",
+        "likes_flavor_id": "4"
+    },
+    {
+        "decreased_stat_id": "5",
+        "game_index": "19",
+        "hates_flavor_id": "4",
+        "id": "15",
+        "identifier": "rash",
+        "increased_stat_id": "4",
+        "likes_flavor_id": "2"
+    },
+    {
+        "decreased_stat_id": "4",
+        "game_index": "13",
+        "hates_flavor_id": "2",
+        "id": "16",
+        "identifier": "jolly",
+        "increased_stat_id": "6",
+        "likes_flavor_id": "3"
+    },
+    {
+        "decreased_stat_id": "5",
+        "game_index": "4",
+        "hates_flavor_id": "4",
+        "id": "17",
+        "identifier": "naughty",
+        "increased_stat_id": "2",
+        "likes_flavor_id": "1"
+    },
+    {
+        "decreased_stat_id": "5",
+        "game_index": "9",
+        "hates_flavor_id": "4",
+        "id": "18",
+        "identifier": "lax",
+        "increased_stat_id": "3",
+        "likes_flavor_id": "5"
+    },
+    {
+        "decreased_stat_id": "5",
+        "game_index": "24",
+        "hates_flavor_id": "4",
+        "id": "19",
+        "identifier": "quirky",
+        "increased_stat_id": "5",
+        "likes_flavor_id": "4"
+    },
+    {
+        "decreased_stat_id": "5",
+        "game_index": "14",
+        "hates_flavor_id": "4",
+        "id": "20",
+        "identifier": "naive",
+        "increased_stat_id": "6",
+        "likes_flavor_id": "3"
+    },
+    {
+        "decreased_stat_id": "6",
+        "game_index": "2",
+        "hates_flavor_id": "3",
+        "id": "21",
+        "identifier": "brave",
+        "increased_stat_id": "2",
+        "likes_flavor_id": "1"
+    },
+    {
+        "decreased_stat_id": "6",
+        "game_index": "7",
+        "hates_flavor_id": "3",
+        "id": "22",
+        "identifier": "relaxed",
+        "increased_stat_id": "3",
+        "likes_flavor_id": "5"
+    },
+    {
+        "decreased_stat_id": "6",
+        "game_index": "17",
+        "hates_flavor_id": "3",
+        "id": "23",
+        "identifier": "quiet",
+        "increased_stat_id": "4",
+        "likes_flavor_id": "2"
+    },
+    {
+        "decreased_stat_id": "6",
+        "game_index": "22",
+        "hates_flavor_id": "3",
+        "id": "24",
+        "identifier": "sassy",
+        "increased_stat_id": "5",
+        "likes_flavor_id": "4"
+    },
+    {
+        "decreased_stat_id": "6",
+        "game_index": "12",
+        "hates_flavor_id": "3",
+        "id": "25",
+        "identifier": "serious",
+        "increased_stat_id": "6",
+        "likes_flavor_id": "3"
+    }
+]

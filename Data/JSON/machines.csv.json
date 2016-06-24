@@ -1,0 +1,7370 @@
+[
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "5",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "5",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "223",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "223",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "264",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "264",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "264",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "264",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "264",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "264",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "468",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "264",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "264",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "468",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "468",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "305",
+        "machine_number": "1",
+        "move_id": "468",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "13",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "13",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "29",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "29",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "337",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "337",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "337",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "337",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "337",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "337",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "337",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "337",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "337",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "337",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "337",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "306",
+        "machine_number": "2",
+        "move_id": "337",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "14",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "14",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "174",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "174",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "352",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "352",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "352",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "352",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "352",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "352",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "473",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "352",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "352",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "473",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "473",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "307",
+        "machine_number": "3",
+        "move_id": "473",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "18",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "18",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "205",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "205",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "347",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "347",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "347",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "347",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "347",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "347",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "347",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "347",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "347",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "347",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "347",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "308",
+        "machine_number": "4",
+        "move_id": "347",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "25",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "25",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "46",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "46",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "46",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "46",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "46",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "46",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "46",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "46",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "46",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "46",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "46",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "46",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "46",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "309",
+        "machine_number": "5",
+        "move_id": "46",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "310",
+        "machine_number": "6",
+        "move_id": "92",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "32",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "32",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "192",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "192",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "258",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "258",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "258",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "258",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "258",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "258",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "258",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "258",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "258",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "258",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "258",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "311",
+        "machine_number": "7",
+        "move_id": "258",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "34",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "34",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "249",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "249",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "339",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "339",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "339",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "339",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "339",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "339",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "339",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "339",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "339",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "339",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "339",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "312",
+        "machine_number": "8",
+        "move_id": "339",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "36",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "36",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "244",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "244",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "331",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "331",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "331",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "331",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "331",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "331",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "474",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "331",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "331",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "474",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "474",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "313",
+        "machine_number": "9",
+        "move_id": "474",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "38",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "38",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "237",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "237",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "237",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "237",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "237",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "237",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "237",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "237",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "237",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "237",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "237",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "237",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "237",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "314",
+        "machine_number": "10",
+        "move_id": "237",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "61",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "61",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "241",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "241",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "241",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "241",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "241",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "241",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "241",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "241",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "241",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "241",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "241",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "241",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "241",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "315",
+        "machine_number": "11",
+        "move_id": "241",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "55",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "55",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "230",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "230",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "269",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "269",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "269",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "269",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "269",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "269",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "269",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "269",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "269",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "269",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "269",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "316",
+        "machine_number": "12",
+        "move_id": "269",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "58",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "58",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "173",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "173",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "58",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "58",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "58",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "58",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "58",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "58",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "58",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "58",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "58",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "58",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "58",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "317",
+        "machine_number": "13",
+        "move_id": "58",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "318",
+        "machine_number": "14",
+        "move_id": "59",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "319",
+        "machine_number": "15",
+        "move_id": "63",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "6",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "6",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "196",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "196",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "113",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "113",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "113",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "113",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "113",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "113",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "113",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "113",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "113",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "113",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "113",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "320",
+        "machine_number": "16",
+        "move_id": "113",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "66",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "66",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "182",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "182",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "182",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "182",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "182",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "182",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "182",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "182",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "182",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "182",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "182",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "182",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "182",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "321",
+        "machine_number": "17",
+        "move_id": "182",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "68",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "68",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "240",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "240",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "240",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "240",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "240",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "240",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "240",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "240",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "240",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "240",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "240",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "240",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "240",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "322",
+        "machine_number": "18",
+        "move_id": "240",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "69",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "69",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "202",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "202",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "202",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "202",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "202",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "202",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "202",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "202",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "477",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "202",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "202",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "477",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "355",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "323",
+        "machine_number": "19",
+        "move_id": "355",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "99",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "99",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "203",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "203",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "219",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "219",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "219",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "219",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "219",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "219",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "219",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "219",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "219",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "219",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "219",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "324",
+        "machine_number": "20",
+        "move_id": "219",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "72",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "72",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "218",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "218",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "218",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "218",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "218",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "218",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "218",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "218",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "218",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "218",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "218",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "218",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "218",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "325",
+        "machine_number": "21",
+        "move_id": "218",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "326",
+        "machine_number": "22",
+        "move_id": "76",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "82",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "82",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "231",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "231",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "231",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "231",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "231",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "231",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "231",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "231",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "479",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "231",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "231",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "479",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "479",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "327",
+        "machine_number": "23",
+        "move_id": "479",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "85",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "85",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "225",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "225",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "85",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "85",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "85",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "85",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "85",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "85",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "85",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "85",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "85",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "85",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "85",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "328",
+        "machine_number": "24",
+        "move_id": "85",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "329",
+        "machine_number": "25",
+        "move_id": "87",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "330",
+        "machine_number": "26",
+        "move_id": "89",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "90",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "90",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "216",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "216",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "216",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "216",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "216",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "216",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "216",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "216",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "216",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "216",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "216",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "216",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "216",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "331",
+        "machine_number": "27",
+        "move_id": "216",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "332",
+        "machine_number": "28",
+        "move_id": "91",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "333",
+        "machine_number": "29",
+        "move_id": "94",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "100",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "100",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "247",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "247",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "247",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "247",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "247",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "247",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "247",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "247",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "247",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "247",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "247",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "247",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "247",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "334",
+        "machine_number": "30",
+        "move_id": "247",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "102",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "102",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "189",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "189",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "280",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "280",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "280",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "280",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "280",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "280",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "280",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "280",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "280",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "280",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "280",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "335",
+        "machine_number": "31",
+        "move_id": "280",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "336",
+        "machine_number": "32",
+        "move_id": "104",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "115",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "115",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "8",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "8",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "115",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "115",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "115",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "115",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "115",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "115",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "115",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "115",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "115",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "115",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "115",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "337",
+        "machine_number": "33",
+        "move_id": "115",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "117",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "117",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "207",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "207",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "351",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "351",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "351",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "351",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "351",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "351",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "482",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "351",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "351",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "482",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "482",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "338",
+        "machine_number": "34",
+        "move_id": "482",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "118",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "118",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "214",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "214",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "53",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "53",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "53",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "53",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "53",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "53",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "53",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "53",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "53",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "53",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "53",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "339",
+        "machine_number": "35",
+        "move_id": "53",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "120",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "120",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "188",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "188",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "188",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "188",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "188",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "188",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "188",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "188",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "188",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "188",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "188",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "188",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "188",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "340",
+        "machine_number": "36",
+        "move_id": "188",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "121",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "121",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "201",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "201",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "201",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "201",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "201",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "201",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "201",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "201",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "201",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "201",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "201",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "201",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "201",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "341",
+        "machine_number": "37",
+        "move_id": "201",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "342",
+        "machine_number": "38",
+        "move_id": "126",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "129",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "129",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "129",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "129",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "317",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "317",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "317",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "317",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "317",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "317",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "317",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "317",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "317",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "317",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "317",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "343",
+        "machine_number": "39",
+        "move_id": "317",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "130",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "130",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "111",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "111",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "332",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "332",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "332",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "332",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "332",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "332",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "332",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "332",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "332",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "332",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "332",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "344",
+        "machine_number": "40",
+        "move_id": "332",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "135",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "135",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "9",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "9",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "259",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "259",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "259",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "259",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "259",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "259",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "259",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "259",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "259",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "259",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "259",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "345",
+        "machine_number": "41",
+        "move_id": "259",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "138",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "138",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "138",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "138",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "263",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "263",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "263",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "263",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "263",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "263",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "263",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "263",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "263",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "263",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "263",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "346",
+        "machine_number": "42",
+        "move_id": "263",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "143",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "143",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "197",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "197",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "290",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "290",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "290",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "290",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "290",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "290",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "488",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "290",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "290",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "488",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "488",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "347",
+        "machine_number": "43",
+        "move_id": "488",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "348",
+        "machine_number": "44",
+        "move_id": "156",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "86",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "86",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "213",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "213",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "213",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "213",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "213",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "213",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "213",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "213",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "213",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "213",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "213",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "213",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "213",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "349",
+        "machine_number": "45",
+        "move_id": "213",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "149",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "149",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "168",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "168",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "168",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "168",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "168",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "168",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "168",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "168",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "168",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "168",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "168",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "168",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "168",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "350",
+        "machine_number": "46",
+        "move_id": "168",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "153",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "153",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "211",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "211",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "211",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "211",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "211",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "211",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "211",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "211",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "490",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "211",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "211",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "490",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "490",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "351",
+        "machine_number": "47",
+        "move_id": "490",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "157",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "157",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "7",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "7",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "285",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "285",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "285",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "285",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "285",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "285",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "496",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "285",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "285",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "496",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "496",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "352",
+        "machine_number": "48",
+        "move_id": "496",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "161",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "161",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "210",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "210",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "289",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "289",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "289",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "289",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "289",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "289",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "497",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "289",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "289",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "497",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "497",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "353",
+        "machine_number": "49",
+        "move_id": "497",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "164",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "164",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "171",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "171",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "315",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "315",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "315",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "315",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "315",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "315",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "315",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "315",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "315",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "315",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "315",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "354",
+        "machine_number": "50",
+        "move_id": "315",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "355",
+        "machine_number": "51",
+        "move_id": "355",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "355",
+        "machine_number": "51",
+        "move_id": "355",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "355",
+        "machine_number": "51",
+        "move_id": "355",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "355",
+        "machine_number": "51",
+        "move_id": "502",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "355",
+        "machine_number": "51",
+        "move_id": "502",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "355",
+        "machine_number": "51",
+        "move_id": "211",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "355",
+        "machine_number": "51",
+        "move_id": "211",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "356",
+        "machine_number": "52",
+        "move_id": "411",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "356",
+        "machine_number": "52",
+        "move_id": "411",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "356",
+        "machine_number": "52",
+        "move_id": "411",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "356",
+        "machine_number": "52",
+        "move_id": "411",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "356",
+        "machine_number": "52",
+        "move_id": "411",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "356",
+        "machine_number": "52",
+        "move_id": "411",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "356",
+        "machine_number": "52",
+        "move_id": "411",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "357",
+        "machine_number": "53",
+        "move_id": "412",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "357",
+        "machine_number": "53",
+        "move_id": "412",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "357",
+        "machine_number": "53",
+        "move_id": "412",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "357",
+        "machine_number": "53",
+        "move_id": "412",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "357",
+        "machine_number": "53",
+        "move_id": "412",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "357",
+        "machine_number": "53",
+        "move_id": "412",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "357",
+        "machine_number": "53",
+        "move_id": "412",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "358",
+        "machine_number": "54",
+        "move_id": "206",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "358",
+        "machine_number": "54",
+        "move_id": "206",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "358",
+        "machine_number": "54",
+        "move_id": "206",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "358",
+        "machine_number": "54",
+        "move_id": "206",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "358",
+        "machine_number": "54",
+        "move_id": "206",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "358",
+        "machine_number": "54",
+        "move_id": "206",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "358",
+        "machine_number": "54",
+        "move_id": "206",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "359",
+        "machine_number": "55",
+        "move_id": "362",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "359",
+        "machine_number": "55",
+        "move_id": "362",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "359",
+        "machine_number": "55",
+        "move_id": "362",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "359",
+        "machine_number": "55",
+        "move_id": "503",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "359",
+        "machine_number": "55",
+        "move_id": "503",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "359",
+        "machine_number": "55",
+        "move_id": "503",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "359",
+        "machine_number": "55",
+        "move_id": "503",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "360",
+        "machine_number": "56",
+        "move_id": "374",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "360",
+        "machine_number": "56",
+        "move_id": "374",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "360",
+        "machine_number": "56",
+        "move_id": "374",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "360",
+        "machine_number": "56",
+        "move_id": "374",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "360",
+        "machine_number": "56",
+        "move_id": "374",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "360",
+        "machine_number": "56",
+        "move_id": "374",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "360",
+        "machine_number": "56",
+        "move_id": "374",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "361",
+        "machine_number": "57",
+        "move_id": "451",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "361",
+        "machine_number": "57",
+        "move_id": "451",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "361",
+        "machine_number": "57",
+        "move_id": "451",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "361",
+        "machine_number": "57",
+        "move_id": "451",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "361",
+        "machine_number": "57",
+        "move_id": "451",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "361",
+        "machine_number": "57",
+        "move_id": "451",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "361",
+        "machine_number": "57",
+        "move_id": "451",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "362",
+        "machine_number": "58",
+        "move_id": "203",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "362",
+        "machine_number": "58",
+        "move_id": "203",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "362",
+        "machine_number": "58",
+        "move_id": "203",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "362",
+        "machine_number": "58",
+        "move_id": "507",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "362",
+        "machine_number": "58",
+        "move_id": "507",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "362",
+        "machine_number": "58",
+        "move_id": "507",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "362",
+        "machine_number": "58",
+        "move_id": "507",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "363",
+        "machine_number": "59",
+        "move_id": "406",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "363",
+        "machine_number": "59",
+        "move_id": "406",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "363",
+        "machine_number": "59",
+        "move_id": "406",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "363",
+        "machine_number": "59",
+        "move_id": "510",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "363",
+        "machine_number": "59",
+        "move_id": "510",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "363",
+        "machine_number": "59",
+        "move_id": "510",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "363",
+        "machine_number": "59",
+        "move_id": "510",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "364",
+        "machine_number": "60",
+        "move_id": "409",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "364",
+        "machine_number": "60",
+        "move_id": "409",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "364",
+        "machine_number": "60",
+        "move_id": "409",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "364",
+        "machine_number": "60",
+        "move_id": "511",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "364",
+        "machine_number": "60",
+        "move_id": "511",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "364",
+        "machine_number": "60",
+        "move_id": "511",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "364",
+        "machine_number": "60",
+        "move_id": "511",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "365",
+        "machine_number": "61",
+        "move_id": "261",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "365",
+        "machine_number": "61",
+        "move_id": "261",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "365",
+        "machine_number": "61",
+        "move_id": "261",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "365",
+        "machine_number": "61",
+        "move_id": "261",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "365",
+        "machine_number": "61",
+        "move_id": "261",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "365",
+        "machine_number": "61",
+        "move_id": "261",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "365",
+        "machine_number": "61",
+        "move_id": "261",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "366",
+        "machine_number": "62",
+        "move_id": "318",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "366",
+        "machine_number": "62",
+        "move_id": "318",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "366",
+        "machine_number": "62",
+        "move_id": "318",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "366",
+        "machine_number": "62",
+        "move_id": "512",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "366",
+        "machine_number": "62",
+        "move_id": "512",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "366",
+        "machine_number": "62",
+        "move_id": "512",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "366",
+        "machine_number": "62",
+        "move_id": "512",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "367",
+        "machine_number": "63",
+        "move_id": "373",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "367",
+        "machine_number": "63",
+        "move_id": "373",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "367",
+        "machine_number": "63",
+        "move_id": "373",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "367",
+        "machine_number": "63",
+        "move_id": "373",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "367",
+        "machine_number": "63",
+        "move_id": "373",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "367",
+        "machine_number": "63",
+        "move_id": "373",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "367",
+        "machine_number": "63",
+        "move_id": "373",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "368",
+        "machine_number": "64",
+        "move_id": "153",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "368",
+        "machine_number": "64",
+        "move_id": "153",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "368",
+        "machine_number": "64",
+        "move_id": "153",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "368",
+        "machine_number": "64",
+        "move_id": "153",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "368",
+        "machine_number": "64",
+        "move_id": "153",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "368",
+        "machine_number": "64",
+        "move_id": "153",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "368",
+        "machine_number": "64",
+        "move_id": "153",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "369",
+        "machine_number": "65",
+        "move_id": "421",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "369",
+        "machine_number": "65",
+        "move_id": "421",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "369",
+        "machine_number": "65",
+        "move_id": "421",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "369",
+        "machine_number": "65",
+        "move_id": "421",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "369",
+        "machine_number": "65",
+        "move_id": "421",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "369",
+        "machine_number": "65",
+        "move_id": "421",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "369",
+        "machine_number": "65",
+        "move_id": "421",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "370",
+        "machine_number": "66",
+        "move_id": "371",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "370",
+        "machine_number": "66",
+        "move_id": "371",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "370",
+        "machine_number": "66",
+        "move_id": "371",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "370",
+        "machine_number": "66",
+        "move_id": "371",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "370",
+        "machine_number": "66",
+        "move_id": "371",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "370",
+        "machine_number": "66",
+        "move_id": "371",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "370",
+        "machine_number": "66",
+        "move_id": "371",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "371",
+        "machine_number": "67",
+        "move_id": "278",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "371",
+        "machine_number": "67",
+        "move_id": "278",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "371",
+        "machine_number": "67",
+        "move_id": "278",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "371",
+        "machine_number": "67",
+        "move_id": "514",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "371",
+        "machine_number": "67",
+        "move_id": "514",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "371",
+        "machine_number": "67",
+        "move_id": "514",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "371",
+        "machine_number": "67",
+        "move_id": "514",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "372",
+        "machine_number": "68",
+        "move_id": "416",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "372",
+        "machine_number": "68",
+        "move_id": "416",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "372",
+        "machine_number": "68",
+        "move_id": "416",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "372",
+        "machine_number": "68",
+        "move_id": "416",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "372",
+        "machine_number": "68",
+        "move_id": "416",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "372",
+        "machine_number": "68",
+        "move_id": "416",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "372",
+        "machine_number": "68",
+        "move_id": "416",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "373",
+        "machine_number": "69",
+        "move_id": "397",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "373",
+        "machine_number": "69",
+        "move_id": "397",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "373",
+        "machine_number": "69",
+        "move_id": "397",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "373",
+        "machine_number": "69",
+        "move_id": "397",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "373",
+        "machine_number": "69",
+        "move_id": "397",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "373",
+        "machine_number": "69",
+        "move_id": "397",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "373",
+        "machine_number": "69",
+        "move_id": "397",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "374",
+        "machine_number": "70",
+        "move_id": "148",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "374",
+        "machine_number": "70",
+        "move_id": "148",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "374",
+        "machine_number": "70",
+        "move_id": "148",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "374",
+        "machine_number": "70",
+        "move_id": "148",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "374",
+        "machine_number": "70",
+        "move_id": "148",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "374",
+        "machine_number": "70",
+        "move_id": "148",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "374",
+        "machine_number": "70",
+        "move_id": "148",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "375",
+        "machine_number": "71",
+        "move_id": "444",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "375",
+        "machine_number": "71",
+        "move_id": "444",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "375",
+        "machine_number": "71",
+        "move_id": "444",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "375",
+        "machine_number": "71",
+        "move_id": "444",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "375",
+        "machine_number": "71",
+        "move_id": "444",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "375",
+        "machine_number": "71",
+        "move_id": "444",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "375",
+        "machine_number": "71",
+        "move_id": "444",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "376",
+        "machine_number": "72",
+        "move_id": "419",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "376",
+        "machine_number": "72",
+        "move_id": "419",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "376",
+        "machine_number": "72",
+        "move_id": "419",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "376",
+        "machine_number": "72",
+        "move_id": "521",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "376",
+        "machine_number": "72",
+        "move_id": "521",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "376",
+        "machine_number": "72",
+        "move_id": "521",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "376",
+        "machine_number": "72",
+        "move_id": "521",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "377",
+        "machine_number": "73",
+        "move_id": "86",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "377",
+        "machine_number": "73",
+        "move_id": "86",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "377",
+        "machine_number": "73",
+        "move_id": "86",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "377",
+        "machine_number": "73",
+        "move_id": "86",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "377",
+        "machine_number": "73",
+        "move_id": "86",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "377",
+        "machine_number": "73",
+        "move_id": "86",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "377",
+        "machine_number": "73",
+        "move_id": "86",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "378",
+        "machine_number": "74",
+        "move_id": "360",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "378",
+        "machine_number": "74",
+        "move_id": "360",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "378",
+        "machine_number": "74",
+        "move_id": "360",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "378",
+        "machine_number": "74",
+        "move_id": "360",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "378",
+        "machine_number": "74",
+        "move_id": "360",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "378",
+        "machine_number": "74",
+        "move_id": "360",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "378",
+        "machine_number": "74",
+        "move_id": "360",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "379",
+        "machine_number": "75",
+        "move_id": "14",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "379",
+        "machine_number": "75",
+        "move_id": "14",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "379",
+        "machine_number": "75",
+        "move_id": "14",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "379",
+        "machine_number": "75",
+        "move_id": "14",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "379",
+        "machine_number": "75",
+        "move_id": "14",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "379",
+        "machine_number": "75",
+        "move_id": "14",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "379",
+        "machine_number": "75",
+        "move_id": "14",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "380",
+        "machine_number": "76",
+        "move_id": "446",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "380",
+        "machine_number": "76",
+        "move_id": "446",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "380",
+        "machine_number": "76",
+        "move_id": "446",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "380",
+        "machine_number": "76",
+        "move_id": "522",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "380",
+        "machine_number": "76",
+        "move_id": "522",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "380",
+        "machine_number": "76",
+        "move_id": "522",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "380",
+        "machine_number": "76",
+        "move_id": "522",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "381",
+        "machine_number": "77",
+        "move_id": "244",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "381",
+        "machine_number": "77",
+        "move_id": "244",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "381",
+        "machine_number": "77",
+        "move_id": "244",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "381",
+        "machine_number": "77",
+        "move_id": "244",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "381",
+        "machine_number": "77",
+        "move_id": "244",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "381",
+        "machine_number": "77",
+        "move_id": "244",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "381",
+        "machine_number": "77",
+        "move_id": "244",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "382",
+        "machine_number": "78",
+        "move_id": "445",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "382",
+        "machine_number": "78",
+        "move_id": "445",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "382",
+        "machine_number": "78",
+        "move_id": "445",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "382",
+        "machine_number": "78",
+        "move_id": "523",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "382",
+        "machine_number": "78",
+        "move_id": "523",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "382",
+        "machine_number": "78",
+        "move_id": "523",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "382",
+        "machine_number": "78",
+        "move_id": "523",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "383",
+        "machine_number": "79",
+        "move_id": "399",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "383",
+        "machine_number": "79",
+        "move_id": "399",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "383",
+        "machine_number": "79",
+        "move_id": "399",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "383",
+        "machine_number": "79",
+        "move_id": "524",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "383",
+        "machine_number": "79",
+        "move_id": "524",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "383",
+        "machine_number": "79",
+        "move_id": "524",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "383",
+        "machine_number": "79",
+        "move_id": "524",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "384",
+        "machine_number": "80",
+        "move_id": "157",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "384",
+        "machine_number": "80",
+        "move_id": "157",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "384",
+        "machine_number": "80",
+        "move_id": "157",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "384",
+        "machine_number": "80",
+        "move_id": "157",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "384",
+        "machine_number": "80",
+        "move_id": "157",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "384",
+        "machine_number": "80",
+        "move_id": "157",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "384",
+        "machine_number": "80",
+        "move_id": "157",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "385",
+        "machine_number": "81",
+        "move_id": "404",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "385",
+        "machine_number": "81",
+        "move_id": "404",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "385",
+        "machine_number": "81",
+        "move_id": "404",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "385",
+        "machine_number": "81",
+        "move_id": "404",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "385",
+        "machine_number": "81",
+        "move_id": "404",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "385",
+        "machine_number": "81",
+        "move_id": "404",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "385",
+        "machine_number": "81",
+        "move_id": "404",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "386",
+        "machine_number": "82",
+        "move_id": "214",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "386",
+        "machine_number": "82",
+        "move_id": "214",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "386",
+        "machine_number": "82",
+        "move_id": "214",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "386",
+        "machine_number": "82",
+        "move_id": "525",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "386",
+        "machine_number": "82",
+        "move_id": "525",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "386",
+        "machine_number": "82",
+        "move_id": "525",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "386",
+        "machine_number": "82",
+        "move_id": "525",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "387",
+        "machine_number": "83",
+        "move_id": "363",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "387",
+        "machine_number": "83",
+        "move_id": "363",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "387",
+        "machine_number": "83",
+        "move_id": "363",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "387",
+        "machine_number": "83",
+        "move_id": "526",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "387",
+        "machine_number": "83",
+        "move_id": "526",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "387",
+        "machine_number": "83",
+        "move_id": "611",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "387",
+        "machine_number": "83",
+        "move_id": "611",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "388",
+        "machine_number": "84",
+        "move_id": "398",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "388",
+        "machine_number": "84",
+        "move_id": "398",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "388",
+        "machine_number": "84",
+        "move_id": "398",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "388",
+        "machine_number": "84",
+        "move_id": "398",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "388",
+        "machine_number": "84",
+        "move_id": "398",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "388",
+        "machine_number": "84",
+        "move_id": "398",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "388",
+        "machine_number": "84",
+        "move_id": "398",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "389",
+        "machine_number": "85",
+        "move_id": "138",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "389",
+        "machine_number": "85",
+        "move_id": "138",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "389",
+        "machine_number": "85",
+        "move_id": "138",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "389",
+        "machine_number": "85",
+        "move_id": "138",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "389",
+        "machine_number": "85",
+        "move_id": "138",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "389",
+        "machine_number": "85",
+        "move_id": "138",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "389",
+        "machine_number": "85",
+        "move_id": "138",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "390",
+        "machine_number": "86",
+        "move_id": "447",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "390",
+        "machine_number": "86",
+        "move_id": "447",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "390",
+        "machine_number": "86",
+        "move_id": "447",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "390",
+        "machine_number": "86",
+        "move_id": "447",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "390",
+        "machine_number": "86",
+        "move_id": "447",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "390",
+        "machine_number": "86",
+        "move_id": "447",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "390",
+        "machine_number": "86",
+        "move_id": "447",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "391",
+        "machine_number": "87",
+        "move_id": "207",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "391",
+        "machine_number": "87",
+        "move_id": "207",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "391",
+        "machine_number": "87",
+        "move_id": "207",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "391",
+        "machine_number": "87",
+        "move_id": "207",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "391",
+        "machine_number": "87",
+        "move_id": "207",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "391",
+        "machine_number": "87",
+        "move_id": "207",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "391",
+        "machine_number": "87",
+        "move_id": "207",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "392",
+        "machine_number": "88",
+        "move_id": "365",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "392",
+        "machine_number": "88",
+        "move_id": "365",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "392",
+        "machine_number": "88",
+        "move_id": "365",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "392",
+        "machine_number": "88",
+        "move_id": "365",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "392",
+        "machine_number": "88",
+        "move_id": "365",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "392",
+        "machine_number": "88",
+        "move_id": "214",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "392",
+        "machine_number": "88",
+        "move_id": "214",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "393",
+        "machine_number": "89",
+        "move_id": "369",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "393",
+        "machine_number": "89",
+        "move_id": "369",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "393",
+        "machine_number": "89",
+        "move_id": "369",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "393",
+        "machine_number": "89",
+        "move_id": "369",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "393",
+        "machine_number": "89",
+        "move_id": "369",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "393",
+        "machine_number": "89",
+        "move_id": "369",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "393",
+        "machine_number": "89",
+        "move_id": "369",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "394",
+        "machine_number": "90",
+        "move_id": "164",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "394",
+        "machine_number": "90",
+        "move_id": "164",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "394",
+        "machine_number": "90",
+        "move_id": "164",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "394",
+        "machine_number": "90",
+        "move_id": "164",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "394",
+        "machine_number": "90",
+        "move_id": "164",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "394",
+        "machine_number": "90",
+        "move_id": "164",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "394",
+        "machine_number": "90",
+        "move_id": "164",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "395",
+        "machine_number": "91",
+        "move_id": "430",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "395",
+        "machine_number": "91",
+        "move_id": "430",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "395",
+        "machine_number": "91",
+        "move_id": "430",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "395",
+        "machine_number": "91",
+        "move_id": "430",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "395",
+        "machine_number": "91",
+        "move_id": "430",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "395",
+        "machine_number": "91",
+        "move_id": "430",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "395",
+        "machine_number": "91",
+        "move_id": "430",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "396",
+        "machine_number": "92",
+        "move_id": "433",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "396",
+        "machine_number": "92",
+        "move_id": "433",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "396",
+        "machine_number": "92",
+        "move_id": "433",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "396",
+        "machine_number": "92",
+        "move_id": "433",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "396",
+        "machine_number": "92",
+        "move_id": "433",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "396",
+        "machine_number": "92",
+        "move_id": "433",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "396",
+        "machine_number": "92",
+        "move_id": "433",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "659",
+        "machine_number": "93",
+        "move_id": "528",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "659",
+        "machine_number": "93",
+        "move_id": "528",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "659",
+        "machine_number": "93",
+        "move_id": "528",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "93",
+        "move_id": "528",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "660",
+        "machine_number": "94",
+        "move_id": "249",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "660",
+        "machine_number": "94",
+        "move_id": "249",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "660",
+        "machine_number": "94",
+        "move_id": "249",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "94",
+        "move_id": "290",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "661",
+        "machine_number": "95",
+        "move_id": "555",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "661",
+        "machine_number": "95",
+        "move_id": "555",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "661",
+        "machine_number": "95",
+        "move_id": "555",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "95",
+        "move_id": "555",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "745",
+        "machine_number": "96",
+        "move_id": "267",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "96",
+        "move_id": "267",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "746",
+        "machine_number": "97",
+        "move_id": "399",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "97",
+        "move_id": "399",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "747",
+        "machine_number": "98",
+        "move_id": "612",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "402",
+        "machine_number": "98",
+        "move_id": "612",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "748",
+        "machine_number": "99",
+        "move_id": "605",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "403",
+        "machine_number": "99",
+        "move_id": "605",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "749",
+        "machine_number": "100",
+        "move_id": "590",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "404",
+        "machine_number": "100",
+        "move_id": "590",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "397",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "405",
+        "machine_number": "101",
+        "move_id": "15",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "398",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "406",
+        "machine_number": "102",
+        "move_id": "19",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "399",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "407",
+        "machine_number": "103",
+        "move_id": "57",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "400",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "408",
+        "machine_number": "104",
+        "move_id": "70",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "148",
+        "version_group_id": "1"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "148",
+        "version_group_id": "2"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "148",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "148",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "148",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "148",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "148",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "432",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "432",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "250",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "127",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "148",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "148",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "127",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "401",
+        "machine_number": "105",
+        "move_id": "127",
+        "version_group_id": "15"
+    },
+    {
+        "item_id": "409",
+        "machine_number": "105",
+        "move_id": "127",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "402",
+        "machine_number": "106",
+        "move_id": "250",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "402",
+        "machine_number": "106",
+        "move_id": "250",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "402",
+        "machine_number": "106",
+        "move_id": "249",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "402",
+        "machine_number": "106",
+        "move_id": "249",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "402",
+        "machine_number": "106",
+        "move_id": "249",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "402",
+        "machine_number": "106",
+        "move_id": "249",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "402",
+        "machine_number": "106",
+        "move_id": "249",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "402",
+        "machine_number": "106",
+        "move_id": "249",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "402",
+        "machine_number": "106",
+        "move_id": "291",
+        "version_group_id": "11"
+    },
+    {
+        "item_id": "402",
+        "machine_number": "106",
+        "move_id": "249",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "402",
+        "machine_number": "106",
+        "move_id": "249",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "402",
+        "machine_number": "106",
+        "move_id": "291",
+        "version_group_id": "14"
+    },
+    {
+        "item_id": "410",
+        "machine_number": "106",
+        "move_id": "249",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "403",
+        "machine_number": "107",
+        "move_id": "127",
+        "version_group_id": "3"
+    },
+    {
+        "item_id": "403",
+        "machine_number": "107",
+        "move_id": "127",
+        "version_group_id": "4"
+    },
+    {
+        "item_id": "403",
+        "machine_number": "107",
+        "move_id": "127",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "403",
+        "machine_number": "107",
+        "move_id": "127",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "403",
+        "machine_number": "107",
+        "move_id": "127",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "403",
+        "machine_number": "107",
+        "move_id": "127",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "403",
+        "machine_number": "107",
+        "move_id": "127",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "403",
+        "machine_number": "107",
+        "move_id": "127",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "403",
+        "machine_number": "107",
+        "move_id": "127",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "403",
+        "machine_number": "107",
+        "move_id": "127",
+        "version_group_id": "13"
+    },
+    {
+        "item_id": "411",
+        "machine_number": "107",
+        "move_id": "291",
+        "version_group_id": "16"
+    },
+    {
+        "item_id": "404",
+        "machine_number": "108",
+        "move_id": "291",
+        "version_group_id": "5"
+    },
+    {
+        "item_id": "404",
+        "machine_number": "108",
+        "move_id": "291",
+        "version_group_id": "6"
+    },
+    {
+        "item_id": "404",
+        "machine_number": "108",
+        "move_id": "291",
+        "version_group_id": "7"
+    },
+    {
+        "item_id": "404",
+        "machine_number": "108",
+        "move_id": "431",
+        "version_group_id": "8"
+    },
+    {
+        "item_id": "404",
+        "machine_number": "108",
+        "move_id": "431",
+        "version_group_id": "9"
+    },
+    {
+        "item_id": "404",
+        "machine_number": "108",
+        "move_id": "431",
+        "version_group_id": "10"
+    },
+    {
+        "item_id": "404",
+        "machine_number": "108",
+        "move_id": "291",
+        "version_group_id": "12"
+    },
+    {
+        "item_id": "404",
+        "machine_number": "108",
+        "move_id": "291",
+        "version_group_id": "13"
+    }
+]

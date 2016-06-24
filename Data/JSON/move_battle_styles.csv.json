@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "identifier": "attack"
+    },
+    {
+        "id": "2",
+        "identifier": "defense"
+    },
+    {
+        "id": "3",
+        "identifier": "support"
+    }
+]

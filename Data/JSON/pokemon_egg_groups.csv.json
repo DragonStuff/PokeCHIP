@@ -1,0 +1,3650 @@
+[
+    {
+        "egg_group_id": "1",
+        "species_id": "1"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "1"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "2"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "2"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "3"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "3"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "4"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "4"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "5"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "5"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "6"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "6"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "7"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "7"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "8"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "8"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "9"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "9"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "10"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "11"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "12"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "13"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "14"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "15"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "16"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "17"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "18"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "19"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "20"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "21"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "22"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "23"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "23"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "24"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "24"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "25"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "25"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "26"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "26"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "27"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "28"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "29"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "29"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "30"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "31"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "32"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "32"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "33"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "33"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "34"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "34"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "35"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "36"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "37"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "38"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "39"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "40"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "41"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "42"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "43"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "44"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "45"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "46"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "46"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "47"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "47"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "48"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "49"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "50"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "51"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "52"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "53"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "54"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "54"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "55"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "55"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "56"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "57"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "58"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "59"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "60"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "61"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "62"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "63"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "64"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "65"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "66"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "67"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "68"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "69"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "70"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "71"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "72"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "73"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "74"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "75"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "76"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "77"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "78"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "79"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "79"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "80"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "80"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "81"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "82"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "83"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "83"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "84"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "85"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "86"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "86"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "87"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "87"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "88"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "89"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "90"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "91"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "92"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "93"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "94"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "95"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "96"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "97"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "98"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "99"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "100"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "101"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "102"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "103"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "104"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "105"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "106"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "107"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "108"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "109"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "110"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "111"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "111"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "112"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "112"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "113"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "114"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "115"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "116"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "116"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "117"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "117"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "118"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "119"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "120"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "121"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "122"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "123"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "124"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "125"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "126"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "127"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "128"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "129"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "129"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "130"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "130"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "131"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "131"
+    },
+    {
+        "egg_group_id": "13",
+        "species_id": "132"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "133"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "134"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "135"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "136"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "137"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "138"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "138"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "139"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "139"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "140"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "140"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "141"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "141"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "142"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "143"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "144"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "145"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "146"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "147"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "147"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "148"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "148"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "149"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "149"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "150"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "151"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "152"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "152"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "153"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "153"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "154"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "154"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "155"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "156"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "157"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "158"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "158"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "159"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "159"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "160"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "160"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "161"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "162"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "163"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "164"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "165"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "166"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "167"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "168"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "169"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "170"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "171"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "172"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "173"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "174"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "175"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "176"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "176"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "177"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "178"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "179"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "179"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "180"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "180"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "181"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "181"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "182"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "183"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "183"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "184"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "184"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "185"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "186"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "187"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "187"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "188"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "188"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "189"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "189"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "190"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "191"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "192"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "193"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "194"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "194"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "195"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "195"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "196"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "197"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "198"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "199"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "199"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "200"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "201"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "202"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "203"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "204"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "205"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "206"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "207"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "208"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "209"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "209"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "210"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "210"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "211"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "212"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "213"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "214"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "215"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "216"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "217"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "218"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "219"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "220"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "221"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "222"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "222"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "223"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "223"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "224"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "224"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "225"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "225"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "226"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "227"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "228"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "229"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "230"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "230"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "231"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "232"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "233"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "234"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "235"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "236"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "237"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "238"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "239"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "240"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "241"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "242"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "243"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "244"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "245"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "246"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "247"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "248"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "249"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "250"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "251"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "252"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "252"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "253"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "253"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "254"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "254"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "255"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "256"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "257"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "258"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "258"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "259"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "259"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "260"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "260"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "261"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "262"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "263"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "264"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "265"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "266"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "267"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "268"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "269"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "270"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "270"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "271"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "271"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "272"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "272"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "273"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "273"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "274"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "274"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "275"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "275"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "276"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "277"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "278"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "278"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "279"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "279"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "280"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "281"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "282"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "283"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "283"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "284"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "284"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "285"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "285"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "286"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "286"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "287"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "288"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "289"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "290"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "291"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "292"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "293"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "293"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "294"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "294"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "295"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "295"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "296"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "297"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "298"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "299"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "300"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "300"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "301"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "301"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "302"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "303"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "303"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "304"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "305"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "306"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "307"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "308"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "309"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "310"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "311"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "312"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "313"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "313"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "314"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "314"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "315"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "315"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "316"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "317"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "318"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "319"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "320"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "320"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "321"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "321"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "322"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "323"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "324"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "325"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "326"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "327"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "327"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "328"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "329"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "330"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "331"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "331"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "332"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "332"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "333"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "333"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "334"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "334"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "335"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "336"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "336"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "337"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "338"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "339"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "340"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "341"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "341"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "342"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "342"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "343"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "344"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "345"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "346"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "347"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "348"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "349"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "349"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "350"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "350"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "351"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "351"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "352"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "353"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "354"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "355"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "356"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "357"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "357"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "358"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "359"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "360"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "361"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "361"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "362"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "362"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "363"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "363"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "364"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "364"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "365"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "365"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "366"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "367"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "368"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "369"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "369"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "370"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "371"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "372"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "373"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "374"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "375"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "376"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "377"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "378"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "379"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "380"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "381"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "382"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "383"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "384"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "385"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "386"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "387"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "387"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "388"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "388"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "389"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "389"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "390"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "390"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "391"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "391"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "392"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "392"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "393"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "393"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "394"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "394"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "395"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "395"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "396"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "397"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "398"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "399"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "399"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "400"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "400"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "401"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "402"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "403"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "404"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "405"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "406"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "407"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "407"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "408"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "409"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "410"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "411"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "412"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "413"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "414"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "415"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "416"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "417"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "417"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "418"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "418"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "419"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "419"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "420"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "420"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "421"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "421"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "422"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "422"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "423"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "423"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "424"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "425"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "426"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "427"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "427"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "428"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "428"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "429"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "430"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "431"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "432"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "433"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "434"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "435"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "436"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "437"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "438"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "439"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "440"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "441"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "442"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "443"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "443"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "444"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "444"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "445"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "445"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "446"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "447"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "448"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "448"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "449"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "450"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "451"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "451"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "452"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "452"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "453"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "454"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "455"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "456"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "457"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "458"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "459"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "459"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "460"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "460"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "461"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "462"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "463"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "464"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "464"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "465"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "466"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "467"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "468"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "468"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "469"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "470"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "471"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "472"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "473"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "474"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "475"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "476"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "477"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "478"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "478"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "479"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "480"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "481"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "482"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "483"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "484"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "485"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "486"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "487"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "488"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "489"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "489"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "490"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "490"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "491"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "492"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "493"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "494"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "495"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "495"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "496"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "496"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "497"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "497"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "498"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "499"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "500"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "501"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "502"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "503"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "504"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "505"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "506"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "507"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "508"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "509"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "510"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "511"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "512"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "513"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "514"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "515"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "516"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "517"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "518"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "519"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "520"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "521"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "522"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "523"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "524"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "525"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "526"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "527"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "527"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "528"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "528"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "529"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "530"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "531"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "532"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "533"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "534"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "535"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "536"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "537"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "538"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "539"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "540"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "541"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "542"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "543"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "544"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "545"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "546"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "546"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "547"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "547"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "548"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "549"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "550"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "551"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "552"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "553"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "554"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "555"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "556"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "557"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "557"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "558"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "558"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "559"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "559"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "560"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "560"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "561"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "562"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "562"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "563"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "563"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "564"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "564"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "565"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "565"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "566"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "566"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "567"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "567"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "568"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "569"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "570"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "571"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "572"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "573"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "574"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "575"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "576"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "577"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "578"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "579"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "580"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "580"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "581"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "581"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "582"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "583"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "584"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "585"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "586"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "587"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "588"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "589"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "590"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "591"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "592"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "593"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "594"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "594"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "595"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "596"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "597"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "597"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "598"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "598"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "599"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "600"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "601"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "602"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "603"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "604"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "605"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "606"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "607"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "608"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "609"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "610"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "610"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "611"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "611"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "612"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "612"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "613"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "614"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "615"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "616"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "617"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "618"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "618"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "619"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "619"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "620"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "620"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "621"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "621"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "622"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "623"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "624"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "625"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "626"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "627"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "628"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "629"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "630"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "631"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "632"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "633"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "634"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "635"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "636"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "637"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "638"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "639"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "640"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "641"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "642"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "643"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "644"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "645"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "646"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "647"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "648"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "649"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "650"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "651"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "652"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "653"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "654"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "655"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "656"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "657"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "658"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "659"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "660"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "661"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "662"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "663"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "664"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "665"
+    },
+    {
+        "egg_group_id": "3",
+        "species_id": "666"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "667"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "668"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "669"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "670"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "671"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "672"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "673"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "674"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "674"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "675"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "675"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "676"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "677"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "678"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "679"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "680"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "681"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "682"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "683"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "684"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "685"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "686"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "686"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "687"
+    },
+    {
+        "egg_group_id": "12",
+        "species_id": "687"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "688"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "689"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "690"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "690"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "691"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "691"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "692"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "692"
+    },
+    {
+        "egg_group_id": "2",
+        "species_id": "693"
+    },
+    {
+        "egg_group_id": "9",
+        "species_id": "693"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "694"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "694"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "695"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "695"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "696"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "696"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "697"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "697"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "698"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "699"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "700"
+    },
+    {
+        "egg_group_id": "8",
+        "species_id": "701"
+    },
+    {
+        "egg_group_id": "5",
+        "species_id": "702"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "702"
+    },
+    {
+        "egg_group_id": "6",
+        "species_id": "703"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "703"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "704"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "705"
+    },
+    {
+        "egg_group_id": "14",
+        "species_id": "706"
+    },
+    {
+        "egg_group_id": "10",
+        "species_id": "707"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "708"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "708"
+    },
+    {
+        "egg_group_id": "7",
+        "species_id": "709"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "709"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "710"
+    },
+    {
+        "egg_group_id": "11",
+        "species_id": "711"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "712"
+    },
+    {
+        "egg_group_id": "1",
+        "species_id": "713"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "714"
+    },
+    {
+        "egg_group_id": "4",
+        "species_id": "715"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "716"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "717"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "718"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "719"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "720"
+    },
+    {
+        "egg_group_id": "15",
+        "species_id": "721"
+    }
+]

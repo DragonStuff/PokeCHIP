@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "identifier": "ball"
+    },
+    {
+        "id": "2",
+        "identifier": "squiggle"
+    },
+    {
+        "id": "3",
+        "identifier": "fish"
+    },
+    {
+        "id": "4",
+        "identifier": "arms"
+    },
+    {
+        "id": "5",
+        "identifier": "blob"
+    },
+    {
+        "id": "6",
+        "identifier": "upright"
+    },
+    {
+        "id": "7",
+        "identifier": "legs"
+    },
+    {
+        "id": "8",
+        "identifier": "quadruped"
+    },
+    {
+        "id": "9",
+        "identifier": "wings"
+    },
+    {
+        "id": "10",
+        "identifier": "tentacles"
+    },
+    {
+        "id": "11",
+        "identifier": "heads"
+    },
+    {
+        "id": "12",
+        "identifier": "humanoid"
+    },
+    {
+        "id": "13",
+        "identifier": "bug-wings"
+    },
+    {
+        "id": "14",
+        "identifier": "armor"
+    }
+]

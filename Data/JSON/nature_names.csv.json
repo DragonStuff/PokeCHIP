@@ -1,0 +1,877 @@
+[
+    {
+        "local_language_id": "1",
+        "name": "\u304c\u3093\u3070\u308a\u3084",
+        "nature_id": "1"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ub178\ub825",
+        "nature_id": "1"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Hardi",
+        "nature_id": "1"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Robust",
+        "nature_id": "1"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Fuerte",
+        "nature_id": "1"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Ardita",
+        "nature_id": "1"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Hardy",
+        "nature_id": "1"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u305a\u3076\u3068\u3044",
+        "nature_id": "2"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ub300\ub2f4",
+        "nature_id": "2"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Assur\u00e9",
+        "nature_id": "2"
+    },
+    {
+        "local_language_id": "6",
+        "name": "K\u00fchn",
+        "nature_id": "2"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Osado",
+        "nature_id": "2"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Sicura",
+        "nature_id": "2"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Bold",
+        "nature_id": "2"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3072\u304b\u3048\u3081",
+        "nature_id": "3"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc870\uc2ec",
+        "nature_id": "3"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Modeste",
+        "nature_id": "3"
+    },
+    {
+        "local_language_id": "6",
+        "name": "M\u00e4\u00dfig",
+        "nature_id": "3"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Modesto",
+        "nature_id": "3"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Modesta",
+        "nature_id": "3"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Modest",
+        "nature_id": "3"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u304a\u3060\u3084\u304b",
+        "nature_id": "4"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ucc28\ubd84",
+        "nature_id": "4"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Calme",
+        "nature_id": "4"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Still",
+        "nature_id": "4"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Sereno",
+        "nature_id": "4"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Calma",
+        "nature_id": "4"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Calm",
+        "nature_id": "4"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u304a\u304f\u3073\u3087\u3046",
+        "nature_id": "5"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uac81\uc7c1\uc774",
+        "nature_id": "5"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Timide",
+        "nature_id": "5"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Scheu",
+        "nature_id": "5"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Miedoso",
+        "nature_id": "5"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Timida",
+        "nature_id": "5"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Timid",
+        "nature_id": "5"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3055\u307f\u3057\u304c\u308a",
+        "nature_id": "6"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc678\ub85c\uc6c0",
+        "nature_id": "6"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Solo",
+        "nature_id": "6"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Solo",
+        "nature_id": "6"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Hura\u00f1o",
+        "nature_id": "6"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Schiva",
+        "nature_id": "6"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Lonely",
+        "nature_id": "6"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3059\u306a\u304a",
+        "nature_id": "7"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc628\uc21c",
+        "nature_id": "7"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Docile",
+        "nature_id": "7"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Sanft",
+        "nature_id": "7"
+    },
+    {
+        "local_language_id": "7",
+        "name": "D\u00f3cil",
+        "nature_id": "7"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Docile",
+        "nature_id": "7"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Docile",
+        "nature_id": "7"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u304a\u3063\u3068\u308a",
+        "nature_id": "8"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc758\uc813",
+        "nature_id": "8"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Doux",
+        "nature_id": "8"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Mild",
+        "nature_id": "8"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Afable",
+        "nature_id": "8"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Mite",
+        "nature_id": "8"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Mild",
+        "nature_id": "8"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u304a\u3068\u306a\u3057\u3044",
+        "nature_id": "9"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc58c\uc804",
+        "nature_id": "9"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Gentil",
+        "nature_id": "9"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Zart",
+        "nature_id": "9"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Amable",
+        "nature_id": "9"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Gentile",
+        "nature_id": "9"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Gentle",
+        "nature_id": "9"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u305b\u3063\u304b\u3061",
+        "nature_id": "10"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc131\uae09",
+        "nature_id": "10"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Press\u00e9",
+        "nature_id": "10"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Hastig",
+        "nature_id": "10"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Activo",
+        "nature_id": "10"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Lesta",
+        "nature_id": "10"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Hasty",
+        "nature_id": "10"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3044\u3058\u3063\u3071\u308a",
+        "nature_id": "11"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uace0\uc9d1",
+        "nature_id": "11"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Rigide",
+        "nature_id": "11"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Hart",
+        "nature_id": "11"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Firme",
+        "nature_id": "11"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Decisa",
+        "nature_id": "11"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Adamant",
+        "nature_id": "11"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u308f\u3093\u3071\u304f",
+        "nature_id": "12"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc7a5\ub09c\uafb8\ub7ec\uae30",
+        "nature_id": "12"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Malin",
+        "nature_id": "12"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Pfiffig",
+        "nature_id": "12"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Agitado",
+        "nature_id": "12"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Scaltra",
+        "nature_id": "12"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Impish",
+        "nature_id": "12"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3066\u308c\u3084",
+        "nature_id": "13"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc218\uc90d\uc74c",
+        "nature_id": "13"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Pudique",
+        "nature_id": "13"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Zaghaft",
+        "nature_id": "13"
+    },
+    {
+        "local_language_id": "7",
+        "name": "T\u00edmido",
+        "nature_id": "13"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Ritrosa",
+        "nature_id": "13"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Bashful",
+        "nature_id": "13"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3057\u3093\u3061\u3087\u3046",
+        "nature_id": "14"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc2e0\uc911",
+        "nature_id": "14"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Prudent",
+        "nature_id": "14"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Sacht",
+        "nature_id": "14"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Cauto",
+        "nature_id": "14"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Cauta",
+        "nature_id": "14"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Careful",
+        "nature_id": "14"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3046\u3063\u304b\u308a\u3084",
+        "nature_id": "15"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ub35c\ub801",
+        "nature_id": "15"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Foufou",
+        "nature_id": "15"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Hitzig",
+        "nature_id": "15"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Alocado",
+        "nature_id": "15"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Ardente",
+        "nature_id": "15"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Rash",
+        "nature_id": "15"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3088\u3046\u304d",
+        "nature_id": "16"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uba85\ub791",
+        "nature_id": "16"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Jovial",
+        "nature_id": "16"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Froh",
+        "nature_id": "16"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Alegre",
+        "nature_id": "16"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Allegra",
+        "nature_id": "16"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Jolly",
+        "nature_id": "16"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3084\u3093\u3061\u3083",
+        "nature_id": "17"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uac1c\uad6c\uc7c1\uc774",
+        "nature_id": "17"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Mauvais",
+        "nature_id": "17"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Frech",
+        "nature_id": "17"
+    },
+    {
+        "local_language_id": "7",
+        "name": "P\u00edcaro",
+        "nature_id": "17"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Birbona",
+        "nature_id": "17"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Naughty",
+        "nature_id": "17"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u306e\u3046\u3066\u3093\u304d",
+        "nature_id": "18"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ucd10\ub791",
+        "nature_id": "18"
+    },
+    {
+        "local_language_id": "5",
+        "name": "L\u00e2che",
+        "nature_id": "18"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Lasch",
+        "nature_id": "18"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Flojo",
+        "nature_id": "18"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Fiacca",
+        "nature_id": "18"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Lax",
+        "nature_id": "18"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u304d\u307e\u3050\u308c",
+        "nature_id": "19"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ubcc0\ub355",
+        "nature_id": "19"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Bizarre",
+        "nature_id": "19"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Kauzig",
+        "nature_id": "19"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Raro",
+        "nature_id": "19"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Furba",
+        "nature_id": "19"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Quirky",
+        "nature_id": "19"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3080\u3058\u3083\u304d",
+        "nature_id": "20"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ucc9c\uc9c4\ub09c\ub9cc",
+        "nature_id": "20"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Na\u00eff",
+        "nature_id": "20"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Naiv",
+        "nature_id": "20"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Ingenuo",
+        "nature_id": "20"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Ingenua",
+        "nature_id": "20"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Naive",
+        "nature_id": "20"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u3086\u3046\u304b\u3093",
+        "nature_id": "21"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc6a9\uac10",
+        "nature_id": "21"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Brave",
+        "nature_id": "21"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Mutig",
+        "nature_id": "21"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Audaz",
+        "nature_id": "21"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Audace",
+        "nature_id": "21"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Brave",
+        "nature_id": "21"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u306e\u3093\u304d",
+        "nature_id": "22"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ubb34\uc0ac\ud0dc\ud3c9",
+        "nature_id": "22"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Relax",
+        "nature_id": "22"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Locker",
+        "nature_id": "22"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Pl\u00e1cido",
+        "nature_id": "22"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Placida",
+        "nature_id": "22"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Relaxed",
+        "nature_id": "22"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u308c\u3044\u305b\u3044",
+        "nature_id": "23"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\ub0c9\uc815",
+        "nature_id": "23"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Discret",
+        "nature_id": "23"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Ruhig",
+        "nature_id": "23"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Manso",
+        "nature_id": "23"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Quieta",
+        "nature_id": "23"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Quiet",
+        "nature_id": "23"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u306a\u307e\u3044\u304d",
+        "nature_id": "24"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uac74\ubc29",
+        "nature_id": "24"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Malpoli",
+        "nature_id": "24"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Forsch",
+        "nature_id": "24"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Grosero",
+        "nature_id": "24"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Vivace",
+        "nature_id": "24"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Sassy",
+        "nature_id": "24"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u307e\u3058\u3081",
+        "nature_id": "25"
+    },
+    {
+        "local_language_id": "3",
+        "name": "\uc131\uc2e4",
+        "nature_id": "25"
+    },
+    {
+        "local_language_id": "5",
+        "name": "S\u00e9rieux",
+        "nature_id": "25"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Ernst",
+        "nature_id": "25"
+    },
+    {
+        "local_language_id": "7",
+        "name": "Serio",
+        "nature_id": "25"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Seria",
+        "nature_id": "25"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Serious",
+        "nature_id": "25"
+    }
+]

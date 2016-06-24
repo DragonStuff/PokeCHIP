@@ -1,0 +1,66 @@
+[
+    {
+        "pokedex_id": "2",
+        "version_group_id": "1"
+    },
+    {
+        "pokedex_id": "2",
+        "version_group_id": "2"
+    },
+    {
+        "pokedex_id": "2",
+        "version_group_id": "7"
+    },
+    {
+        "pokedex_id": "3",
+        "version_group_id": "3"
+    },
+    {
+        "pokedex_id": "3",
+        "version_group_id": "4"
+    },
+    {
+        "pokedex_id": "4",
+        "version_group_id": "5"
+    },
+    {
+        "pokedex_id": "4",
+        "version_group_id": "6"
+    },
+    {
+        "pokedex_id": "5",
+        "version_group_id": "8"
+    },
+    {
+        "pokedex_id": "6",
+        "version_group_id": "9"
+    },
+    {
+        "pokedex_id": "7",
+        "version_group_id": "10"
+    },
+    {
+        "pokedex_id": "8",
+        "version_group_id": "11"
+    },
+    {
+        "pokedex_id": "9",
+        "version_group_id": "14"
+    },
+    {
+        "pokedex_id": "12",
+        "version_group_id": "15"
+    },
+    {
+        "pokedex_id": "13",
+        "version_group_id": "15"
+    },
+    {
+        "pokedex_id": "14",
+        "version_group_id": "15"
+    },
+    {
+        "pokedex_id": "15",
+        "version_group_id": "16"
+    }
+]

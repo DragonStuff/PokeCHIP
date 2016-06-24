@@ -1,0 +1,152 @@
+[
+    {
+        "local_language_id": "1",
+        "name": "\u30ab\u30f3\u30c8\u30fc\u5730\u65b9",
+        "region_id": "1"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Kanto",
+        "region_id": "1"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Kanto",
+        "region_id": "1"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Kanto",
+        "region_id": "1"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Kanto",
+        "region_id": "1"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30b8\u30e7\u30a6\u30c8\u5730\u65b9",
+        "region_id": "2"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Johto",
+        "region_id": "2"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Johto",
+        "region_id": "2"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Johto",
+        "region_id": "2"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Johto",
+        "region_id": "2"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30db\u30a6\u30a8\u30f3\u5730\u65b9",
+        "region_id": "3"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Hoenn",
+        "region_id": "3"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Hoenn",
+        "region_id": "3"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Hoenn",
+        "region_id": "3"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Hoenn",
+        "region_id": "3"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30b7\u30f3\u30aa\u30a6\u5730\u65b9",
+        "region_id": "4"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Sinnoh",
+        "region_id": "4"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Sinnoh",
+        "region_id": "4"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Sinnoh",
+        "region_id": "4"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Sinnoh",
+        "region_id": "4"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30a4\u30c3\u30b7\u30e5\u5730\u65b9",
+        "region_id": "5"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Unys",
+        "region_id": "5"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Einall",
+        "region_id": "5"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Unima",
+        "region_id": "5"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Unova",
+        "region_id": "5"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30ab\u30ed\u30b9\u5730\u65b9",
+        "region_id": "6"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Kalos",
+        "region_id": "6"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Kalos",
+        "region_id": "6"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Kalos",
+        "region_id": "6"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Kalos",
+        "region_id": "6"
+    }
+]

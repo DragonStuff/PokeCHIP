@@ -1,0 +1,92 @@
+[
+    {
+        "local_language_id": "5",
+        "name": "grottes",
+        "pokemon_habitat_id": "1"
+    },
+    {
+        "local_language_id": "9",
+        "name": "cave",
+        "pokemon_habitat_id": "1"
+    },
+    {
+        "local_language_id": "5",
+        "name": "for\u00eats",
+        "pokemon_habitat_id": "2"
+    },
+    {
+        "local_language_id": "9",
+        "name": "forest",
+        "pokemon_habitat_id": "2"
+    },
+    {
+        "local_language_id": "5",
+        "name": "champs",
+        "pokemon_habitat_id": "3"
+    },
+    {
+        "local_language_id": "9",
+        "name": "grassland",
+        "pokemon_habitat_id": "3"
+    },
+    {
+        "local_language_id": "5",
+        "name": "montagnes",
+        "pokemon_habitat_id": "4"
+    },
+    {
+        "local_language_id": "9",
+        "name": "mountain",
+        "pokemon_habitat_id": "4"
+    },
+    {
+        "local_language_id": "5",
+        "name": "rares",
+        "pokemon_habitat_id": "5"
+    },
+    {
+        "local_language_id": "9",
+        "name": "rare",
+        "pokemon_habitat_id": "5"
+    },
+    {
+        "local_language_id": "5",
+        "name": "milieux hostiles",
+        "pokemon_habitat_id": "6"
+    },
+    {
+        "local_language_id": "9",
+        "name": "rough terrain",
+        "pokemon_habitat_id": "6"
+    },
+    {
+        "local_language_id": "5",
+        "name": "mers",
+        "pokemon_habitat_id": "7"
+    },
+    {
+        "local_language_id": "9",
+        "name": "sea",
+        "pokemon_habitat_id": "7"
+    },
+    {
+        "local_language_id": "5",
+        "name": "urbains",
+        "pokemon_habitat_id": "8"
+    },
+    {
+        "local_language_id": "9",
+        "name": "urban",
+        "pokemon_habitat_id": "8"
+    },
+    {
+        "local_language_id": "5",
+        "name": "mar\u00e9cages",
+        "pokemon_habitat_id": "9"
+    },
+    {
+        "local_language_id": "9",
+        "name": "water's edge",
+        "pokemon_habitat_id": "9"
+    }
+]

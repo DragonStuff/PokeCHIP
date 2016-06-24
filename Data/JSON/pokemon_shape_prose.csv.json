@@ -1,0 +1,86 @@
+[
+    {
+        "awesome_name": "Pomaceous",
+        "local_language_id": "9",
+        "name": "Ball",
+        "pokemon_shape_id": "1"
+    },
+    {
+        "awesome_name": "Caudal",
+        "local_language_id": "9",
+        "name": "Squiggle",
+        "pokemon_shape_id": "2"
+    },
+    {
+        "awesome_name": "Ichthyic",
+        "local_language_id": "9",
+        "name": "Fish",
+        "pokemon_shape_id": "3"
+    },
+    {
+        "awesome_name": "Brachial",
+        "local_language_id": "9",
+        "name": "Arms",
+        "pokemon_shape_id": "4"
+    },
+    {
+        "awesome_name": "Alvine",
+        "local_language_id": "9",
+        "name": "Blob",
+        "pokemon_shape_id": "5"
+    },
+    {
+        "awesome_name": "Sciurine",
+        "local_language_id": "9",
+        "name": "Upright",
+        "pokemon_shape_id": "6"
+    },
+    {
+        "awesome_name": "Crural",
+        "local_language_id": "9",
+        "name": "Legs",
+        "pokemon_shape_id": "7"
+    },
+    {
+        "awesome_name": "Mensal",
+        "local_language_id": "9",
+        "name": "Quadruped",
+        "pokemon_shape_id": "8"
+    },
+    {
+        "awesome_name": "Alar",
+        "local_language_id": "9",
+        "name": "Wings",
+        "pokemon_shape_id": "9"
+    },
+    {
+        "awesome_name": "Cilial",
+        "local_language_id": "9",
+        "name": "Tentacles",
+        "pokemon_shape_id": "10"
+    },
+    {
+        "awesome_name": "Polycephalic",
+        "local_language_id": "9",
+        "name": "Heads",
+        "pokemon_shape_id": "11"
+    },
+    {
+        "awesome_name": "Anthropomorphic",
+        "local_language_id": "9",
+        "name": "Humanoid",
+        "pokemon_shape_id": "12"
+    },
+    {
+        "awesome_name": "Lepidopterous",
+        "local_language_id": "9",
+        "name": "Bug wings",
+        "pokemon_shape_id": "13"
+    },
+    {
+        "awesome_name": "Chitinous",
+        "local_language_id": "9",
+        "name": "Armor",
+        "pokemon_shape_id": "14"
+    }
+]

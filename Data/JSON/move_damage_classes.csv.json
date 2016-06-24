@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "identifier": "status"
+    },
+    {
+        "id": "2",
+        "identifier": "physical"
+    },
+    {
+        "id": "3",
+        "identifier": "special"
+    }
+]

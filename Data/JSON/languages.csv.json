@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "identifier": "ja",
+        "iso3166": "jp",
+        "iso639": "ja",
+        "official": "1",
+        "order": "1"
+    },
+    {
+        "id": "2",
+        "identifier": "roomaji",
+        "iso3166": "jp",
+        "iso639": "ja",
+        "official": "1",
+        "order": "3"
+    },
+    {
+        "id": "3",
+        "identifier": "ko",
+        "iso3166": "kr",
+        "iso639": "ko",
+        "official": "1",
+        "order": "4"
+    },
+    {
+        "id": "4",
+        "identifier": "zh",
+        "iso3166": "cn",
+        "iso639": "zh",
+        "official": "1",
+        "order": "5"
+    },
+    {
+        "id": "5",
+        "identifier": "fr",
+        "iso3166": "fr",
+        "iso639": "fr",
+        "official": "1",
+        "order": "7"
+    },
+    {
+        "id": "6",
+        "identifier": "de",
+        "iso3166": "de",
+        "iso639": "de",
+        "official": "1",
+        "order": "8"
+    },
+    {
+        "id": "7",
+        "identifier": "es",
+        "iso3166": "es",
+        "iso639": "es",
+        "official": "1",
+        "order": "9"
+    },
+    {
+        "id": "8",
+        "identifier": "it",
+        "iso3166": "it",
+        "iso639": "it",
+        "official": "1",
+        "order": "10"
+    },
+    {
+        "id": "9",
+        "identifier": "en",
+        "iso3166": "us",
+        "iso639": "en",
+        "official": "1",
+        "order": "6"
+    },
+    {
+        "id": "10",
+        "identifier": "cs",
+        "iso3166": "cz",
+        "iso639": "cs",
+        "official": "0",
+        "order": "11"
+    },
+    {
+        "id": "11",
+        "identifier": "ja-kanji",
+        "iso3166": "jp",
+        "iso639": "ja",
+        "official": "1",
+        "order": "2"
+    }
+]

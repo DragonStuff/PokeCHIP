@@ -1,0 +1,452 @@
+[
+    {
+        "high_hp_preference": "61",
+        "low_hp_preference": "61",
+        "move_battle_style_id": "1",
+        "nature_id": "1"
+    },
+    {
+        "high_hp_preference": "7",
+        "low_hp_preference": "7",
+        "move_battle_style_id": "2",
+        "nature_id": "1"
+    },
+    {
+        "high_hp_preference": "32",
+        "low_hp_preference": "32",
+        "move_battle_style_id": "3",
+        "nature_id": "1"
+    },
+    {
+        "high_hp_preference": "30",
+        "low_hp_preference": "32",
+        "move_battle_style_id": "1",
+        "nature_id": "2"
+    },
+    {
+        "high_hp_preference": "20",
+        "low_hp_preference": "58",
+        "move_battle_style_id": "2",
+        "nature_id": "2"
+    },
+    {
+        "high_hp_preference": "50",
+        "low_hp_preference": "10",
+        "move_battle_style_id": "3",
+        "nature_id": "2"
+    },
+    {
+        "high_hp_preference": "35",
+        "low_hp_preference": "34",
+        "move_battle_style_id": "1",
+        "nature_id": "3"
+    },
+    {
+        "high_hp_preference": "45",
+        "low_hp_preference": "60",
+        "move_battle_style_id": "2",
+        "nature_id": "3"
+    },
+    {
+        "high_hp_preference": "20",
+        "low_hp_preference": "6",
+        "move_battle_style_id": "3",
+        "nature_id": "3"
+    },
+    {
+        "high_hp_preference": "40",
+        "low_hp_preference": "25",
+        "move_battle_style_id": "1",
+        "nature_id": "4"
+    },
+    {
+        "high_hp_preference": "50",
+        "low_hp_preference": "62",
+        "move_battle_style_id": "2",
+        "nature_id": "4"
+    },
+    {
+        "high_hp_preference": "10",
+        "low_hp_preference": "13",
+        "move_battle_style_id": "3",
+        "nature_id": "4"
+    },
+    {
+        "high_hp_preference": "62",
+        "low_hp_preference": "30",
+        "move_battle_style_id": "1",
+        "nature_id": "5"
+    },
+    {
+        "high_hp_preference": "10",
+        "low_hp_preference": "20",
+        "move_battle_style_id": "2",
+        "nature_id": "5"
+    },
+    {
+        "high_hp_preference": "28",
+        "low_hp_preference": "50",
+        "move_battle_style_id": "3",
+        "nature_id": "5"
+    },
+    {
+        "high_hp_preference": "20",
+        "low_hp_preference": "84",
+        "move_battle_style_id": "1",
+        "nature_id": "6"
+    },
+    {
+        "high_hp_preference": "25",
+        "low_hp_preference": "8",
+        "move_battle_style_id": "2",
+        "nature_id": "6"
+    },
+    {
+        "high_hp_preference": "55",
+        "low_hp_preference": "8",
+        "move_battle_style_id": "3",
+        "nature_id": "6"
+    },
+    {
+        "high_hp_preference": "56",
+        "low_hp_preference": "56",
+        "move_battle_style_id": "1",
+        "nature_id": "7"
+    },
+    {
+        "high_hp_preference": "22",
+        "low_hp_preference": "22",
+        "move_battle_style_id": "2",
+        "nature_id": "7"
+    },
+    {
+        "high_hp_preference": "22",
+        "low_hp_preference": "22",
+        "move_battle_style_id": "3",
+        "nature_id": "7"
+    },
+    {
+        "high_hp_preference": "44",
+        "low_hp_preference": "34",
+        "move_battle_style_id": "1",
+        "nature_id": "8"
+    },
+    {
+        "high_hp_preference": "50",
+        "low_hp_preference": "6",
+        "move_battle_style_id": "2",
+        "nature_id": "8"
+    },
+    {
+        "high_hp_preference": "6",
+        "low_hp_preference": "60",
+        "move_battle_style_id": "3",
+        "nature_id": "8"
+    },
+    {
+        "high_hp_preference": "18",
+        "low_hp_preference": "90",
+        "move_battle_style_id": "1",
+        "nature_id": "9"
+    },
+    {
+        "high_hp_preference": "70",
+        "low_hp_preference": "5",
+        "move_battle_style_id": "2",
+        "nature_id": "9"
+    },
+    {
+        "high_hp_preference": "12",
+        "low_hp_preference": "5",
+        "move_battle_style_id": "3",
+        "nature_id": "9"
+    },
+    {
+        "high_hp_preference": "58",
+        "low_hp_preference": "88",
+        "move_battle_style_id": "1",
+        "nature_id": "10"
+    },
+    {
+        "high_hp_preference": "37",
+        "low_hp_preference": "6",
+        "move_battle_style_id": "2",
+        "nature_id": "10"
+    },
+    {
+        "high_hp_preference": "5",
+        "low_hp_preference": "6",
+        "move_battle_style_id": "3",
+        "nature_id": "10"
+    },
+    {
+        "high_hp_preference": "38",
+        "low_hp_preference": "70",
+        "move_battle_style_id": "1",
+        "nature_id": "11"
+    },
+    {
+        "high_hp_preference": "31",
+        "low_hp_preference": "15",
+        "move_battle_style_id": "2",
+        "nature_id": "11"
+    },
+    {
+        "high_hp_preference": "31",
+        "low_hp_preference": "15",
+        "move_battle_style_id": "3",
+        "nature_id": "11"
+    },
+    {
+        "high_hp_preference": "69",
+        "low_hp_preference": "28",
+        "move_battle_style_id": "1",
+        "nature_id": "12"
+    },
+    {
+        "high_hp_preference": "6",
+        "low_hp_preference": "55",
+        "move_battle_style_id": "2",
+        "nature_id": "12"
+    },
+    {
+        "high_hp_preference": "25",
+        "low_hp_preference": "17",
+        "move_battle_style_id": "3",
+        "nature_id": "12"
+    },
+    {
+        "high_hp_preference": "30",
+        "low_hp_preference": "30",
+        "move_battle_style_id": "1",
+        "nature_id": "13"
+    },
+    {
+        "high_hp_preference": "58",
+        "low_hp_preference": "58",
+        "move_battle_style_id": "2",
+        "nature_id": "13"
+    },
+    {
+        "high_hp_preference": "12",
+        "low_hp_preference": "12",
+        "move_battle_style_id": "3",
+        "nature_id": "13"
+    },
+    {
+        "high_hp_preference": "42",
+        "low_hp_preference": "42",
+        "move_battle_style_id": "1",
+        "nature_id": "14"
+    },
+    {
+        "high_hp_preference": "50",
+        "low_hp_preference": "5",
+        "move_battle_style_id": "2",
+        "nature_id": "14"
+    },
+    {
+        "high_hp_preference": "8",
+        "low_hp_preference": "53",
+        "move_battle_style_id": "3",
+        "nature_id": "14"
+    },
+    {
+        "high_hp_preference": "30",
+        "low_hp_preference": "27",
+        "move_battle_style_id": "1",
+        "nature_id": "15"
+    },
+    {
+        "high_hp_preference": "13",
+        "low_hp_preference": "6",
+        "move_battle_style_id": "2",
+        "nature_id": "15"
+    },
+    {
+        "high_hp_preference": "57",
+        "low_hp_preference": "67",
+        "move_battle_style_id": "3",
+        "nature_id": "15"
+    },
+    {
+        "high_hp_preference": "35",
+        "low_hp_preference": "35",
+        "move_battle_style_id": "1",
+        "nature_id": "16"
+    },
+    {
+        "high_hp_preference": "5",
+        "low_hp_preference": "60",
+        "move_battle_style_id": "2",
+        "nature_id": "16"
+    },
+    {
+        "high_hp_preference": "60",
+        "low_hp_preference": "5",
+        "move_battle_style_id": "3",
+        "nature_id": "16"
+    },
+    {
+        "high_hp_preference": "20",
+        "low_hp_preference": "70",
+        "move_battle_style_id": "1",
+        "nature_id": "17"
+    },
+    {
+        "high_hp_preference": "70",
+        "low_hp_preference": "22",
+        "move_battle_style_id": "2",
+        "nature_id": "17"
+    },
+    {
+        "high_hp_preference": "10",
+        "low_hp_preference": "8",
+        "move_battle_style_id": "3",
+        "nature_id": "17"
+    },
+    {
+        "high_hp_preference": "35",
+        "low_hp_preference": "29",
+        "move_battle_style_id": "1",
+        "nature_id": "18"
+    },
+    {
+        "high_hp_preference": "10",
+        "low_hp_preference": "6",
+        "move_battle_style_id": "2",
+        "nature_id": "18"
+    },
+    {
+        "high_hp_preference": "55",
+        "low_hp_preference": "65",
+        "move_battle_style_id": "3",
+        "nature_id": "18"
+    },
+    {
+        "high_hp_preference": "56",
+        "low_hp_preference": "56",
+        "move_battle_style_id": "1",
+        "nature_id": "19"
+    },
+    {
+        "high_hp_preference": "22",
+        "low_hp_preference": "22",
+        "move_battle_style_id": "2",
+        "nature_id": "19"
+    },
+    {
+        "high_hp_preference": "22",
+        "low_hp_preference": "22",
+        "move_battle_style_id": "3",
+        "nature_id": "19"
+    },
+    {
+        "high_hp_preference": "56",
+        "low_hp_preference": "56",
+        "move_battle_style_id": "1",
+        "nature_id": "20"
+    },
+    {
+        "high_hp_preference": "22",
+        "low_hp_preference": "22",
+        "move_battle_style_id": "2",
+        "nature_id": "20"
+    },
+    {
+        "high_hp_preference": "22",
+        "low_hp_preference": "22",
+        "move_battle_style_id": "3",
+        "nature_id": "20"
+    },
+    {
+        "high_hp_preference": "70",
+        "low_hp_preference": "32",
+        "move_battle_style_id": "1",
+        "nature_id": "21"
+    },
+    {
+        "high_hp_preference": "15",
+        "low_hp_preference": "60",
+        "move_battle_style_id": "2",
+        "nature_id": "21"
+    },
+    {
+        "high_hp_preference": "15",
+        "low_hp_preference": "8",
+        "move_battle_style_id": "3",
+        "nature_id": "21"
+    },
+    {
+        "high_hp_preference": "25",
+        "low_hp_preference": "75",
+        "move_battle_style_id": "1",
+        "nature_id": "22"
+    },
+    {
+        "high_hp_preference": "15",
+        "low_hp_preference": "15",
+        "move_battle_style_id": "2",
+        "nature_id": "22"
+    },
+    {
+        "high_hp_preference": "60",
+        "low_hp_preference": "10",
+        "move_battle_style_id": "3",
+        "nature_id": "22"
+    },
+    {
+        "high_hp_preference": "56",
+        "low_hp_preference": "56",
+        "move_battle_style_id": "1",
+        "nature_id": "23"
+    },
+    {
+        "high_hp_preference": "22",
+        "low_hp_preference": "22",
+        "move_battle_style_id": "2",
+        "nature_id": "23"
+    },
+    {
+        "high_hp_preference": "22",
+        "low_hp_preference": "22",
+        "move_battle_style_id": "3",
+        "nature_id": "23"
+    },
+    {
+        "high_hp_preference": "88",
+        "low_hp_preference": "22",
+        "move_battle_style_id": "1",
+        "nature_id": "24"
+    },
+    {
+        "high_hp_preference": "6",
+        "low_hp_preference": "20",
+        "move_battle_style_id": "2",
+        "nature_id": "24"
+    },
+    {
+        "high_hp_preference": "6",
+        "low_hp_preference": "58",
+        "move_battle_style_id": "3",
+        "nature_id": "24"
+    },
+    {
+        "high_hp_preference": "34",
+        "low_hp_preference": "29",
+        "move_battle_style_id": "1",
+        "nature_id": "25"
+    },
+    {
+        "high_hp_preference": "11",
+        "low_hp_preference": "11",
+        "move_battle_style_id": "2",
+        "nature_id": "25"
+    },
+    {
+        "high_hp_preference": "55",
+        "low_hp_preference": "60",
+        "move_battle_style_id": "3",
+        "nature_id": "25"
+    }
+]

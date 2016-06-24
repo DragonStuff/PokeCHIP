@@ -1,0 +1,652 @@
+[
+    {
+        "local_language_id": "1",
+        "name": "\u8d64",
+        "version_id": "1"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Rouge",
+        "version_id": "1"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Rot",
+        "version_id": "1"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Rossa",
+        "version_id": "1"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Red",
+        "version_id": "1"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u7dd1",
+        "version_id": "2"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Bleu",
+        "version_id": "2"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Blau",
+        "version_id": "2"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Blu",
+        "version_id": "2"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Blue",
+        "version_id": "2"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30d4\u30ab\u30c1\u30e5\u30a6",
+        "version_id": "3"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Jaune",
+        "version_id": "3"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Gelb",
+        "version_id": "3"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Gialla",
+        "version_id": "3"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Yellow",
+        "version_id": "3"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u91d1",
+        "version_id": "4"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Or",
+        "version_id": "4"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Gold",
+        "version_id": "4"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Oro",
+        "version_id": "4"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Gold",
+        "version_id": "4"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u9280",
+        "version_id": "5"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Argent",
+        "version_id": "5"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Silber",
+        "version_id": "5"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Argento",
+        "version_id": "5"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Silver",
+        "version_id": "5"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30af\u30ea\u30b9\u30bf\u30eb",
+        "version_id": "6"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Cristal",
+        "version_id": "6"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Kristall",
+        "version_id": "6"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Cristallo",
+        "version_id": "6"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Crystal",
+        "version_id": "6"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30eb\u30d3\u30fc",
+        "version_id": "7"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Rubis",
+        "version_id": "7"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Rubin",
+        "version_id": "7"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Rubino",
+        "version_id": "7"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Ruby",
+        "version_id": "7"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30b5\u30d5\u30a1\u30a4\u30a2",
+        "version_id": "8"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Saphir",
+        "version_id": "8"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Saphir",
+        "version_id": "8"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Zaffiro",
+        "version_id": "8"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Sapphire",
+        "version_id": "8"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30a8\u30e1\u30e9\u30eb\u30c9",
+        "version_id": "9"
+    },
+    {
+        "local_language_id": "5",
+        "name": "\u00c9meraude",
+        "version_id": "9"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Smaragd",
+        "version_id": "9"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Smeraldo",
+        "version_id": "9"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Emerald",
+        "version_id": "9"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30d5\u30a1\u30a4\u30a2\u30ec\u30c3\u30c9",
+        "version_id": "10"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Rouge Feu",
+        "version_id": "10"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Feuerrot",
+        "version_id": "10"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Rosso Fuoco",
+        "version_id": "10"
+    },
+    {
+        "local_language_id": "9",
+        "name": "FireRed",
+        "version_id": "10"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30ea\u30fc\u30d5\u30b0\u30ea\u30fc\u30f3",
+        "version_id": "11"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Vert Feuille",
+        "version_id": "11"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Blattgr\u00fcn",
+        "version_id": "11"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Verde Foglia",
+        "version_id": "11"
+    },
+    {
+        "local_language_id": "9",
+        "name": "LeafGreen",
+        "version_id": "11"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9",
+        "version_id": "12"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Diamant",
+        "version_id": "12"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Diamant",
+        "version_id": "12"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Diamante",
+        "version_id": "12"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Diamond",
+        "version_id": "12"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30d1\u30fc\u30eb",
+        "version_id": "13"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Perle",
+        "version_id": "13"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Perl",
+        "version_id": "13"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Perla",
+        "version_id": "13"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Pearl",
+        "version_id": "13"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30d7\u30e9\u30c1\u30ca",
+        "version_id": "14"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Platine",
+        "version_id": "14"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Platin",
+        "version_id": "14"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Platino",
+        "version_id": "14"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Platinum",
+        "version_id": "14"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30cf\u30fc\u30c8\u30b4\u30fc\u30eb\u30c9",
+        "version_id": "15"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Or HeartGold",
+        "version_id": "15"
+    },
+    {
+        "local_language_id": "6",
+        "name": "HeartGold",
+        "version_id": "15"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Oro HeartGold",
+        "version_id": "15"
+    },
+    {
+        "local_language_id": "9",
+        "name": "HeartGold",
+        "version_id": "15"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30bd\u30a6\u30eb\u30b7\u30eb\u30d0\u30fc",
+        "version_id": "16"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Argent SoulSilver",
+        "version_id": "16"
+    },
+    {
+        "local_language_id": "6",
+        "name": "SoulSilver",
+        "version_id": "16"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Argento SoulSilver",
+        "version_id": "16"
+    },
+    {
+        "local_language_id": "9",
+        "name": "SoulSilver",
+        "version_id": "16"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30d6\u30e9\u30c3\u30af",
+        "version_id": "17"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Noir",
+        "version_id": "17"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Schwarz",
+        "version_id": "17"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Nera",
+        "version_id": "17"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Black",
+        "version_id": "17"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30db\u30ef\u30a4\u30c8",
+        "version_id": "18"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Blanc",
+        "version_id": "18"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Wei\u00df",
+        "version_id": "18"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Bianca",
+        "version_id": "18"
+    },
+    {
+        "local_language_id": "9",
+        "name": "White",
+        "version_id": "18"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30b3\u30ed\u30b7\u30a2\u30e0",
+        "version_id": "19"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Colosseum",
+        "version_id": "19"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Colosseum",
+        "version_id": "19"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Colosseum",
+        "version_id": "19"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Colosseum",
+        "version_id": "19"
+    },
+    {
+        "local_language_id": "1",
+        "name": "XD",
+        "version_id": "20"
+    },
+    {
+        "local_language_id": "5",
+        "name": "XD",
+        "version_id": "20"
+    },
+    {
+        "local_language_id": "6",
+        "name": "XD",
+        "version_id": "20"
+    },
+    {
+        "local_language_id": "8",
+        "name": "XD",
+        "version_id": "20"
+    },
+    {
+        "local_language_id": "9",
+        "name": "XD",
+        "version_id": "20"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30d6\u30e9\u30c3\u30af2",
+        "version_id": "21"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Noir 2",
+        "version_id": "21"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Schwarz 2",
+        "version_id": "21"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Nera 2",
+        "version_id": "21"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Black 2",
+        "version_id": "21"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30db\u30ef\u30a4\u30c82",
+        "version_id": "22"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Blanc 2",
+        "version_id": "22"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Wei\u00df 2",
+        "version_id": "22"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Bianca 2",
+        "version_id": "22"
+    },
+    {
+        "local_language_id": "9",
+        "name": "White 2",
+        "version_id": "22"
+    },
+    {
+        "local_language_id": "1",
+        "name": "X",
+        "version_id": "23"
+    },
+    {
+        "local_language_id": "5",
+        "name": "X",
+        "version_id": "23"
+    },
+    {
+        "local_language_id": "6",
+        "name": "X",
+        "version_id": "23"
+    },
+    {
+        "local_language_id": "8",
+        "name": "X",
+        "version_id": "23"
+    },
+    {
+        "local_language_id": "9",
+        "name": "X",
+        "version_id": "23"
+    },
+    {
+        "local_language_id": "1",
+        "name": "Y",
+        "version_id": "24"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Y",
+        "version_id": "24"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Y",
+        "version_id": "24"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Y",
+        "version_id": "24"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Y",
+        "version_id": "24"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30aa\u30e1\u30ac\u30eb\u30d3\u30fc",
+        "version_id": "25"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Rubis Om\u00e9ga",
+        "version_id": "25"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Omega Rubin",
+        "version_id": "25"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Rubino Omega",
+        "version_id": "25"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Omega Ruby",
+        "version_id": "25"
+    },
+    {
+        "local_language_id": "1",
+        "name": "\u30a2\u30eb\u30d5\u30a1\u30b5\u30d5\u30a1\u30a4\u30a2",
+        "version_id": "26"
+    },
+    {
+        "local_language_id": "5",
+        "name": "Saphir Alpha",
+        "version_id": "26"
+    },
+    {
+        "local_language_id": "6",
+        "name": "Alpha Saphir",
+        "version_id": "26"
+    },
+    {
+        "local_language_id": "8",
+        "name": "Zaffiro Alpha",
+        "version_id": "26"
+    },
+    {
+        "local_language_id": "9",
+        "name": "Alpha Sapphire",
+        "version_id": "26"
+    }
+]
