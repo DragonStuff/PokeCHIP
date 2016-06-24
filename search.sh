@@ -6,7 +6,7 @@
 
 VERSION=0.0.1
 SUBJECT=Search_Datasets
-USAGE="Usage: command -ihv args"
+USAGE="Usage: search.sh -ihv dataset search_heading search_query"
 
 # --- Options processing -------------------------------------------
 if [ $# == 0 ] ; then
