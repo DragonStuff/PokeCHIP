@@ -1,0 +1,2 @@
+# PokeCHIP
+Pokédex for PocketCHIP.
