@@ -1,0 +1,62 @@
+[
+    {
+        "evolution_trigger_id": "1",
+        "local_language_id": "5",
+        "name": "Mont\u00e9e de niveau"
+    },
+    {
+        "evolution_trigger_id": "1",
+        "local_language_id": "6",
+        "name": "Levelaufstieg"
+    },
+    {
+        "evolution_trigger_id": "1",
+        "local_language_id": "9",
+        "name": "Level up"
+    },
+    {
+        "evolution_trigger_id": "2",
+        "local_language_id": "5",
+        "name": "\u00c9change"
+    },
+    {
+        "evolution_trigger_id": "2",
+        "local_language_id": "6",
+        "name": "Tausch"
+    },
+    {
+        "evolution_trigger_id": "2",
+        "local_language_id": "9",
+        "name": "Trade"
+    },
+    {
+        "evolution_trigger_id": "3",
+        "local_language_id": "5",
+        "name": "Utilisation d'un objet"
+    },
+    {
+        "evolution_trigger_id": "3",
+        "local_language_id": "6",
+        "name": "Gegenstand nutzen"
+    },
+    {
+        "evolution_trigger_id": "3",
+        "local_language_id": "9",
+        "name": "Use item"
+    },
+    {
+        "evolution_trigger_id": "4",
+        "local_language_id": "5",
+        "name": "Place dans l'\u00e9quipe et une Pok\u00e9 Ball"
+    },
+    {
+        "evolution_trigger_id": "4",
+        "local_language_id": "6",
+        "name": "Platz im Team und ein Pok\u00e9ball"
+    },
+    {
+        "evolution_trigger_id": "4",
+        "local_language_id": "9",
+        "name": "Shed"
+    }
+]

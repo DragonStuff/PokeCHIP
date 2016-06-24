@@ -1,0 +1,1508 @@
+[
+    {
+        "generation_id": "3",
+        "id": "1",
+        "identifier": "stench",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "2",
+        "identifier": "drizzle",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "3",
+        "identifier": "speed-boost",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "4",
+        "identifier": "battle-armor",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "5",
+        "identifier": "sturdy",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "6",
+        "identifier": "damp",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "7",
+        "identifier": "limber",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "8",
+        "identifier": "sand-veil",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "9",
+        "identifier": "static",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "10",
+        "identifier": "volt-absorb",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "11",
+        "identifier": "water-absorb",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "12",
+        "identifier": "oblivious",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "13",
+        "identifier": "cloud-nine",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "14",
+        "identifier": "compound-eyes",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "15",
+        "identifier": "insomnia",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "16",
+        "identifier": "color-change",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "17",
+        "identifier": "immunity",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "18",
+        "identifier": "flash-fire",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "19",
+        "identifier": "shield-dust",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "20",
+        "identifier": "own-tempo",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "21",
+        "identifier": "suction-cups",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "22",
+        "identifier": "intimidate",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "23",
+        "identifier": "shadow-tag",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "24",
+        "identifier": "rough-skin",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "25",
+        "identifier": "wonder-guard",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "26",
+        "identifier": "levitate",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "27",
+        "identifier": "effect-spore",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "28",
+        "identifier": "synchronize",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "29",
+        "identifier": "clear-body",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "30",
+        "identifier": "natural-cure",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "31",
+        "identifier": "lightning-rod",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "32",
+        "identifier": "serene-grace",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "33",
+        "identifier": "swift-swim",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "34",
+        "identifier": "chlorophyll",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "35",
+        "identifier": "illuminate",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "36",
+        "identifier": "trace",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "37",
+        "identifier": "huge-power",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "38",
+        "identifier": "poison-point",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "39",
+        "identifier": "inner-focus",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "40",
+        "identifier": "magma-armor",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "41",
+        "identifier": "water-veil",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "42",
+        "identifier": "magnet-pull",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "43",
+        "identifier": "soundproof",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "44",
+        "identifier": "rain-dish",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "45",
+        "identifier": "sand-stream",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "46",
+        "identifier": "pressure",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "47",
+        "identifier": "thick-fat",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "48",
+        "identifier": "early-bird",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "49",
+        "identifier": "flame-body",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "50",
+        "identifier": "run-away",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "51",
+        "identifier": "keen-eye",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "52",
+        "identifier": "hyper-cutter",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "53",
+        "identifier": "pickup",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "54",
+        "identifier": "truant",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "55",
+        "identifier": "hustle",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "56",
+        "identifier": "cute-charm",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "57",
+        "identifier": "plus",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "58",
+        "identifier": "minus",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "59",
+        "identifier": "forecast",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "60",
+        "identifier": "sticky-hold",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "61",
+        "identifier": "shed-skin",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "62",
+        "identifier": "guts",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "63",
+        "identifier": "marvel-scale",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "64",
+        "identifier": "liquid-ooze",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "65",
+        "identifier": "overgrow",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "66",
+        "identifier": "blaze",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "67",
+        "identifier": "torrent",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "68",
+        "identifier": "swarm",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "69",
+        "identifier": "rock-head",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "70",
+        "identifier": "drought",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "71",
+        "identifier": "arena-trap",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "72",
+        "identifier": "vital-spirit",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "73",
+        "identifier": "white-smoke",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "74",
+        "identifier": "pure-power",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "75",
+        "identifier": "shell-armor",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "3",
+        "id": "76",
+        "identifier": "air-lock",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "77",
+        "identifier": "tangled-feet",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "78",
+        "identifier": "motor-drive",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "79",
+        "identifier": "rivalry",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "80",
+        "identifier": "steadfast",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "81",
+        "identifier": "snow-cloak",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "82",
+        "identifier": "gluttony",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "83",
+        "identifier": "anger-point",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "84",
+        "identifier": "unburden",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "85",
+        "identifier": "heatproof",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "86",
+        "identifier": "simple",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "87",
+        "identifier": "dry-skin",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "88",
+        "identifier": "download",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "89",
+        "identifier": "iron-fist",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "90",
+        "identifier": "poison-heal",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "91",
+        "identifier": "adaptability",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "92",
+        "identifier": "skill-link",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "93",
+        "identifier": "hydration",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "94",
+        "identifier": "solar-power",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "95",
+        "identifier": "quick-feet",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "96",
+        "identifier": "normalize",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "97",
+        "identifier": "sniper",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "98",
+        "identifier": "magic-guard",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "99",
+        "identifier": "no-guard",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "100",
+        "identifier": "stall",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "101",
+        "identifier": "technician",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "102",
+        "identifier": "leaf-guard",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "103",
+        "identifier": "klutz",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "104",
+        "identifier": "mold-breaker",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "105",
+        "identifier": "super-luck",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "106",
+        "identifier": "aftermath",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "107",
+        "identifier": "anticipation",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "108",
+        "identifier": "forewarn",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "109",
+        "identifier": "unaware",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "110",
+        "identifier": "tinted-lens",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "111",
+        "identifier": "filter",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "112",
+        "identifier": "slow-start",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "113",
+        "identifier": "scrappy",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "114",
+        "identifier": "storm-drain",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "115",
+        "identifier": "ice-body",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "116",
+        "identifier": "solid-rock",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "117",
+        "identifier": "snow-warning",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "118",
+        "identifier": "honey-gather",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "119",
+        "identifier": "frisk",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "120",
+        "identifier": "reckless",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "121",
+        "identifier": "multitype",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "122",
+        "identifier": "flower-gift",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "4",
+        "id": "123",
+        "identifier": "bad-dreams",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "124",
+        "identifier": "pickpocket",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "125",
+        "identifier": "sheer-force",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "126",
+        "identifier": "contrary",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "127",
+        "identifier": "unnerve",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "128",
+        "identifier": "defiant",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "129",
+        "identifier": "defeatist",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "130",
+        "identifier": "cursed-body",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "131",
+        "identifier": "healer",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "132",
+        "identifier": "friend-guard",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "133",
+        "identifier": "weak-armor",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "134",
+        "identifier": "heavy-metal",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "135",
+        "identifier": "light-metal",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "136",
+        "identifier": "multiscale",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "137",
+        "identifier": "toxic-boost",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "138",
+        "identifier": "flare-boost",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "139",
+        "identifier": "harvest",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "140",
+        "identifier": "telepathy",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "141",
+        "identifier": "moody",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "142",
+        "identifier": "overcoat",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "143",
+        "identifier": "poison-touch",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "144",
+        "identifier": "regenerator",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "145",
+        "identifier": "big-pecks",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "146",
+        "identifier": "sand-rush",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "147",
+        "identifier": "wonder-skin",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "148",
+        "identifier": "analytic",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "149",
+        "identifier": "illusion",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "150",
+        "identifier": "imposter",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "151",
+        "identifier": "infiltrator",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "152",
+        "identifier": "mummy",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "153",
+        "identifier": "moxie",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "154",
+        "identifier": "justified",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "155",
+        "identifier": "rattled",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "156",
+        "identifier": "magic-bounce",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "157",
+        "identifier": "sap-sipper",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "158",
+        "identifier": "prankster",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "159",
+        "identifier": "sand-force",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "160",
+        "identifier": "iron-barbs",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "161",
+        "identifier": "zen-mode",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "162",
+        "identifier": "victory-star",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "163",
+        "identifier": "turboblaze",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "164",
+        "identifier": "teravolt",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "165",
+        "identifier": "aroma-veil",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "166",
+        "identifier": "flower-veil",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "167",
+        "identifier": "cheek-pouch",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "168",
+        "identifier": "protean",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "169",
+        "identifier": "fur-coat",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "170",
+        "identifier": "magician",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "171",
+        "identifier": "bulletproof",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "172",
+        "identifier": "competitive",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "173",
+        "identifier": "strong-jaw",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "174",
+        "identifier": "refrigerate",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "175",
+        "identifier": "sweet-veil",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "176",
+        "identifier": "stance-change",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "177",
+        "identifier": "gale-wings",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "178",
+        "identifier": "mega-launcher",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "179",
+        "identifier": "grass-pelt",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "180",
+        "identifier": "symbiosis",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "181",
+        "identifier": "tough-claws",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "182",
+        "identifier": "pixilate",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "183",
+        "identifier": "gooey",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "184",
+        "identifier": "aerilate",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "185",
+        "identifier": "parental-bond",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "186",
+        "identifier": "dark-aura",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "187",
+        "identifier": "fairy-aura",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "188",
+        "identifier": "aura-break",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "189",
+        "identifier": "primordial-sea",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "190",
+        "identifier": "desolate-land",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "6",
+        "id": "191",
+        "identifier": "delta-stream",
+        "is_main_series": "1"
+    },
+    {
+        "generation_id": "5",
+        "id": "10001",
+        "identifier": "mountaineer",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10002",
+        "identifier": "wave-rider",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10003",
+        "identifier": "skater",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10004",
+        "identifier": "thrust",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10005",
+        "identifier": "perception",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10006",
+        "identifier": "parry",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10007",
+        "identifier": "instinct",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10008",
+        "identifier": "dodge",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10009",
+        "identifier": "jagged-edge",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10010",
+        "identifier": "frostbite",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10011",
+        "identifier": "tenacity",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10012",
+        "identifier": "pride",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10013",
+        "identifier": "deep-sleep",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10014",
+        "identifier": "power-nap",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10015",
+        "identifier": "spirit",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10016",
+        "identifier": "warm-blanket",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10017",
+        "identifier": "gulp",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10018",
+        "identifier": "herbivore",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10019",
+        "identifier": "sandpit",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10020",
+        "identifier": "hot-blooded",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10021",
+        "identifier": "medic",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10022",
+        "identifier": "life-force",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10023",
+        "identifier": "lunchbox",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10024",
+        "identifier": "nurse",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10025",
+        "identifier": "melee",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10026",
+        "identifier": "sponge",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10027",
+        "identifier": "bodyguard",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10028",
+        "identifier": "hero",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10029",
+        "identifier": "last-bastion",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10030",
+        "identifier": "stealth",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10031",
+        "identifier": "vanguard",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10032",
+        "identifier": "nomad",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10033",
+        "identifier": "sequence",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10034",
+        "identifier": "grass-cloak",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10035",
+        "identifier": "celebrate",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10036",
+        "identifier": "lullaby",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10037",
+        "identifier": "calming",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10038",
+        "identifier": "daze",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10039",
+        "identifier": "frighten",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10040",
+        "identifier": "interference",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10041",
+        "identifier": "mood-maker",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10042",
+        "identifier": "confidence",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10043",
+        "identifier": "fortune",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10044",
+        "identifier": "bonanza",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10045",
+        "identifier": "explode",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10046",
+        "identifier": "omnipotent",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10047",
+        "identifier": "share",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10048",
+        "identifier": "black-hole",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10049",
+        "identifier": "shadow-dash",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10050",
+        "identifier": "sprint",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10051",
+        "identifier": "disgust",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10052",
+        "identifier": "high-rise",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10053",
+        "identifier": "climber",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10054",
+        "identifier": "flame-boost",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10055",
+        "identifier": "aqua-boost",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10056",
+        "identifier": "run-up",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10057",
+        "identifier": "conqueror",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10058",
+        "identifier": "shackle",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10059",
+        "identifier": "decoy",
+        "is_main_series": "0"
+    },
+    {
+        "generation_id": "5",
+        "id": "10060",
+        "identifier": "shield",
+        "is_main_series": "0"
+    }
+]

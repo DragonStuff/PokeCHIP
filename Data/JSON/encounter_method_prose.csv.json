@@ -1,0 +1,172 @@
+[
+    {
+        "encounter_method_id": "1",
+        "local_language_id": "6",
+        "name": "Im hohen Gras oder in einer H\u00f6hle laufen"
+    },
+    {
+        "encounter_method_id": "1",
+        "local_language_id": "9",
+        "name": "Walking in tall grass or a cave"
+    },
+    {
+        "encounter_method_id": "2",
+        "local_language_id": "6",
+        "name": "Mit einer normalen Angel angeln"
+    },
+    {
+        "encounter_method_id": "2",
+        "local_language_id": "9",
+        "name": "Fishing with an Old Rod"
+    },
+    {
+        "encounter_method_id": "3",
+        "local_language_id": "6",
+        "name": "Mit einer Profiangel angeln"
+    },
+    {
+        "encounter_method_id": "3",
+        "local_language_id": "9",
+        "name": "Fishing with a Good Rod"
+    },
+    {
+        "encounter_method_id": "4",
+        "local_language_id": "6",
+        "name": "Mit einer Superangel angeln"
+    },
+    {
+        "encounter_method_id": "4",
+        "local_language_id": "9",
+        "name": "Fishing with a Super Rod"
+    },
+    {
+        "encounter_method_id": "5",
+        "local_language_id": "6",
+        "name": "Surfen"
+    },
+    {
+        "encounter_method_id": "5",
+        "local_language_id": "9",
+        "name": "Surfing"
+    },
+    {
+        "encounter_method_id": "6",
+        "local_language_id": "6",
+        "name": "Steine zertr\u00fcmmern"
+    },
+    {
+        "encounter_method_id": "6",
+        "local_language_id": "9",
+        "name": "Smashing rocks"
+    },
+    {
+        "encounter_method_id": "7",
+        "local_language_id": "6",
+        "name": "B\u00e4umen Kopfn\u00fcsse geben"
+    },
+    {
+        "encounter_method_id": "7",
+        "local_language_id": "9",
+        "name": "Headbutting trees"
+    },
+    {
+        "encounter_method_id": "8",
+        "local_language_id": "6",
+        "name": "Im dunklen Gras laufen"
+    },
+    {
+        "encounter_method_id": "8",
+        "local_language_id": "9",
+        "name": "Walking in dark grass"
+    },
+    {
+        "encounter_method_id": "9",
+        "local_language_id": "6",
+        "name": "Im raschelndem Gras laufen"
+    },
+    {
+        "encounter_method_id": "9",
+        "local_language_id": "9",
+        "name": "Walking in rustling grass"
+    },
+    {
+        "encounter_method_id": "10",
+        "local_language_id": "6",
+        "name": "In Staubwolken laufen"
+    },
+    {
+        "encounter_method_id": "10",
+        "local_language_id": "9",
+        "name": "Walking in dust clouds"
+    },
+    {
+        "encounter_method_id": "11",
+        "local_language_id": "6",
+        "name": "Im Schatten einer Br\u00fccke laufen"
+    },
+    {
+        "encounter_method_id": "11",
+        "local_language_id": "9",
+        "name": "Walking in bridge shadows"
+    },
+    {
+        "encounter_method_id": "12",
+        "local_language_id": "6",
+        "name": "An dunklen stellen angeln"
+    },
+    {
+        "encounter_method_id": "12",
+        "local_language_id": "9",
+        "name": "Fishing in dark spots"
+    },
+    {
+        "encounter_method_id": "13",
+        "local_language_id": "6",
+        "name": "An dunklen stellen surfen"
+    },
+    {
+        "encounter_method_id": "13",
+        "local_language_id": "9",
+        "name": "Surfing in dark spots"
+    },
+    {
+        "encounter_method_id": "14",
+        "local_language_id": "6",
+        "name": "In gelben Blumenfeldern laufen"
+    },
+    {
+        "encounter_method_id": "14",
+        "local_language_id": "9",
+        "name": "Walking in yellow flowers"
+    },
+    {
+        "encounter_method_id": "15",
+        "local_language_id": "6",
+        "name": "In violetten Blumenfeldern laufen"
+    },
+    {
+        "encounter_method_id": "15",
+        "local_language_id": "9",
+        "name": "Walking in purple flowers"
+    },
+    {
+        "encounter_method_id": "16",
+        "local_language_id": "6",
+        "name": "In roten Blumenfeldern laufen"
+    },
+    {
+        "encounter_method_id": "16",
+        "local_language_id": "9",
+        "name": "Walking in red flowers"
+    },
+    {
+        "encounter_method_id": "17",
+        "local_language_id": "6",
+        "name": "Auf unwegsamen Gel\u00e4nde laufen"
+    },
+    {
+        "encounter_method_id": "17",
+        "local_language_id": "9",
+        "name": "Walking on rough terrain"
+    }
+]

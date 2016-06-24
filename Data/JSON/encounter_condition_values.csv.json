@@ -1,0 +1,122 @@
+[
+    {
+        "encounter_condition_id": "1",
+        "id": "1",
+        "identifier": "swarm-yes",
+        "is_default": "0"
+    },
+    {
+        "encounter_condition_id": "1",
+        "id": "2",
+        "identifier": "swarm-no",
+        "is_default": "1"
+    },
+    {
+        "encounter_condition_id": "2",
+        "id": "3",
+        "identifier": "time-morning",
+        "is_default": "0"
+    },
+    {
+        "encounter_condition_id": "2",
+        "id": "4",
+        "identifier": "time-day",
+        "is_default": "1"
+    },
+    {
+        "encounter_condition_id": "2",
+        "id": "5",
+        "identifier": "time-night",
+        "is_default": "0"
+    },
+    {
+        "encounter_condition_id": "3",
+        "id": "6",
+        "identifier": "radar-on",
+        "is_default": "0"
+    },
+    {
+        "encounter_condition_id": "3",
+        "id": "7",
+        "identifier": "radar-off",
+        "is_default": "1"
+    },
+    {
+        "encounter_condition_id": "4",
+        "id": "8",
+        "identifier": "slot2-none",
+        "is_default": "1"
+    },
+    {
+        "encounter_condition_id": "4",
+        "id": "9",
+        "identifier": "slot2-ruby",
+        "is_default": "0"
+    },
+    {
+        "encounter_condition_id": "4",
+        "id": "10",
+        "identifier": "slot2-sapphire",
+        "is_default": "0"
+    },
+    {
+        "encounter_condition_id": "4",
+        "id": "11",
+        "identifier": "slot2-emerald",
+        "is_default": "0"
+    },
+    {
+        "encounter_condition_id": "4",
+        "id": "12",
+        "identifier": "slot2-firered",
+        "is_default": "0"
+    },
+    {
+        "encounter_condition_id": "4",
+        "id": "13",
+        "identifier": "slot2-leafgreen",
+        "is_default": "0"
+    },
+    {
+        "encounter_condition_id": "5",
+        "id": "14",
+        "identifier": "radio-off",
+        "is_default": "1"
+    },
+    {
+        "encounter_condition_id": "5",
+        "id": "15",
+        "identifier": "radio-hoenn",
+        "is_default": "0"
+    },
+    {
+        "encounter_condition_id": "5",
+        "id": "16",
+        "identifier": "radio-sinnoh",
+        "is_default": "0"
+    },
+    {
+        "encounter_condition_id": "6",
+        "id": "17",
+        "identifier": "season-spring",
+        "is_default": "0"
+    },
+    {
+        "encounter_condition_id": "6",
+        "id": "18",
+        "identifier": "season-summer",
+        "is_default": "0"
+    },
+    {
+        "encounter_condition_id": "6",
+        "id": "19",
+        "identifier": "season-autumn",
+        "is_default": "0"
+    },
+    {
+        "encounter_condition_id": "6",
+        "id": "20",
+        "identifier": "season-winter",
+        "is_default": "0"
+    }
+]

@@ -1,0 +1,3002 @@
+[
+    {
+        "experience": "0",
+        "growth_rate_id": "1",
+        "level": "1"
+    },
+    {
+        "experience": "10",
+        "growth_rate_id": "1",
+        "level": "2"
+    },
+    {
+        "experience": "33",
+        "growth_rate_id": "1",
+        "level": "3"
+    },
+    {
+        "experience": "80",
+        "growth_rate_id": "1",
+        "level": "4"
+    },
+    {
+        "experience": "156",
+        "growth_rate_id": "1",
+        "level": "5"
+    },
+    {
+        "experience": "270",
+        "growth_rate_id": "1",
+        "level": "6"
+    },
+    {
+        "experience": "428",
+        "growth_rate_id": "1",
+        "level": "7"
+    },
+    {
+        "experience": "640",
+        "growth_rate_id": "1",
+        "level": "8"
+    },
+    {
+        "experience": "911",
+        "growth_rate_id": "1",
+        "level": "9"
+    },
+    {
+        "experience": "1250",
+        "growth_rate_id": "1",
+        "level": "10"
+    },
+    {
+        "experience": "1663",
+        "growth_rate_id": "1",
+        "level": "11"
+    },
+    {
+        "experience": "2160",
+        "growth_rate_id": "1",
+        "level": "12"
+    },
+    {
+        "experience": "2746",
+        "growth_rate_id": "1",
+        "level": "13"
+    },
+    {
+        "experience": "3430",
+        "growth_rate_id": "1",
+        "level": "14"
+    },
+    {
+        "experience": "4218",
+        "growth_rate_id": "1",
+        "level": "15"
+    },
+    {
+        "experience": "5120",
+        "growth_rate_id": "1",
+        "level": "16"
+    },
+    {
+        "experience": "6141",
+        "growth_rate_id": "1",
+        "level": "17"
+    },
+    {
+        "experience": "7290",
+        "growth_rate_id": "1",
+        "level": "18"
+    },
+    {
+        "experience": "8573",
+        "growth_rate_id": "1",
+        "level": "19"
+    },
+    {
+        "experience": "10000",
+        "growth_rate_id": "1",
+        "level": "20"
+    },
+    {
+        "experience": "11576",
+        "growth_rate_id": "1",
+        "level": "21"
+    },
+    {
+        "experience": "13310",
+        "growth_rate_id": "1",
+        "level": "22"
+    },
+    {
+        "experience": "15208",
+        "growth_rate_id": "1",
+        "level": "23"
+    },
+    {
+        "experience": "17280",
+        "growth_rate_id": "1",
+        "level": "24"
+    },
+    {
+        "experience": "19531",
+        "growth_rate_id": "1",
+        "level": "25"
+    },
+    {
+        "experience": "21970",
+        "growth_rate_id": "1",
+        "level": "26"
+    },
+    {
+        "experience": "24603",
+        "growth_rate_id": "1",
+        "level": "27"
+    },
+    {
+        "experience": "27440",
+        "growth_rate_id": "1",
+        "level": "28"
+    },
+    {
+        "experience": "30486",
+        "growth_rate_id": "1",
+        "level": "29"
+    },
+    {
+        "experience": "33750",
+        "growth_rate_id": "1",
+        "level": "30"
+    },
+    {
+        "experience": "37238",
+        "growth_rate_id": "1",
+        "level": "31"
+    },
+    {
+        "experience": "40960",
+        "growth_rate_id": "1",
+        "level": "32"
+    },
+    {
+        "experience": "44921",
+        "growth_rate_id": "1",
+        "level": "33"
+    },
+    {
+        "experience": "49130",
+        "growth_rate_id": "1",
+        "level": "34"
+    },
+    {
+        "experience": "53593",
+        "growth_rate_id": "1",
+        "level": "35"
+    },
+    {
+        "experience": "58320",
+        "growth_rate_id": "1",
+        "level": "36"
+    },
+    {
+        "experience": "63316",
+        "growth_rate_id": "1",
+        "level": "37"
+    },
+    {
+        "experience": "68590",
+        "growth_rate_id": "1",
+        "level": "38"
+    },
+    {
+        "experience": "74148",
+        "growth_rate_id": "1",
+        "level": "39"
+    },
+    {
+        "experience": "80000",
+        "growth_rate_id": "1",
+        "level": "40"
+    },
+    {
+        "experience": "86151",
+        "growth_rate_id": "1",
+        "level": "41"
+    },
+    {
+        "experience": "92610",
+        "growth_rate_id": "1",
+        "level": "42"
+    },
+    {
+        "experience": "99383",
+        "growth_rate_id": "1",
+        "level": "43"
+    },
+    {
+        "experience": "106480",
+        "growth_rate_id": "1",
+        "level": "44"
+    },
+    {
+        "experience": "113906",
+        "growth_rate_id": "1",
+        "level": "45"
+    },
+    {
+        "experience": "121670",
+        "growth_rate_id": "1",
+        "level": "46"
+    },
+    {
+        "experience": "129778",
+        "growth_rate_id": "1",
+        "level": "47"
+    },
+    {
+        "experience": "138240",
+        "growth_rate_id": "1",
+        "level": "48"
+    },
+    {
+        "experience": "147061",
+        "growth_rate_id": "1",
+        "level": "49"
+    },
+    {
+        "experience": "156250",
+        "growth_rate_id": "1",
+        "level": "50"
+    },
+    {
+        "experience": "165813",
+        "growth_rate_id": "1",
+        "level": "51"
+    },
+    {
+        "experience": "175760",
+        "growth_rate_id": "1",
+        "level": "52"
+    },
+    {
+        "experience": "186096",
+        "growth_rate_id": "1",
+        "level": "53"
+    },
+    {
+        "experience": "196830",
+        "growth_rate_id": "1",
+        "level": "54"
+    },
+    {
+        "experience": "207968",
+        "growth_rate_id": "1",
+        "level": "55"
+    },
+    {
+        "experience": "219520",
+        "growth_rate_id": "1",
+        "level": "56"
+    },
+    {
+        "experience": "231491",
+        "growth_rate_id": "1",
+        "level": "57"
+    },
+    {
+        "experience": "243890",
+        "growth_rate_id": "1",
+        "level": "58"
+    },
+    {
+        "experience": "256723",
+        "growth_rate_id": "1",
+        "level": "59"
+    },
+    {
+        "experience": "270000",
+        "growth_rate_id": "1",
+        "level": "60"
+    },
+    {
+        "experience": "283726",
+        "growth_rate_id": "1",
+        "level": "61"
+    },
+    {
+        "experience": "297910",
+        "growth_rate_id": "1",
+        "level": "62"
+    },
+    {
+        "experience": "312558",
+        "growth_rate_id": "1",
+        "level": "63"
+    },
+    {
+        "experience": "327680",
+        "growth_rate_id": "1",
+        "level": "64"
+    },
+    {
+        "experience": "343281",
+        "growth_rate_id": "1",
+        "level": "65"
+    },
+    {
+        "experience": "359370",
+        "growth_rate_id": "1",
+        "level": "66"
+    },
+    {
+        "experience": "375953",
+        "growth_rate_id": "1",
+        "level": "67"
+    },
+    {
+        "experience": "393040",
+        "growth_rate_id": "1",
+        "level": "68"
+    },
+    {
+        "experience": "410636",
+        "growth_rate_id": "1",
+        "level": "69"
+    },
+    {
+        "experience": "428750",
+        "growth_rate_id": "1",
+        "level": "70"
+    },
+    {
+        "experience": "447388",
+        "growth_rate_id": "1",
+        "level": "71"
+    },
+    {
+        "experience": "466560",
+        "growth_rate_id": "1",
+        "level": "72"
+    },
+    {
+        "experience": "486271",
+        "growth_rate_id": "1",
+        "level": "73"
+    },
+    {
+        "experience": "506530",
+        "growth_rate_id": "1",
+        "level": "74"
+    },
+    {
+        "experience": "527343",
+        "growth_rate_id": "1",
+        "level": "75"
+    },
+    {
+        "experience": "548720",
+        "growth_rate_id": "1",
+        "level": "76"
+    },
+    {
+        "experience": "570666",
+        "growth_rate_id": "1",
+        "level": "77"
+    },
+    {
+        "experience": "593190",
+        "growth_rate_id": "1",
+        "level": "78"
+    },
+    {
+        "experience": "616298",
+        "growth_rate_id": "1",
+        "level": "79"
+    },
+    {
+        "experience": "640000",
+        "growth_rate_id": "1",
+        "level": "80"
+    },
+    {
+        "experience": "664301",
+        "growth_rate_id": "1",
+        "level": "81"
+    },
+    {
+        "experience": "689210",
+        "growth_rate_id": "1",
+        "level": "82"
+    },
+    {
+        "experience": "714733",
+        "growth_rate_id": "1",
+        "level": "83"
+    },
+    {
+        "experience": "740880",
+        "growth_rate_id": "1",
+        "level": "84"
+    },
+    {
+        "experience": "767656",
+        "growth_rate_id": "1",
+        "level": "85"
+    },
+    {
+        "experience": "795070",
+        "growth_rate_id": "1",
+        "level": "86"
+    },
+    {
+        "experience": "823128",
+        "growth_rate_id": "1",
+        "level": "87"
+    },
+    {
+        "experience": "851840",
+        "growth_rate_id": "1",
+        "level": "88"
+    },
+    {
+        "experience": "881211",
+        "growth_rate_id": "1",
+        "level": "89"
+    },
+    {
+        "experience": "911250",
+        "growth_rate_id": "1",
+        "level": "90"
+    },
+    {
+        "experience": "941963",
+        "growth_rate_id": "1",
+        "level": "91"
+    },
+    {
+        "experience": "973360",
+        "growth_rate_id": "1",
+        "level": "92"
+    },
+    {
+        "experience": "1005446",
+        "growth_rate_id": "1",
+        "level": "93"
+    },
+    {
+        "experience": "1038230",
+        "growth_rate_id": "1",
+        "level": "94"
+    },
+    {
+        "experience": "1071718",
+        "growth_rate_id": "1",
+        "level": "95"
+    },
+    {
+        "experience": "1105920",
+        "growth_rate_id": "1",
+        "level": "96"
+    },
+    {
+        "experience": "1140841",
+        "growth_rate_id": "1",
+        "level": "97"
+    },
+    {
+        "experience": "1176490",
+        "growth_rate_id": "1",
+        "level": "98"
+    },
+    {
+        "experience": "1212873",
+        "growth_rate_id": "1",
+        "level": "99"
+    },
+    {
+        "experience": "1250000",
+        "growth_rate_id": "1",
+        "level": "100"
+    },
+    {
+        "experience": "0",
+        "growth_rate_id": "2",
+        "level": "1"
+    },
+    {
+        "experience": "8",
+        "growth_rate_id": "2",
+        "level": "2"
+    },
+    {
+        "experience": "27",
+        "growth_rate_id": "2",
+        "level": "3"
+    },
+    {
+        "experience": "64",
+        "growth_rate_id": "2",
+        "level": "4"
+    },
+    {
+        "experience": "125",
+        "growth_rate_id": "2",
+        "level": "5"
+    },
+    {
+        "experience": "216",
+        "growth_rate_id": "2",
+        "level": "6"
+    },
+    {
+        "experience": "343",
+        "growth_rate_id": "2",
+        "level": "7"
+    },
+    {
+        "experience": "512",
+        "growth_rate_id": "2",
+        "level": "8"
+    },
+    {
+        "experience": "729",
+        "growth_rate_id": "2",
+        "level": "9"
+    },
+    {
+        "experience": "1000",
+        "growth_rate_id": "2",
+        "level": "10"
+    },
+    {
+        "experience": "1331",
+        "growth_rate_id": "2",
+        "level": "11"
+    },
+    {
+        "experience": "1728",
+        "growth_rate_id": "2",
+        "level": "12"
+    },
+    {
+        "experience": "2197",
+        "growth_rate_id": "2",
+        "level": "13"
+    },
+    {
+        "experience": "2744",
+        "growth_rate_id": "2",
+        "level": "14"
+    },
+    {
+        "experience": "3375",
+        "growth_rate_id": "2",
+        "level": "15"
+    },
+    {
+        "experience": "4096",
+        "growth_rate_id": "2",
+        "level": "16"
+    },
+    {
+        "experience": "4913",
+        "growth_rate_id": "2",
+        "level": "17"
+    },
+    {
+        "experience": "5832",
+        "growth_rate_id": "2",
+        "level": "18"
+    },
+    {
+        "experience": "6859",
+        "growth_rate_id": "2",
+        "level": "19"
+    },
+    {
+        "experience": "8000",
+        "growth_rate_id": "2",
+        "level": "20"
+    },
+    {
+        "experience": "9261",
+        "growth_rate_id": "2",
+        "level": "21"
+    },
+    {
+        "experience": "10648",
+        "growth_rate_id": "2",
+        "level": "22"
+    },
+    {
+        "experience": "12167",
+        "growth_rate_id": "2",
+        "level": "23"
+    },
+    {
+        "experience": "13824",
+        "growth_rate_id": "2",
+        "level": "24"
+    },
+    {
+        "experience": "15625",
+        "growth_rate_id": "2",
+        "level": "25"
+    },
+    {
+        "experience": "17576",
+        "growth_rate_id": "2",
+        "level": "26"
+    },
+    {
+        "experience": "19683",
+        "growth_rate_id": "2",
+        "level": "27"
+    },
+    {
+        "experience": "21952",
+        "growth_rate_id": "2",
+        "level": "28"
+    },
+    {
+        "experience": "24389",
+        "growth_rate_id": "2",
+        "level": "29"
+    },
+    {
+        "experience": "27000",
+        "growth_rate_id": "2",
+        "level": "30"
+    },
+    {
+        "experience": "29791",
+        "growth_rate_id": "2",
+        "level": "31"
+    },
+    {
+        "experience": "32768",
+        "growth_rate_id": "2",
+        "level": "32"
+    },
+    {
+        "experience": "35937",
+        "growth_rate_id": "2",
+        "level": "33"
+    },
+    {
+        "experience": "39304",
+        "growth_rate_id": "2",
+        "level": "34"
+    },
+    {
+        "experience": "42875",
+        "growth_rate_id": "2",
+        "level": "35"
+    },
+    {
+        "experience": "46656",
+        "growth_rate_id": "2",
+        "level": "36"
+    },
+    {
+        "experience": "50653",
+        "growth_rate_id": "2",
+        "level": "37"
+    },
+    {
+        "experience": "54872",
+        "growth_rate_id": "2",
+        "level": "38"
+    },
+    {
+        "experience": "59319",
+        "growth_rate_id": "2",
+        "level": "39"
+    },
+    {
+        "experience": "64000",
+        "growth_rate_id": "2",
+        "level": "40"
+    },
+    {
+        "experience": "68921",
+        "growth_rate_id": "2",
+        "level": "41"
+    },
+    {
+        "experience": "74088",
+        "growth_rate_id": "2",
+        "level": "42"
+    },
+    {
+        "experience": "79507",
+        "growth_rate_id": "2",
+        "level": "43"
+    },
+    {
+        "experience": "85184",
+        "growth_rate_id": "2",
+        "level": "44"
+    },
+    {
+        "experience": "91125",
+        "growth_rate_id": "2",
+        "level": "45"
+    },
+    {
+        "experience": "97336",
+        "growth_rate_id": "2",
+        "level": "46"
+    },
+    {
+        "experience": "103823",
+        "growth_rate_id": "2",
+        "level": "47"
+    },
+    {
+        "experience": "110592",
+        "growth_rate_id": "2",
+        "level": "48"
+    },
+    {
+        "experience": "117649",
+        "growth_rate_id": "2",
+        "level": "49"
+    },
+    {
+        "experience": "125000",
+        "growth_rate_id": "2",
+        "level": "50"
+    },
+    {
+        "experience": "132651",
+        "growth_rate_id": "2",
+        "level": "51"
+    },
+    {
+        "experience": "140608",
+        "growth_rate_id": "2",
+        "level": "52"
+    },
+    {
+        "experience": "148877",
+        "growth_rate_id": "2",
+        "level": "53"
+    },
+    {
+        "experience": "157464",
+        "growth_rate_id": "2",
+        "level": "54"
+    },
+    {
+        "experience": "166375",
+        "growth_rate_id": "2",
+        "level": "55"
+    },
+    {
+        "experience": "175616",
+        "growth_rate_id": "2",
+        "level": "56"
+    },
+    {
+        "experience": "185193",
+        "growth_rate_id": "2",
+        "level": "57"
+    },
+    {
+        "experience": "195112",
+        "growth_rate_id": "2",
+        "level": "58"
+    },
+    {
+        "experience": "205379",
+        "growth_rate_id": "2",
+        "level": "59"
+    },
+    {
+        "experience": "216000",
+        "growth_rate_id": "2",
+        "level": "60"
+    },
+    {
+        "experience": "226981",
+        "growth_rate_id": "2",
+        "level": "61"
+    },
+    {
+        "experience": "238328",
+        "growth_rate_id": "2",
+        "level": "62"
+    },
+    {
+        "experience": "250047",
+        "growth_rate_id": "2",
+        "level": "63"
+    },
+    {
+        "experience": "262144",
+        "growth_rate_id": "2",
+        "level": "64"
+    },
+    {
+        "experience": "274625",
+        "growth_rate_id": "2",
+        "level": "65"
+    },
+    {
+        "experience": "287496",
+        "growth_rate_id": "2",
+        "level": "66"
+    },
+    {
+        "experience": "300763",
+        "growth_rate_id": "2",
+        "level": "67"
+    },
+    {
+        "experience": "314432",
+        "growth_rate_id": "2",
+        "level": "68"
+    },
+    {
+        "experience": "328509",
+        "growth_rate_id": "2",
+        "level": "69"
+    },
+    {
+        "experience": "343000",
+        "growth_rate_id": "2",
+        "level": "70"
+    },
+    {
+        "experience": "357911",
+        "growth_rate_id": "2",
+        "level": "71"
+    },
+    {
+        "experience": "373248",
+        "growth_rate_id": "2",
+        "level": "72"
+    },
+    {
+        "experience": "389017",
+        "growth_rate_id": "2",
+        "level": "73"
+    },
+    {
+        "experience": "405224",
+        "growth_rate_id": "2",
+        "level": "74"
+    },
+    {
+        "experience": "421875",
+        "growth_rate_id": "2",
+        "level": "75"
+    },
+    {
+        "experience": "438976",
+        "growth_rate_id": "2",
+        "level": "76"
+    },
+    {
+        "experience": "456533",
+        "growth_rate_id": "2",
+        "level": "77"
+    },
+    {
+        "experience": "474552",
+        "growth_rate_id": "2",
+        "level": "78"
+    },
+    {
+        "experience": "493039",
+        "growth_rate_id": "2",
+        "level": "79"
+    },
+    {
+        "experience": "512000",
+        "growth_rate_id": "2",
+        "level": "80"
+    },
+    {
+        "experience": "531441",
+        "growth_rate_id": "2",
+        "level": "81"
+    },
+    {
+        "experience": "551368",
+        "growth_rate_id": "2",
+        "level": "82"
+    },
+    {
+        "experience": "571787",
+        "growth_rate_id": "2",
+        "level": "83"
+    },
+    {
+        "experience": "592704",
+        "growth_rate_id": "2",
+        "level": "84"
+    },
+    {
+        "experience": "614125",
+        "growth_rate_id": "2",
+        "level": "85"
+    },
+    {
+        "experience": "636056",
+        "growth_rate_id": "2",
+        "level": "86"
+    },
+    {
+        "experience": "658503",
+        "growth_rate_id": "2",
+        "level": "87"
+    },
+    {
+        "experience": "681472",
+        "growth_rate_id": "2",
+        "level": "88"
+    },
+    {
+        "experience": "704969",
+        "growth_rate_id": "2",
+        "level": "89"
+    },
+    {
+        "experience": "729000",
+        "growth_rate_id": "2",
+        "level": "90"
+    },
+    {
+        "experience": "753571",
+        "growth_rate_id": "2",
+        "level": "91"
+    },
+    {
+        "experience": "778688",
+        "growth_rate_id": "2",
+        "level": "92"
+    },
+    {
+        "experience": "804357",
+        "growth_rate_id": "2",
+        "level": "93"
+    },
+    {
+        "experience": "830584",
+        "growth_rate_id": "2",
+        "level": "94"
+    },
+    {
+        "experience": "857375",
+        "growth_rate_id": "2",
+        "level": "95"
+    },
+    {
+        "experience": "884736",
+        "growth_rate_id": "2",
+        "level": "96"
+    },
+    {
+        "experience": "912673",
+        "growth_rate_id": "2",
+        "level": "97"
+    },
+    {
+        "experience": "941192",
+        "growth_rate_id": "2",
+        "level": "98"
+    },
+    {
+        "experience": "970299",
+        "growth_rate_id": "2",
+        "level": "99"
+    },
+    {
+        "experience": "1000000",
+        "growth_rate_id": "2",
+        "level": "100"
+    },
+    {
+        "experience": "0",
+        "growth_rate_id": "3",
+        "level": "1"
+    },
+    {
+        "experience": "6",
+        "growth_rate_id": "3",
+        "level": "2"
+    },
+    {
+        "experience": "21",
+        "growth_rate_id": "3",
+        "level": "3"
+    },
+    {
+        "experience": "51",
+        "growth_rate_id": "3",
+        "level": "4"
+    },
+    {
+        "experience": "100",
+        "growth_rate_id": "3",
+        "level": "5"
+    },
+    {
+        "experience": "172",
+        "growth_rate_id": "3",
+        "level": "6"
+    },
+    {
+        "experience": "274",
+        "growth_rate_id": "3",
+        "level": "7"
+    },
+    {
+        "experience": "409",
+        "growth_rate_id": "3",
+        "level": "8"
+    },
+    {
+        "experience": "583",
+        "growth_rate_id": "3",
+        "level": "9"
+    },
+    {
+        "experience": "800",
+        "growth_rate_id": "3",
+        "level": "10"
+    },
+    {
+        "experience": "1064",
+        "growth_rate_id": "3",
+        "level": "11"
+    },
+    {
+        "experience": "1382",
+        "growth_rate_id": "3",
+        "level": "12"
+    },
+    {
+        "experience": "1757",
+        "growth_rate_id": "3",
+        "level": "13"
+    },
+    {
+        "experience": "2195",
+        "growth_rate_id": "3",
+        "level": "14"
+    },
+    {
+        "experience": "2700",
+        "growth_rate_id": "3",
+        "level": "15"
+    },
+    {
+        "experience": "3276",
+        "growth_rate_id": "3",
+        "level": "16"
+    },
+    {
+        "experience": "3930",
+        "growth_rate_id": "3",
+        "level": "17"
+    },
+    {
+        "experience": "4665",
+        "growth_rate_id": "3",
+        "level": "18"
+    },
+    {
+        "experience": "5487",
+        "growth_rate_id": "3",
+        "level": "19"
+    },
+    {
+        "experience": "6400",
+        "growth_rate_id": "3",
+        "level": "20"
+    },
+    {
+        "experience": "7408",
+        "growth_rate_id": "3",
+        "level": "21"
+    },
+    {
+        "experience": "8518",
+        "growth_rate_id": "3",
+        "level": "22"
+    },
+    {
+        "experience": "9733",
+        "growth_rate_id": "3",
+        "level": "23"
+    },
+    {
+        "experience": "11059",
+        "growth_rate_id": "3",
+        "level": "24"
+    },
+    {
+        "experience": "12500",
+        "growth_rate_id": "3",
+        "level": "25"
+    },
+    {
+        "experience": "14060",
+        "growth_rate_id": "3",
+        "level": "26"
+    },
+    {
+        "experience": "15746",
+        "growth_rate_id": "3",
+        "level": "27"
+    },
+    {
+        "experience": "17561",
+        "growth_rate_id": "3",
+        "level": "28"
+    },
+    {
+        "experience": "19511",
+        "growth_rate_id": "3",
+        "level": "29"
+    },
+    {
+        "experience": "21600",
+        "growth_rate_id": "3",
+        "level": "30"
+    },
+    {
+        "experience": "23832",
+        "growth_rate_id": "3",
+        "level": "31"
+    },
+    {
+        "experience": "26214",
+        "growth_rate_id": "3",
+        "level": "32"
+    },
+    {
+        "experience": "28749",
+        "growth_rate_id": "3",
+        "level": "33"
+    },
+    {
+        "experience": "31443",
+        "growth_rate_id": "3",
+        "level": "34"
+    },
+    {
+        "experience": "34300",
+        "growth_rate_id": "3",
+        "level": "35"
+    },
+    {
+        "experience": "37324",
+        "growth_rate_id": "3",
+        "level": "36"
+    },
+    {
+        "experience": "40522",
+        "growth_rate_id": "3",
+        "level": "37"
+    },
+    {
+        "experience": "43897",
+        "growth_rate_id": "3",
+        "level": "38"
+    },
+    {
+        "experience": "47455",
+        "growth_rate_id": "3",
+        "level": "39"
+    },
+    {
+        "experience": "51200",
+        "growth_rate_id": "3",
+        "level": "40"
+    },
+    {
+        "experience": "55136",
+        "growth_rate_id": "3",
+        "level": "41"
+    },
+    {
+        "experience": "59270",
+        "growth_rate_id": "3",
+        "level": "42"
+    },
+    {
+        "experience": "63605",
+        "growth_rate_id": "3",
+        "level": "43"
+    },
+    {
+        "experience": "68147",
+        "growth_rate_id": "3",
+        "level": "44"
+    },
+    {
+        "experience": "72900",
+        "growth_rate_id": "3",
+        "level": "45"
+    },
+    {
+        "experience": "77868",
+        "growth_rate_id": "3",
+        "level": "46"
+    },
+    {
+        "experience": "83058",
+        "growth_rate_id": "3",
+        "level": "47"
+    },
+    {
+        "experience": "88473",
+        "growth_rate_id": "3",
+        "level": "48"
+    },
+    {
+        "experience": "94119",
+        "growth_rate_id": "3",
+        "level": "49"
+    },
+    {
+        "experience": "100000",
+        "growth_rate_id": "3",
+        "level": "50"
+    },
+    {
+        "experience": "106120",
+        "growth_rate_id": "3",
+        "level": "51"
+    },
+    {
+        "experience": "112486",
+        "growth_rate_id": "3",
+        "level": "52"
+    },
+    {
+        "experience": "119101",
+        "growth_rate_id": "3",
+        "level": "53"
+    },
+    {
+        "experience": "125971",
+        "growth_rate_id": "3",
+        "level": "54"
+    },
+    {
+        "experience": "133100",
+        "growth_rate_id": "3",
+        "level": "55"
+    },
+    {
+        "experience": "140492",
+        "growth_rate_id": "3",
+        "level": "56"
+    },
+    {
+        "experience": "148154",
+        "growth_rate_id": "3",
+        "level": "57"
+    },
+    {
+        "experience": "156089",
+        "growth_rate_id": "3",
+        "level": "58"
+    },
+    {
+        "experience": "164303",
+        "growth_rate_id": "3",
+        "level": "59"
+    },
+    {
+        "experience": "172800",
+        "growth_rate_id": "3",
+        "level": "60"
+    },
+    {
+        "experience": "181584",
+        "growth_rate_id": "3",
+        "level": "61"
+    },
+    {
+        "experience": "190662",
+        "growth_rate_id": "3",
+        "level": "62"
+    },
+    {
+        "experience": "200037",
+        "growth_rate_id": "3",
+        "level": "63"
+    },
+    {
+        "experience": "209715",
+        "growth_rate_id": "3",
+        "level": "64"
+    },
+    {
+        "experience": "219700",
+        "growth_rate_id": "3",
+        "level": "65"
+    },
+    {
+        "experience": "229996",
+        "growth_rate_id": "3",
+        "level": "66"
+    },
+    {
+        "experience": "240610",
+        "growth_rate_id": "3",
+        "level": "67"
+    },
+    {
+        "experience": "251545",
+        "growth_rate_id": "3",
+        "level": "68"
+    },
+    {
+        "experience": "262807",
+        "growth_rate_id": "3",
+        "level": "69"
+    },
+    {
+        "experience": "274400",
+        "growth_rate_id": "3",
+        "level": "70"
+    },
+    {
+        "experience": "286328",
+        "growth_rate_id": "3",
+        "level": "71"
+    },
+    {
+        "experience": "298598",
+        "growth_rate_id": "3",
+        "level": "72"
+    },
+    {
+        "experience": "311213",
+        "growth_rate_id": "3",
+        "level": "73"
+    },
+    {
+        "experience": "324179",
+        "growth_rate_id": "3",
+        "level": "74"
+    },
+    {
+        "experience": "337500",
+        "growth_rate_id": "3",
+        "level": "75"
+    },
+    {
+        "experience": "351180",
+        "growth_rate_id": "3",
+        "level": "76"
+    },
+    {
+        "experience": "365226",
+        "growth_rate_id": "3",
+        "level": "77"
+    },
+    {
+        "experience": "379641",
+        "growth_rate_id": "3",
+        "level": "78"
+    },
+    {
+        "experience": "394431",
+        "growth_rate_id": "3",
+        "level": "79"
+    },
+    {
+        "experience": "409600",
+        "growth_rate_id": "3",
+        "level": "80"
+    },
+    {
+        "experience": "425152",
+        "growth_rate_id": "3",
+        "level": "81"
+    },
+    {
+        "experience": "441094",
+        "growth_rate_id": "3",
+        "level": "82"
+    },
+    {
+        "experience": "457429",
+        "growth_rate_id": "3",
+        "level": "83"
+    },
+    {
+        "experience": "474163",
+        "growth_rate_id": "3",
+        "level": "84"
+    },
+    {
+        "experience": "491300",
+        "growth_rate_id": "3",
+        "level": "85"
+    },
+    {
+        "experience": "508844",
+        "growth_rate_id": "3",
+        "level": "86"
+    },
+    {
+        "experience": "526802",
+        "growth_rate_id": "3",
+        "level": "87"
+    },
+    {
+        "experience": "545177",
+        "growth_rate_id": "3",
+        "level": "88"
+    },
+    {
+        "experience": "563975",
+        "growth_rate_id": "3",
+        "level": "89"
+    },
+    {
+        "experience": "583200",
+        "growth_rate_id": "3",
+        "level": "90"
+    },
+    {
+        "experience": "602856",
+        "growth_rate_id": "3",
+        "level": "91"
+    },
+    {
+        "experience": "622950",
+        "growth_rate_id": "3",
+        "level": "92"
+    },
+    {
+        "experience": "643485",
+        "growth_rate_id": "3",
+        "level": "93"
+    },
+    {
+        "experience": "664467",
+        "growth_rate_id": "3",
+        "level": "94"
+    },
+    {
+        "experience": "685900",
+        "growth_rate_id": "3",
+        "level": "95"
+    },
+    {
+        "experience": "707788",
+        "growth_rate_id": "3",
+        "level": "96"
+    },
+    {
+        "experience": "730138",
+        "growth_rate_id": "3",
+        "level": "97"
+    },
+    {
+        "experience": "752953",
+        "growth_rate_id": "3",
+        "level": "98"
+    },
+    {
+        "experience": "776239",
+        "growth_rate_id": "3",
+        "level": "99"
+    },
+    {
+        "experience": "800000",
+        "growth_rate_id": "3",
+        "level": "100"
+    },
+    {
+        "experience": "0",
+        "growth_rate_id": "4",
+        "level": "1"
+    },
+    {
+        "experience": "9",
+        "growth_rate_id": "4",
+        "level": "2"
+    },
+    {
+        "experience": "57",
+        "growth_rate_id": "4",
+        "level": "3"
+    },
+    {
+        "experience": "96",
+        "growth_rate_id": "4",
+        "level": "4"
+    },
+    {
+        "experience": "135",
+        "growth_rate_id": "4",
+        "level": "5"
+    },
+    {
+        "experience": "179",
+        "growth_rate_id": "4",
+        "level": "6"
+    },
+    {
+        "experience": "236",
+        "growth_rate_id": "4",
+        "level": "7"
+    },
+    {
+        "experience": "314",
+        "growth_rate_id": "4",
+        "level": "8"
+    },
+    {
+        "experience": "419",
+        "growth_rate_id": "4",
+        "level": "9"
+    },
+    {
+        "experience": "560",
+        "growth_rate_id": "4",
+        "level": "10"
+    },
+    {
+        "experience": "742",
+        "growth_rate_id": "4",
+        "level": "11"
+    },
+    {
+        "experience": "973",
+        "growth_rate_id": "4",
+        "level": "12"
+    },
+    {
+        "experience": "1261",
+        "growth_rate_id": "4",
+        "level": "13"
+    },
+    {
+        "experience": "1612",
+        "growth_rate_id": "4",
+        "level": "14"
+    },
+    {
+        "experience": "2035",
+        "growth_rate_id": "4",
+        "level": "15"
+    },
+    {
+        "experience": "2535",
+        "growth_rate_id": "4",
+        "level": "16"
+    },
+    {
+        "experience": "3120",
+        "growth_rate_id": "4",
+        "level": "17"
+    },
+    {
+        "experience": "3798",
+        "growth_rate_id": "4",
+        "level": "18"
+    },
+    {
+        "experience": "4575",
+        "growth_rate_id": "4",
+        "level": "19"
+    },
+    {
+        "experience": "5460",
+        "growth_rate_id": "4",
+        "level": "20"
+    },
+    {
+        "experience": "6458",
+        "growth_rate_id": "4",
+        "level": "21"
+    },
+    {
+        "experience": "7577",
+        "growth_rate_id": "4",
+        "level": "22"
+    },
+    {
+        "experience": "8825",
+        "growth_rate_id": "4",
+        "level": "23"
+    },
+    {
+        "experience": "10208",
+        "growth_rate_id": "4",
+        "level": "24"
+    },
+    {
+        "experience": "11735",
+        "growth_rate_id": "4",
+        "level": "25"
+    },
+    {
+        "experience": "13411",
+        "growth_rate_id": "4",
+        "level": "26"
+    },
+    {
+        "experience": "15244",
+        "growth_rate_id": "4",
+        "level": "27"
+    },
+    {
+        "experience": "17242",
+        "growth_rate_id": "4",
+        "level": "28"
+    },
+    {
+        "experience": "19411",
+        "growth_rate_id": "4",
+        "level": "29"
+    },
+    {
+        "experience": "21760",
+        "growth_rate_id": "4",
+        "level": "30"
+    },
+    {
+        "experience": "24294",
+        "growth_rate_id": "4",
+        "level": "31"
+    },
+    {
+        "experience": "27021",
+        "growth_rate_id": "4",
+        "level": "32"
+    },
+    {
+        "experience": "29949",
+        "growth_rate_id": "4",
+        "level": "33"
+    },
+    {
+        "experience": "33084",
+        "growth_rate_id": "4",
+        "level": "34"
+    },
+    {
+        "experience": "36435",
+        "growth_rate_id": "4",
+        "level": "35"
+    },
+    {
+        "experience": "40007",
+        "growth_rate_id": "4",
+        "level": "36"
+    },
+    {
+        "experience": "43808",
+        "growth_rate_id": "4",
+        "level": "37"
+    },
+    {
+        "experience": "47846",
+        "growth_rate_id": "4",
+        "level": "38"
+    },
+    {
+        "experience": "52127",
+        "growth_rate_id": "4",
+        "level": "39"
+    },
+    {
+        "experience": "56660",
+        "growth_rate_id": "4",
+        "level": "40"
+    },
+    {
+        "experience": "61450",
+        "growth_rate_id": "4",
+        "level": "41"
+    },
+    {
+        "experience": "66505",
+        "growth_rate_id": "4",
+        "level": "42"
+    },
+    {
+        "experience": "71833",
+        "growth_rate_id": "4",
+        "level": "43"
+    },
+    {
+        "experience": "77440",
+        "growth_rate_id": "4",
+        "level": "44"
+    },
+    {
+        "experience": "83335",
+        "growth_rate_id": "4",
+        "level": "45"
+    },
+    {
+        "experience": "89523",
+        "growth_rate_id": "4",
+        "level": "46"
+    },
+    {
+        "experience": "96012",
+        "growth_rate_id": "4",
+        "level": "47"
+    },
+    {
+        "experience": "102810",
+        "growth_rate_id": "4",
+        "level": "48"
+    },
+    {
+        "experience": "109923",
+        "growth_rate_id": "4",
+        "level": "49"
+    },
+    {
+        "experience": "117360",
+        "growth_rate_id": "4",
+        "level": "50"
+    },
+    {
+        "experience": "125126",
+        "growth_rate_id": "4",
+        "level": "51"
+    },
+    {
+        "experience": "133229",
+        "growth_rate_id": "4",
+        "level": "52"
+    },
+    {
+        "experience": "141677",
+        "growth_rate_id": "4",
+        "level": "53"
+    },
+    {
+        "experience": "150476",
+        "growth_rate_id": "4",
+        "level": "54"
+    },
+    {
+        "experience": "159635",
+        "growth_rate_id": "4",
+        "level": "55"
+    },
+    {
+        "experience": "169159",
+        "growth_rate_id": "4",
+        "level": "56"
+    },
+    {
+        "experience": "179056",
+        "growth_rate_id": "4",
+        "level": "57"
+    },
+    {
+        "experience": "189334",
+        "growth_rate_id": "4",
+        "level": "58"
+    },
+    {
+        "experience": "199999",
+        "growth_rate_id": "4",
+        "level": "59"
+    },
+    {
+        "experience": "211060",
+        "growth_rate_id": "4",
+        "level": "60"
+    },
+    {
+        "experience": "222522",
+        "growth_rate_id": "4",
+        "level": "61"
+    },
+    {
+        "experience": "234393",
+        "growth_rate_id": "4",
+        "level": "62"
+    },
+    {
+        "experience": "246681",
+        "growth_rate_id": "4",
+        "level": "63"
+    },
+    {
+        "experience": "259392",
+        "growth_rate_id": "4",
+        "level": "64"
+    },
+    {
+        "experience": "272535",
+        "growth_rate_id": "4",
+        "level": "65"
+    },
+    {
+        "experience": "286115",
+        "growth_rate_id": "4",
+        "level": "66"
+    },
+    {
+        "experience": "300140",
+        "growth_rate_id": "4",
+        "level": "67"
+    },
+    {
+        "experience": "314618",
+        "growth_rate_id": "4",
+        "level": "68"
+    },
+    {
+        "experience": "329555",
+        "growth_rate_id": "4",
+        "level": "69"
+    },
+    {
+        "experience": "344960",
+        "growth_rate_id": "4",
+        "level": "70"
+    },
+    {
+        "experience": "360838",
+        "growth_rate_id": "4",
+        "level": "71"
+    },
+    {
+        "experience": "377197",
+        "growth_rate_id": "4",
+        "level": "72"
+    },
+    {
+        "experience": "394045",
+        "growth_rate_id": "4",
+        "level": "73"
+    },
+    {
+        "experience": "411388",
+        "growth_rate_id": "4",
+        "level": "74"
+    },
+    {
+        "experience": "429235",
+        "growth_rate_id": "4",
+        "level": "75"
+    },
+    {
+        "experience": "447591",
+        "growth_rate_id": "4",
+        "level": "76"
+    },
+    {
+        "experience": "466464",
+        "growth_rate_id": "4",
+        "level": "77"
+    },
+    {
+        "experience": "485862",
+        "growth_rate_id": "4",
+        "level": "78"
+    },
+    {
+        "experience": "505791",
+        "growth_rate_id": "4",
+        "level": "79"
+    },
+    {
+        "experience": "526260",
+        "growth_rate_id": "4",
+        "level": "80"
+    },
+    {
+        "experience": "547274",
+        "growth_rate_id": "4",
+        "level": "81"
+    },
+    {
+        "experience": "568841",
+        "growth_rate_id": "4",
+        "level": "82"
+    },
+    {
+        "experience": "590969",
+        "growth_rate_id": "4",
+        "level": "83"
+    },
+    {
+        "experience": "613664",
+        "growth_rate_id": "4",
+        "level": "84"
+    },
+    {
+        "experience": "636935",
+        "growth_rate_id": "4",
+        "level": "85"
+    },
+    {
+        "experience": "660787",
+        "growth_rate_id": "4",
+        "level": "86"
+    },
+    {
+        "experience": "685228",
+        "growth_rate_id": "4",
+        "level": "87"
+    },
+    {
+        "experience": "710266",
+        "growth_rate_id": "4",
+        "level": "88"
+    },
+    {
+        "experience": "735907",
+        "growth_rate_id": "4",
+        "level": "89"
+    },
+    {
+        "experience": "762160",
+        "growth_rate_id": "4",
+        "level": "90"
+    },
+    {
+        "experience": "789030",
+        "growth_rate_id": "4",
+        "level": "91"
+    },
+    {
+        "experience": "816525",
+        "growth_rate_id": "4",
+        "level": "92"
+    },
+    {
+        "experience": "844653",
+        "growth_rate_id": "4",
+        "level": "93"
+    },
+    {
+        "experience": "873420",
+        "growth_rate_id": "4",
+        "level": "94"
+    },
+    {
+        "experience": "902835",
+        "growth_rate_id": "4",
+        "level": "95"
+    },
+    {
+        "experience": "932903",
+        "growth_rate_id": "4",
+        "level": "96"
+    },
+    {
+        "experience": "963632",
+        "growth_rate_id": "4",
+        "level": "97"
+    },
+    {
+        "experience": "995030",
+        "growth_rate_id": "4",
+        "level": "98"
+    },
+    {
+        "experience": "1027103",
+        "growth_rate_id": "4",
+        "level": "99"
+    },
+    {
+        "experience": "1059860",
+        "growth_rate_id": "4",
+        "level": "100"
+    },
+    {
+        "experience": "0",
+        "growth_rate_id": "5",
+        "level": "1"
+    },
+    {
+        "experience": "15",
+        "growth_rate_id": "5",
+        "level": "2"
+    },
+    {
+        "experience": "52",
+        "growth_rate_id": "5",
+        "level": "3"
+    },
+    {
+        "experience": "122",
+        "growth_rate_id": "5",
+        "level": "4"
+    },
+    {
+        "experience": "237",
+        "growth_rate_id": "5",
+        "level": "5"
+    },
+    {
+        "experience": "406",
+        "growth_rate_id": "5",
+        "level": "6"
+    },
+    {
+        "experience": "637",
+        "growth_rate_id": "5",
+        "level": "7"
+    },
+    {
+        "experience": "942",
+        "growth_rate_id": "5",
+        "level": "8"
+    },
+    {
+        "experience": "1326",
+        "growth_rate_id": "5",
+        "level": "9"
+    },
+    {
+        "experience": "1800",
+        "growth_rate_id": "5",
+        "level": "10"
+    },
+    {
+        "experience": "2369",
+        "growth_rate_id": "5",
+        "level": "11"
+    },
+    {
+        "experience": "3041",
+        "growth_rate_id": "5",
+        "level": "12"
+    },
+    {
+        "experience": "3822",
+        "growth_rate_id": "5",
+        "level": "13"
+    },
+    {
+        "experience": "4719",
+        "growth_rate_id": "5",
+        "level": "14"
+    },
+    {
+        "experience": "5737",
+        "growth_rate_id": "5",
+        "level": "15"
+    },
+    {
+        "experience": "6881",
+        "growth_rate_id": "5",
+        "level": "16"
+    },
+    {
+        "experience": "8155",
+        "growth_rate_id": "5",
+        "level": "17"
+    },
+    {
+        "experience": "9564",
+        "growth_rate_id": "5",
+        "level": "18"
+    },
+    {
+        "experience": "11111",
+        "growth_rate_id": "5",
+        "level": "19"
+    },
+    {
+        "experience": "12800",
+        "growth_rate_id": "5",
+        "level": "20"
+    },
+    {
+        "experience": "14632",
+        "growth_rate_id": "5",
+        "level": "21"
+    },
+    {
+        "experience": "16610",
+        "growth_rate_id": "5",
+        "level": "22"
+    },
+    {
+        "experience": "18737",
+        "growth_rate_id": "5",
+        "level": "23"
+    },
+    {
+        "experience": "21012",
+        "growth_rate_id": "5",
+        "level": "24"
+    },
+    {
+        "experience": "23437",
+        "growth_rate_id": "5",
+        "level": "25"
+    },
+    {
+        "experience": "26012",
+        "growth_rate_id": "5",
+        "level": "26"
+    },
+    {
+        "experience": "28737",
+        "growth_rate_id": "5",
+        "level": "27"
+    },
+    {
+        "experience": "31610",
+        "growth_rate_id": "5",
+        "level": "28"
+    },
+    {
+        "experience": "34632",
+        "growth_rate_id": "5",
+        "level": "29"
+    },
+    {
+        "experience": "37800",
+        "growth_rate_id": "5",
+        "level": "30"
+    },
+    {
+        "experience": "41111",
+        "growth_rate_id": "5",
+        "level": "31"
+    },
+    {
+        "experience": "44564",
+        "growth_rate_id": "5",
+        "level": "32"
+    },
+    {
+        "experience": "48155",
+        "growth_rate_id": "5",
+        "level": "33"
+    },
+    {
+        "experience": "51881",
+        "growth_rate_id": "5",
+        "level": "34"
+    },
+    {
+        "experience": "55737",
+        "growth_rate_id": "5",
+        "level": "35"
+    },
+    {
+        "experience": "59719",
+        "growth_rate_id": "5",
+        "level": "36"
+    },
+    {
+        "experience": "63822",
+        "growth_rate_id": "5",
+        "level": "37"
+    },
+    {
+        "experience": "68041",
+        "growth_rate_id": "5",
+        "level": "38"
+    },
+    {
+        "experience": "72369",
+        "growth_rate_id": "5",
+        "level": "39"
+    },
+    {
+        "experience": "76800",
+        "growth_rate_id": "5",
+        "level": "40"
+    },
+    {
+        "experience": "81326",
+        "growth_rate_id": "5",
+        "level": "41"
+    },
+    {
+        "experience": "85942",
+        "growth_rate_id": "5",
+        "level": "42"
+    },
+    {
+        "experience": "90637",
+        "growth_rate_id": "5",
+        "level": "43"
+    },
+    {
+        "experience": "95406",
+        "growth_rate_id": "5",
+        "level": "44"
+    },
+    {
+        "experience": "100237",
+        "growth_rate_id": "5",
+        "level": "45"
+    },
+    {
+        "experience": "105122",
+        "growth_rate_id": "5",
+        "level": "46"
+    },
+    {
+        "experience": "110052",
+        "growth_rate_id": "5",
+        "level": "47"
+    },
+    {
+        "experience": "115015",
+        "growth_rate_id": "5",
+        "level": "48"
+    },
+    {
+        "experience": "120001",
+        "growth_rate_id": "5",
+        "level": "49"
+    },
+    {
+        "experience": "125000",
+        "growth_rate_id": "5",
+        "level": "50"
+    },
+    {
+        "experience": "131324",
+        "growth_rate_id": "5",
+        "level": "51"
+    },
+    {
+        "experience": "137795",
+        "growth_rate_id": "5",
+        "level": "52"
+    },
+    {
+        "experience": "144410",
+        "growth_rate_id": "5",
+        "level": "53"
+    },
+    {
+        "experience": "151165",
+        "growth_rate_id": "5",
+        "level": "54"
+    },
+    {
+        "experience": "158056",
+        "growth_rate_id": "5",
+        "level": "55"
+    },
+    {
+        "experience": "165079",
+        "growth_rate_id": "5",
+        "level": "56"
+    },
+    {
+        "experience": "172229",
+        "growth_rate_id": "5",
+        "level": "57"
+    },
+    {
+        "experience": "179503",
+        "growth_rate_id": "5",
+        "level": "58"
+    },
+    {
+        "experience": "186894",
+        "growth_rate_id": "5",
+        "level": "59"
+    },
+    {
+        "experience": "194400",
+        "growth_rate_id": "5",
+        "level": "60"
+    },
+    {
+        "experience": "202013",
+        "growth_rate_id": "5",
+        "level": "61"
+    },
+    {
+        "experience": "209728",
+        "growth_rate_id": "5",
+        "level": "62"
+    },
+    {
+        "experience": "217540",
+        "growth_rate_id": "5",
+        "level": "63"
+    },
+    {
+        "experience": "225443",
+        "growth_rate_id": "5",
+        "level": "64"
+    },
+    {
+        "experience": "233431",
+        "growth_rate_id": "5",
+        "level": "65"
+    },
+    {
+        "experience": "241496",
+        "growth_rate_id": "5",
+        "level": "66"
+    },
+    {
+        "experience": "249633",
+        "growth_rate_id": "5",
+        "level": "67"
+    },
+    {
+        "experience": "257834",
+        "growth_rate_id": "5",
+        "level": "68"
+    },
+    {
+        "experience": "267406",
+        "growth_rate_id": "5",
+        "level": "69"
+    },
+    {
+        "experience": "276458",
+        "growth_rate_id": "5",
+        "level": "70"
+    },
+    {
+        "experience": "286328",
+        "growth_rate_id": "5",
+        "level": "71"
+    },
+    {
+        "experience": "296358",
+        "growth_rate_id": "5",
+        "level": "72"
+    },
+    {
+        "experience": "305767",
+        "growth_rate_id": "5",
+        "level": "73"
+    },
+    {
+        "experience": "316074",
+        "growth_rate_id": "5",
+        "level": "74"
+    },
+    {
+        "experience": "326531",
+        "growth_rate_id": "5",
+        "level": "75"
+    },
+    {
+        "experience": "336255",
+        "growth_rate_id": "5",
+        "level": "76"
+    },
+    {
+        "experience": "346965",
+        "growth_rate_id": "5",
+        "level": "77"
+    },
+    {
+        "experience": "357812",
+        "growth_rate_id": "5",
+        "level": "78"
+    },
+    {
+        "experience": "367807",
+        "growth_rate_id": "5",
+        "level": "79"
+    },
+    {
+        "experience": "378880",
+        "growth_rate_id": "5",
+        "level": "80"
+    },
+    {
+        "experience": "390077",
+        "growth_rate_id": "5",
+        "level": "81"
+    },
+    {
+        "experience": "400293",
+        "growth_rate_id": "5",
+        "level": "82"
+    },
+    {
+        "experience": "411686",
+        "growth_rate_id": "5",
+        "level": "83"
+    },
+    {
+        "experience": "423190",
+        "growth_rate_id": "5",
+        "level": "84"
+    },
+    {
+        "experience": "433572",
+        "growth_rate_id": "5",
+        "level": "85"
+    },
+    {
+        "experience": "445239",
+        "growth_rate_id": "5",
+        "level": "86"
+    },
+    {
+        "experience": "457001",
+        "growth_rate_id": "5",
+        "level": "87"
+    },
+    {
+        "experience": "467489",
+        "growth_rate_id": "5",
+        "level": "88"
+    },
+    {
+        "experience": "479378",
+        "growth_rate_id": "5",
+        "level": "89"
+    },
+    {
+        "experience": "491346",
+        "growth_rate_id": "5",
+        "level": "90"
+    },
+    {
+        "experience": "501878",
+        "growth_rate_id": "5",
+        "level": "91"
+    },
+    {
+        "experience": "513934",
+        "growth_rate_id": "5",
+        "level": "92"
+    },
+    {
+        "experience": "526049",
+        "growth_rate_id": "5",
+        "level": "93"
+    },
+    {
+        "experience": "536557",
+        "growth_rate_id": "5",
+        "level": "94"
+    },
+    {
+        "experience": "548720",
+        "growth_rate_id": "5",
+        "level": "95"
+    },
+    {
+        "experience": "560922",
+        "growth_rate_id": "5",
+        "level": "96"
+    },
+    {
+        "experience": "571333",
+        "growth_rate_id": "5",
+        "level": "97"
+    },
+    {
+        "experience": "583539",
+        "growth_rate_id": "5",
+        "level": "98"
+    },
+    {
+        "experience": "591882",
+        "growth_rate_id": "5",
+        "level": "99"
+    },
+    {
+        "experience": "600000",
+        "growth_rate_id": "5",
+        "level": "100"
+    },
+    {
+        "experience": "0",
+        "growth_rate_id": "6",
+        "level": "1"
+    },
+    {
+        "experience": "4",
+        "growth_rate_id": "6",
+        "level": "2"
+    },
+    {
+        "experience": "13",
+        "growth_rate_id": "6",
+        "level": "3"
+    },
+    {
+        "experience": "32",
+        "growth_rate_id": "6",
+        "level": "4"
+    },
+    {
+        "experience": "65",
+        "growth_rate_id": "6",
+        "level": "5"
+    },
+    {
+        "experience": "112",
+        "growth_rate_id": "6",
+        "level": "6"
+    },
+    {
+        "experience": "178",
+        "growth_rate_id": "6",
+        "level": "7"
+    },
+    {
+        "experience": "276",
+        "growth_rate_id": "6",
+        "level": "8"
+    },
+    {
+        "experience": "393",
+        "growth_rate_id": "6",
+        "level": "9"
+    },
+    {
+        "experience": "540",
+        "growth_rate_id": "6",
+        "level": "10"
+    },
+    {
+        "experience": "745",
+        "growth_rate_id": "6",
+        "level": "11"
+    },
+    {
+        "experience": "967",
+        "growth_rate_id": "6",
+        "level": "12"
+    },
+    {
+        "experience": "1230",
+        "growth_rate_id": "6",
+        "level": "13"
+    },
+    {
+        "experience": "1591",
+        "growth_rate_id": "6",
+        "level": "14"
+    },
+    {
+        "experience": "1957",
+        "growth_rate_id": "6",
+        "level": "15"
+    },
+    {
+        "experience": "2457",
+        "growth_rate_id": "6",
+        "level": "16"
+    },
+    {
+        "experience": "3046",
+        "growth_rate_id": "6",
+        "level": "17"
+    },
+    {
+        "experience": "3732",
+        "growth_rate_id": "6",
+        "level": "18"
+    },
+    {
+        "experience": "4526",
+        "growth_rate_id": "6",
+        "level": "19"
+    },
+    {
+        "experience": "5440",
+        "growth_rate_id": "6",
+        "level": "20"
+    },
+    {
+        "experience": "6482",
+        "growth_rate_id": "6",
+        "level": "21"
+    },
+    {
+        "experience": "7666",
+        "growth_rate_id": "6",
+        "level": "22"
+    },
+    {
+        "experience": "9003",
+        "growth_rate_id": "6",
+        "level": "23"
+    },
+    {
+        "experience": "10506",
+        "growth_rate_id": "6",
+        "level": "24"
+    },
+    {
+        "experience": "12187",
+        "growth_rate_id": "6",
+        "level": "25"
+    },
+    {
+        "experience": "14060",
+        "growth_rate_id": "6",
+        "level": "26"
+    },
+    {
+        "experience": "16140",
+        "growth_rate_id": "6",
+        "level": "27"
+    },
+    {
+        "experience": "18439",
+        "growth_rate_id": "6",
+        "level": "28"
+    },
+    {
+        "experience": "20974",
+        "growth_rate_id": "6",
+        "level": "29"
+    },
+    {
+        "experience": "23760",
+        "growth_rate_id": "6",
+        "level": "30"
+    },
+    {
+        "experience": "26811",
+        "growth_rate_id": "6",
+        "level": "31"
+    },
+    {
+        "experience": "30146",
+        "growth_rate_id": "6",
+        "level": "32"
+    },
+    {
+        "experience": "33780",
+        "growth_rate_id": "6",
+        "level": "33"
+    },
+    {
+        "experience": "37731",
+        "growth_rate_id": "6",
+        "level": "34"
+    },
+    {
+        "experience": "42017",
+        "growth_rate_id": "6",
+        "level": "35"
+    },
+    {
+        "experience": "46656",
+        "growth_rate_id": "6",
+        "level": "36"
+    },
+    {
+        "experience": "50653",
+        "growth_rate_id": "6",
+        "level": "37"
+    },
+    {
+        "experience": "55969",
+        "growth_rate_id": "6",
+        "level": "38"
+    },
+    {
+        "experience": "60505",
+        "growth_rate_id": "6",
+        "level": "39"
+    },
+    {
+        "experience": "66560",
+        "growth_rate_id": "6",
+        "level": "40"
+    },
+    {
+        "experience": "71677",
+        "growth_rate_id": "6",
+        "level": "41"
+    },
+    {
+        "experience": "78533",
+        "growth_rate_id": "6",
+        "level": "42"
+    },
+    {
+        "experience": "84277",
+        "growth_rate_id": "6",
+        "level": "43"
+    },
+    {
+        "experience": "91998",
+        "growth_rate_id": "6",
+        "level": "44"
+    },
+    {
+        "experience": "98415",
+        "growth_rate_id": "6",
+        "level": "45"
+    },
+    {
+        "experience": "107069",
+        "growth_rate_id": "6",
+        "level": "46"
+    },
+    {
+        "experience": "114205",
+        "growth_rate_id": "6",
+        "level": "47"
+    },
+    {
+        "experience": "123863",
+        "growth_rate_id": "6",
+        "level": "48"
+    },
+    {
+        "experience": "131766",
+        "growth_rate_id": "6",
+        "level": "49"
+    },
+    {
+        "experience": "142500",
+        "growth_rate_id": "6",
+        "level": "50"
+    },
+    {
+        "experience": "151222",
+        "growth_rate_id": "6",
+        "level": "51"
+    },
+    {
+        "experience": "163105",
+        "growth_rate_id": "6",
+        "level": "52"
+    },
+    {
+        "experience": "172697",
+        "growth_rate_id": "6",
+        "level": "53"
+    },
+    {
+        "experience": "185807",
+        "growth_rate_id": "6",
+        "level": "54"
+    },
+    {
+        "experience": "196322",
+        "growth_rate_id": "6",
+        "level": "55"
+    },
+    {
+        "experience": "210739",
+        "growth_rate_id": "6",
+        "level": "56"
+    },
+    {
+        "experience": "222231",
+        "growth_rate_id": "6",
+        "level": "57"
+    },
+    {
+        "experience": "238036",
+        "growth_rate_id": "6",
+        "level": "58"
+    },
+    {
+        "experience": "250562",
+        "growth_rate_id": "6",
+        "level": "59"
+    },
+    {
+        "experience": "267840",
+        "growth_rate_id": "6",
+        "level": "60"
+    },
+    {
+        "experience": "281456",
+        "growth_rate_id": "6",
+        "level": "61"
+    },
+    {
+        "experience": "300293",
+        "growth_rate_id": "6",
+        "level": "62"
+    },
+    {
+        "experience": "315059",
+        "growth_rate_id": "6",
+        "level": "63"
+    },
+    {
+        "experience": "335544",
+        "growth_rate_id": "6",
+        "level": "64"
+    },
+    {
+        "experience": "351520",
+        "growth_rate_id": "6",
+        "level": "65"
+    },
+    {
+        "experience": "373744",
+        "growth_rate_id": "6",
+        "level": "66"
+    },
+    {
+        "experience": "390991",
+        "growth_rate_id": "6",
+        "level": "67"
+    },
+    {
+        "experience": "415050",
+        "growth_rate_id": "6",
+        "level": "68"
+    },
+    {
+        "experience": "433631",
+        "growth_rate_id": "6",
+        "level": "69"
+    },
+    {
+        "experience": "459620",
+        "growth_rate_id": "6",
+        "level": "70"
+    },
+    {
+        "experience": "479600",
+        "growth_rate_id": "6",
+        "level": "71"
+    },
+    {
+        "experience": "507617",
+        "growth_rate_id": "6",
+        "level": "72"
+    },
+    {
+        "experience": "529063",
+        "growth_rate_id": "6",
+        "level": "73"
+    },
+    {
+        "experience": "559209",
+        "growth_rate_id": "6",
+        "level": "74"
+    },
+    {
+        "experience": "582187",
+        "growth_rate_id": "6",
+        "level": "75"
+    },
+    {
+        "experience": "614566",
+        "growth_rate_id": "6",
+        "level": "76"
+    },
+    {
+        "experience": "639146",
+        "growth_rate_id": "6",
+        "level": "77"
+    },
+    {
+        "experience": "673863",
+        "growth_rate_id": "6",
+        "level": "78"
+    },
+    {
+        "experience": "700115",
+        "growth_rate_id": "6",
+        "level": "79"
+    },
+    {
+        "experience": "737280",
+        "growth_rate_id": "6",
+        "level": "80"
+    },
+    {
+        "experience": "765275",
+        "growth_rate_id": "6",
+        "level": "81"
+    },
+    {
+        "experience": "804997",
+        "growth_rate_id": "6",
+        "level": "82"
+    },
+    {
+        "experience": "834809",
+        "growth_rate_id": "6",
+        "level": "83"
+    },
+    {
+        "experience": "877201",
+        "growth_rate_id": "6",
+        "level": "84"
+    },
+    {
+        "experience": "908905",
+        "growth_rate_id": "6",
+        "level": "85"
+    },
+    {
+        "experience": "954084",
+        "growth_rate_id": "6",
+        "level": "86"
+    },
+    {
+        "experience": "987754",
+        "growth_rate_id": "6",
+        "level": "87"
+    },
+    {
+        "experience": "1035837",
+        "growth_rate_id": "6",
+        "level": "88"
+    },
+    {
+        "experience": "1071552",
+        "growth_rate_id": "6",
+        "level": "89"
+    },
+    {
+        "experience": "1122660",
+        "growth_rate_id": "6",
+        "level": "90"
+    },
+    {
+        "experience": "1160499",
+        "growth_rate_id": "6",
+        "level": "91"
+    },
+    {
+        "experience": "1214753",
+        "growth_rate_id": "6",
+        "level": "92"
+    },
+    {
+        "experience": "1254796",
+        "growth_rate_id": "6",
+        "level": "93"
+    },
+    {
+        "experience": "1312322",
+        "growth_rate_id": "6",
+        "level": "94"
+    },
+    {
+        "experience": "1354652",
+        "growth_rate_id": "6",
+        "level": "95"
+    },
+    {
+        "experience": "1415577",
+        "growth_rate_id": "6",
+        "level": "96"
+    },
+    {
+        "experience": "1460276",
+        "growth_rate_id": "6",
+        "level": "97"
+    },
+    {
+        "experience": "1524731",
+        "growth_rate_id": "6",
+        "level": "98"
+    },
+    {
+        "experience": "1571884",
+        "growth_rate_id": "6",
+        "level": "99"
+    },
+    {
+        "experience": "1640000",
+        "growth_rate_id": "6",
+        "level": "100"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "generation_id": "1",
+        "local_language_id": "5",
+        "name": "G\u00e9n\u00e9ration I"
+    },
+    {
+        "generation_id": "1",
+        "local_language_id": "6",
+        "name": "Generation I"
+    },
+    {
+        "generation_id": "1",
+        "local_language_id": "9",
+        "name": "Generation I"
+    },
+    {
+        "generation_id": "2",
+        "local_language_id": "5",
+        "name": "G\u00e9n\u00e9ration II"
+    },
+    {
+        "generation_id": "2",
+        "local_language_id": "6",
+        "name": "Generation II"
+    },
+    {
+        "generation_id": "2",
+        "local_language_id": "9",
+        "name": "Generation II"
+    },
+    {
+        "generation_id": "3",
+        "local_language_id": "5",
+        "name": "G\u00e9n\u00e9ration III"
+    },
+    {
+        "generation_id": "3",
+        "local_language_id": "6",
+        "name": "Generation III"
+    },
+    {
+        "generation_id": "3",
+        "local_language_id": "9",
+        "name": "Generation III"
+    },
+    {
+        "generation_id": "4",
+        "local_language_id": "5",
+        "name": "G\u00e9n\u00e9ration IV"
+    },
+    {
+        "generation_id": "4",
+        "local_language_id": "6",
+        "name": "Generation IV"
+    },
+    {
+        "generation_id": "4",
+        "local_language_id": "9",
+        "name": "Generation IV"
+    },
+    {
+        "generation_id": "5",
+        "local_language_id": "5",
+        "name": "G\u00e9n\u00e9ration V"
+    },
+    {
+        "generation_id": "5",
+        "local_language_id": "6",
+        "name": "Generation V"
+    },
+    {
+        "generation_id": "5",
+        "local_language_id": "9",
+        "name": "Generation V"
+    },
+    {
+        "generation_id": "6",
+        "local_language_id": "5",
+        "name": "G\u00e9n\u00e9ration VI"
+    },
+    {
+        "generation_id": "6",
+        "local_language_id": "6",
+        "name": "Generation VI"
+    },
+    {
+        "generation_id": "6",
+        "local_language_id": "9",
+        "name": "Generation VI"
+    }
+]

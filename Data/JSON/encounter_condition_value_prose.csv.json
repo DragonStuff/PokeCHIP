@@ -1,0 +1,202 @@
+[
+    {
+        "encounter_condition_value_id": "1",
+        "local_language_id": "6",
+        "name": "W\u00e4hrend eines Schwarms"
+    },
+    {
+        "encounter_condition_value_id": "1",
+        "local_language_id": "9",
+        "name": "During a swarm"
+    },
+    {
+        "encounter_condition_value_id": "2",
+        "local_language_id": "6",
+        "name": "Au\u00dferhalb eines Schwarms"
+    },
+    {
+        "encounter_condition_value_id": "2",
+        "local_language_id": "9",
+        "name": "Not during a swarm"
+    },
+    {
+        "encounter_condition_value_id": "3",
+        "local_language_id": "6",
+        "name": "Am Morgen"
+    },
+    {
+        "encounter_condition_value_id": "3",
+        "local_language_id": "9",
+        "name": "In the morning"
+    },
+    {
+        "encounter_condition_value_id": "4",
+        "local_language_id": "6",
+        "name": "Am Tag"
+    },
+    {
+        "encounter_condition_value_id": "4",
+        "local_language_id": "9",
+        "name": "During the day"
+    },
+    {
+        "encounter_condition_value_id": "5",
+        "local_language_id": "6",
+        "name": "In der Nacht"
+    },
+    {
+        "encounter_condition_value_id": "5",
+        "local_language_id": "9",
+        "name": "At night"
+    },
+    {
+        "encounter_condition_value_id": "6",
+        "local_language_id": "6",
+        "name": "Durch Benutzung des Pok\u00e9radars"
+    },
+    {
+        "encounter_condition_value_id": "6",
+        "local_language_id": "9",
+        "name": "Using Pok\u00e9Radar"
+    },
+    {
+        "encounter_condition_value_id": "7",
+        "local_language_id": "6",
+        "name": "Ohne Benutzung des Pok\u00e9radars"
+    },
+    {
+        "encounter_condition_value_id": "7",
+        "local_language_id": "9",
+        "name": "Not using Pok\u00e9Radar"
+    },
+    {
+        "encounter_condition_value_id": "8",
+        "local_language_id": "6",
+        "name": "Kein Spiel in Slot 2"
+    },
+    {
+        "encounter_condition_value_id": "8",
+        "local_language_id": "9",
+        "name": "No game in slot 2"
+    },
+    {
+        "encounter_condition_value_id": "9",
+        "local_language_id": "6",
+        "name": "Rubin in Slot 2"
+    },
+    {
+        "encounter_condition_value_id": "9",
+        "local_language_id": "9",
+        "name": "Ruby in slot 2"
+    },
+    {
+        "encounter_condition_value_id": "10",
+        "local_language_id": "6",
+        "name": "Saphir in Slot 2"
+    },
+    {
+        "encounter_condition_value_id": "10",
+        "local_language_id": "9",
+        "name": "Sapphire in slot 2"
+    },
+    {
+        "encounter_condition_value_id": "11",
+        "local_language_id": "6",
+        "name": "Smaragd in Slot 2"
+    },
+    {
+        "encounter_condition_value_id": "11",
+        "local_language_id": "9",
+        "name": "Emerald in slot 2"
+    },
+    {
+        "encounter_condition_value_id": "12",
+        "local_language_id": "6",
+        "name": "Feuerrot in slot 2"
+    },
+    {
+        "encounter_condition_value_id": "12",
+        "local_language_id": "9",
+        "name": "FireRed in slot 2"
+    },
+    {
+        "encounter_condition_value_id": "13",
+        "local_language_id": "6",
+        "name": "Blattgr\u00fcn in slot 2"
+    },
+    {
+        "encounter_condition_value_id": "13",
+        "local_language_id": "9",
+        "name": "LeafGreen in slot 2"
+    },
+    {
+        "encounter_condition_value_id": "14",
+        "local_language_id": "6",
+        "name": "Radio aus"
+    },
+    {
+        "encounter_condition_value_id": "14",
+        "local_language_id": "9",
+        "name": "Radio off"
+    },
+    {
+        "encounter_condition_value_id": "15",
+        "local_language_id": "6",
+        "name": "Hoenn-Sound im Radio"
+    },
+    {
+        "encounter_condition_value_id": "15",
+        "local_language_id": "9",
+        "name": "Hoenn radio"
+    },
+    {
+        "encounter_condition_value_id": "16",
+        "local_language_id": "6",
+        "name": "Sinnoh-Sound im Radio"
+    },
+    {
+        "encounter_condition_value_id": "16",
+        "local_language_id": "9",
+        "name": "Sinnoh radio"
+    },
+    {
+        "encounter_condition_value_id": "17",
+        "local_language_id": "6",
+        "name": "Im Fr\u00fchling"
+    },
+    {
+        "encounter_condition_value_id": "17",
+        "local_language_id": "9",
+        "name": "During Spring"
+    },
+    {
+        "encounter_condition_value_id": "18",
+        "local_language_id": "6",
+        "name": "Im Sommer"
+    },
+    {
+        "encounter_condition_value_id": "18",
+        "local_language_id": "9",
+        "name": "During Summer"
+    },
+    {
+        "encounter_condition_value_id": "19",
+        "local_language_id": "6",
+        "name": "Im Herbst"
+    },
+    {
+        "encounter_condition_value_id": "19",
+        "local_language_id": "9",
+        "name": "During Autumn"
+    },
+    {
+        "encounter_condition_value_id": "20",
+        "local_language_id": "6",
+        "name": "Im Winter"
+    },
+    {
+        "encounter_condition_value_id": "20",
+        "local_language_id": "9",
+        "name": "During Winter"
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "ability_id": "1",
+        "changed_in_version_group_id": "11",
+        "id": "1"
+    },
+    {
+        "ability_id": "5",
+        "changed_in_version_group_id": "11",
+        "id": "2"
+    },
+    {
+        "ability_id": "9",
+        "changed_in_version_group_id": "6",
+        "id": "3"
+    },
+    {
+        "ability_id": "10",
+        "changed_in_version_group_id": "8",
+        "id": "4"
+    },
+    {
+        "ability_id": "16",
+        "changed_in_version_group_id": "11",
+        "id": "5"
+    },
+    {
+        "ability_id": "18",
+        "changed_in_version_group_id": "8",
+        "id": "6"
+    },
+    {
+        "ability_id": "21",
+        "changed_in_version_group_id": "6",
+        "id": "7"
+    },
+    {
+        "ability_id": "22",
+        "changed_in_version_group_id": "6",
+        "id": "8"
+    },
+    {
+        "ability_id": "22",
+        "changed_in_version_group_id": "8",
+        "id": "9"
+    },
+    {
+        "ability_id": "23",
+        "changed_in_version_group_id": "8",
+        "id": "10"
+    },
+    {
+        "ability_id": "24",
+        "changed_in_version_group_id": "8",
+        "id": "11"
+    },
+    {
+        "ability_id": "25",
+        "changed_in_version_group_id": "11",
+        "id": "12"
+    },
+    {
+        "ability_id": "28",
+        "changed_in_version_group_id": "6",
+        "id": "13"
+    },
+    {
+        "ability_id": "28",
+        "changed_in_version_group_id": "8",
+        "id": "14"
+    },
+    {
+        "ability_id": "28",
+        "changed_in_version_group_id": "11",
+        "id": "15"
+    },
+    {
+        "ability_id": "31",
+        "changed_in_version_group_id": "6",
+        "id": "16"
+    },
+    {
+        "ability_id": "31",
+        "changed_in_version_group_id": "8",
+        "id": "17"
+    },
+    {
+        "ability_id": "31",
+        "changed_in_version_group_id": "11",
+        "id": "18"
+    },
+    {
+        "ability_id": "40",
+        "changed_in_version_group_id": "6",
+        "id": "19"
+    },
+    {
+        "ability_id": "42",
+        "changed_in_version_group_id": "6",
+        "id": "20"
+    },
+    {
+        "ability_id": "43",
+        "changed_in_version_group_id": "11",
+        "id": "21"
+    },
+    {
+        "ability_id": "46",
+        "changed_in_version_group_id": "6",
+        "id": "22"
+    },
+    {
+        "ability_id": "46",
+        "changed_in_version_group_id": "8",
+        "id": "23"
+    },
+    {
+        "ability_id": "49",
+        "changed_in_version_group_id": "6",
+        "id": "24"
+    },
+    {
+        "ability_id": "51",
+        "changed_in_version_group_id": "6",
+        "id": "25"
+    },
+    {
+        "ability_id": "52",
+        "changed_in_version_group_id": "6",
+        "id": "26"
+    },
+    {
+        "ability_id": "52",
+        "changed_in_version_group_id": "8",
+        "id": "27"
+    },
+    {
+        "ability_id": "53",
+        "changed_in_version_group_id": "11",
+        "id": "28"
+    },
+    {
+        "ability_id": "55",
+        "changed_in_version_group_id": "6",
+        "id": "29"
+    },
+    {
+        "ability_id": "56",
+        "changed_in_version_group_id": "6",
+        "id": "30"
+    },
+    {
+        "ability_id": "60",
+        "changed_in_version_group_id": "6",
+        "id": "31"
+    },
+    {
+        "ability_id": "62",
+        "changed_in_version_group_id": "8",
+        "id": "32"
+    },
+    {
+        "ability_id": "68",
+        "changed_in_version_group_id": "6",
+        "id": "33"
+    },
+    {
+        "ability_id": "68",
+        "changed_in_version_group_id": "8",
+        "id": "34"
+    },
+    {
+        "ability_id": "71",
+        "changed_in_version_group_id": "6",
+        "id": "35"
+    },
+    {
+        "ability_id": "72",
+        "changed_in_version_group_id": "6",
+        "id": "36"
+    },
+    {
+        "ability_id": "73",
+        "changed_in_version_group_id": "6",
+        "id": "37"
+    },
+    {
+        "ability_id": "90",
+        "changed_in_version_group_id": "11",
+        "id": "38"
+    },
+    {
+        "ability_id": "98",
+        "changed_in_version_group_id": "11",
+        "id": "39"
+    },
+    {
+        "ability_id": "99",
+        "changed_in_version_group_id": "9",
+        "id": "40"
+    },
+    {
+        "ability_id": "102",
+        "changed_in_version_group_id": "11",
+        "id": "41"
+    },
+    {
+        "ability_id": "103",
+        "changed_in_version_group_id": "11",
+        "id": "42"
+    },
+    {
+        "ability_id": "114",
+        "changed_in_version_group_id": "11",
+        "id": "43"
+    },
+    {
+        "ability_id": "36",
+        "changed_in_version_group_id": "11",
+        "id": "44"
+    },
+    {
+        "ability_id": "36",
+        "changed_in_version_group_id": "8",
+        "id": "45"
+    },
+    {
+        "ability_id": "57",
+        "changed_in_version_group_id": "11",
+        "id": "46"
+    },
+    {
+        "ability_id": "58",
+        "changed_in_version_group_id": "11",
+        "id": "47"
+    },
+    {
+        "ability_id": "61",
+        "changed_in_version_group_id": "11",
+        "id": "48"
+    },
+    {
+        "ability_id": "92",
+        "changed_in_version_group_id": "11",
+        "id": "49"
+    },
+    {
+        "ability_id": "101",
+        "changed_in_version_group_id": "11",
+        "id": "50"
+    },
+    {
+        "ability_id": "14",
+        "changed_in_version_group_id": "6",
+        "id": "51"
+    },
+    {
+        "ability_id": "61",
+        "changed_in_version_group_id": "8",
+        "id": "52"
+    }
+]

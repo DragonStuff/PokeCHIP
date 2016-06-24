@@ -1,0 +1,302 @@
+[
+    {
+        "characteristic_id": "1",
+        "local_language_id": "5",
+        "message": "Adore manger"
+    },
+    {
+        "characteristic_id": "1",
+        "local_language_id": "9",
+        "message": "Loves to eat"
+    },
+    {
+        "characteristic_id": "2",
+        "local_language_id": "5",
+        "message": "Est fier de sa puissance"
+    },
+    {
+        "characteristic_id": "2",
+        "local_language_id": "9",
+        "message": "Proud of its power"
+    },
+    {
+        "characteristic_id": "3",
+        "local_language_id": "5",
+        "message": "Corps robuste"
+    },
+    {
+        "characteristic_id": "3",
+        "local_language_id": "9",
+        "message": "Sturdy body"
+    },
+    {
+        "characteristic_id": "4",
+        "local_language_id": "5",
+        "message": "Extr\u00eamement curieux"
+    },
+    {
+        "characteristic_id": "4",
+        "local_language_id": "9",
+        "message": "Highly curious"
+    },
+    {
+        "characteristic_id": "5",
+        "local_language_id": "5",
+        "message": "Tr\u00e8s volontaire"
+    },
+    {
+        "characteristic_id": "5",
+        "local_language_id": "9",
+        "message": "Strong willed"
+    },
+    {
+        "characteristic_id": "6",
+        "local_language_id": "5",
+        "message": "Aime courir"
+    },
+    {
+        "characteristic_id": "6",
+        "local_language_id": "9",
+        "message": "Likes to run"
+    },
+    {
+        "characteristic_id": "7",
+        "local_language_id": "5",
+        "message": "S'assoupit souvent"
+    },
+    {
+        "characteristic_id": "7",
+        "local_language_id": "9",
+        "message": "Takes plenty of siestas"
+    },
+    {
+        "characteristic_id": "8",
+        "local_language_id": "5",
+        "message": "Aime se d\u00e9mener"
+    },
+    {
+        "characteristic_id": "8",
+        "local_language_id": "9",
+        "message": "Likes to thrash about"
+    },
+    {
+        "characteristic_id": "9",
+        "local_language_id": "5",
+        "message": "Sait encaisser les coups"
+    },
+    {
+        "characteristic_id": "9",
+        "local_language_id": "9",
+        "message": "Capable of taking hits"
+    },
+    {
+        "characteristic_id": "10",
+        "local_language_id": "5",
+        "message": "Coquin"
+    },
+    {
+        "characteristic_id": "10",
+        "local_language_id": "9",
+        "message": "Mischievous"
+    },
+    {
+        "characteristic_id": "11",
+        "local_language_id": "5",
+        "message": "Un peu vaniteux"
+    },
+    {
+        "characteristic_id": "11",
+        "local_language_id": "9",
+        "message": "Somewhat vain"
+    },
+    {
+        "characteristic_id": "12",
+        "local_language_id": "5",
+        "message": "Attentif aux sons"
+    },
+    {
+        "characteristic_id": "12",
+        "local_language_id": "9",
+        "message": "Alert to sounds"
+    },
+    {
+        "characteristic_id": "13",
+        "local_language_id": "5",
+        "message": "Dort beaucoup"
+    },
+    {
+        "characteristic_id": "13",
+        "local_language_id": "9",
+        "message": "Nods off a lot"
+    },
+    {
+        "characteristic_id": "14",
+        "local_language_id": "5",
+        "message": "Un peu col\u00e9reux"
+    },
+    {
+        "characteristic_id": "14",
+        "local_language_id": "9",
+        "message": "A little quick tempered"
+    },
+    {
+        "characteristic_id": "15",
+        "local_language_id": "5",
+        "message": "Tr\u00e8s obstin\u00e9"
+    },
+    {
+        "characteristic_id": "15",
+        "local_language_id": "9",
+        "message": "Highly persistent"
+    },
+    {
+        "characteristic_id": "16",
+        "local_language_id": "5",
+        "message": "Tr\u00e8s astucieux"
+    },
+    {
+        "characteristic_id": "16",
+        "local_language_id": "9",
+        "message": "Thoroughly cunning"
+    },
+    {
+        "characteristic_id": "17",
+        "local_language_id": "5",
+        "message": "Esprit rebelle"
+    },
+    {
+        "characteristic_id": "17",
+        "local_language_id": "9",
+        "message": "Strongly defiant"
+    },
+    {
+        "characteristic_id": "18",
+        "local_language_id": "5",
+        "message": "B\u00eate et impulsif"
+    },
+    {
+        "characteristic_id": "18",
+        "local_language_id": "9",
+        "message": "Impetuous and silly"
+    },
+    {
+        "characteristic_id": "19",
+        "local_language_id": "5",
+        "message": "\u00c9parpille des choses"
+    },
+    {
+        "characteristic_id": "19",
+        "local_language_id": "9",
+        "message": "Scatters things often"
+    },
+    {
+        "characteristic_id": "20",
+        "local_language_id": "5",
+        "message": "Aime combattre"
+    },
+    {
+        "characteristic_id": "20",
+        "local_language_id": "9",
+        "message": "Likes to fight"
+    },
+    {
+        "characteristic_id": "21",
+        "local_language_id": "5",
+        "message": "Bonne endurance"
+    },
+    {
+        "characteristic_id": "21",
+        "local_language_id": "9",
+        "message": "Good endurance"
+    },
+    {
+        "characteristic_id": "22",
+        "local_language_id": "5",
+        "message": "Souvent dans la lune"
+    },
+    {
+        "characteristic_id": "22",
+        "local_language_id": "9",
+        "message": "Often lost in thought"
+    },
+    {
+        "characteristic_id": "23",
+        "local_language_id": "5",
+        "message": "A horreur de perdre"
+    },
+    {
+        "characteristic_id": "23",
+        "local_language_id": "9",
+        "message": "Hates to lose"
+    },
+    {
+        "characteristic_id": "24",
+        "local_language_id": "5",
+        "message": "Aime faire le pitre"
+    },
+    {
+        "characteristic_id": "24",
+        "local_language_id": "9",
+        "message": "Somewhat of a clown"
+    },
+    {
+        "characteristic_id": "25",
+        "local_language_id": "5",
+        "message": "Aime se d\u00e9tendre"
+    },
+    {
+        "characteristic_id": "25",
+        "local_language_id": "9",
+        "message": "Likes to relax"
+    },
+    {
+        "characteristic_id": "26",
+        "local_language_id": "5",
+        "message": "S'emporte facilement"
+    },
+    {
+        "characteristic_id": "26",
+        "local_language_id": "9",
+        "message": "Quick tempered"
+    },
+    {
+        "characteristic_id": "27",
+        "local_language_id": "5",
+        "message": "Pers\u00e9v\u00e9rant"
+    },
+    {
+        "characteristic_id": "27",
+        "local_language_id": "9",
+        "message": "Good perseverance"
+    },
+    {
+        "characteristic_id": "28",
+        "local_language_id": "5",
+        "message": "Tr\u00e8s particulier"
+    },
+    {
+        "characteristic_id": "28",
+        "local_language_id": "9",
+        "message": "Very finicky"
+    },
+    {
+        "characteristic_id": "29",
+        "local_language_id": "5",
+        "message": "Assez ent\u00eat\u00e9"
+    },
+    {
+        "characteristic_id": "29",
+        "local_language_id": "9",
+        "message": "Somewhat stubborn"
+    },
+    {
+        "characteristic_id": "30",
+        "local_language_id": "5",
+        "message": "Fuit rapidement"
+    },
+    {
+        "characteristic_id": "30",
+        "local_language_id": "9",
+        "message": "Quick to flee"
+    }
+]

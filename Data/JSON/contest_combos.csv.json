@@ -1,0 +1,986 @@
+[
+    {
+        "first_move_id": "1",
+        "second_move_id": "3"
+    },
+    {
+        "first_move_id": "1",
+        "second_move_id": "29"
+    },
+    {
+        "first_move_id": "1",
+        "second_move_id": "185"
+    },
+    {
+        "first_move_id": "7",
+        "second_move_id": "8"
+    },
+    {
+        "first_move_id": "7",
+        "second_move_id": "9"
+    },
+    {
+        "first_move_id": "8",
+        "second_move_id": "7"
+    },
+    {
+        "first_move_id": "8",
+        "second_move_id": "9"
+    },
+    {
+        "first_move_id": "9",
+        "second_move_id": "7"
+    },
+    {
+        "first_move_id": "9",
+        "second_move_id": "8"
+    },
+    {
+        "first_move_id": "10",
+        "second_move_id": "154"
+    },
+    {
+        "first_move_id": "10",
+        "second_move_id": "163"
+    },
+    {
+        "first_move_id": "11",
+        "second_move_id": "12"
+    },
+    {
+        "first_move_id": "11",
+        "second_move_id": "20"
+    },
+    {
+        "first_move_id": "14",
+        "second_move_id": "15"
+    },
+    {
+        "first_move_id": "14",
+        "second_move_id": "152"
+    },
+    {
+        "first_move_id": "14",
+        "second_move_id": "163"
+    },
+    {
+        "first_move_id": "14",
+        "second_move_id": "206"
+    },
+    {
+        "first_move_id": "14",
+        "second_move_id": "210"
+    },
+    {
+        "first_move_id": "14",
+        "second_move_id": "306"
+    },
+    {
+        "first_move_id": "28",
+        "second_move_id": "189"
+    },
+    {
+        "first_move_id": "30",
+        "second_move_id": "31"
+    },
+    {
+        "first_move_id": "30",
+        "second_move_id": "32"
+    },
+    {
+        "first_move_id": "43",
+        "second_move_id": "10"
+    },
+    {
+        "first_move_id": "43",
+        "second_move_id": "23"
+    },
+    {
+        "first_move_id": "43",
+        "second_move_id": "30"
+    },
+    {
+        "first_move_id": "43",
+        "second_move_id": "33"
+    },
+    {
+        "first_move_id": "43",
+        "second_move_id": "44"
+    },
+    {
+        "first_move_id": "43",
+        "second_move_id": "137"
+    },
+    {
+        "first_move_id": "43",
+        "second_move_id": "184"
+    },
+    {
+        "first_move_id": "43",
+        "second_move_id": "185"
+    },
+    {
+        "first_move_id": "47",
+        "second_move_id": "195"
+    },
+    {
+        "first_move_id": "47",
+        "second_move_id": "287"
+    },
+    {
+        "first_move_id": "57",
+        "second_move_id": "291"
+    },
+    {
+        "first_move_id": "64",
+        "second_move_id": "31"
+    },
+    {
+        "first_move_id": "64",
+        "second_move_id": "65"
+    },
+    {
+        "first_move_id": "74",
+        "second_move_id": "22"
+    },
+    {
+        "first_move_id": "74",
+        "second_move_id": "71"
+    },
+    {
+        "first_move_id": "74",
+        "second_move_id": "72"
+    },
+    {
+        "first_move_id": "74",
+        "second_move_id": "73"
+    },
+    {
+        "first_move_id": "74",
+        "second_move_id": "75"
+    },
+    {
+        "first_move_id": "74",
+        "second_move_id": "76"
+    },
+    {
+        "first_move_id": "74",
+        "second_move_id": "80"
+    },
+    {
+        "first_move_id": "74",
+        "second_move_id": "202"
+    },
+    {
+        "first_move_id": "74",
+        "second_move_id": "331"
+    },
+    {
+        "first_move_id": "74",
+        "second_move_id": "338"
+    },
+    {
+        "first_move_id": "74",
+        "second_move_id": "345"
+    },
+    {
+        "first_move_id": "82",
+        "second_move_id": "225"
+    },
+    {
+        "first_move_id": "82",
+        "second_move_id": "337"
+    },
+    {
+        "first_move_id": "82",
+        "second_move_id": "349"
+    },
+    {
+        "first_move_id": "88",
+        "second_move_id": "157"
+    },
+    {
+        "first_move_id": "88",
+        "second_move_id": "317"
+    },
+    {
+        "first_move_id": "89",
+        "second_move_id": "90"
+    },
+    {
+        "first_move_id": "89",
+        "second_move_id": "284"
+    },
+    {
+        "first_move_id": "93",
+        "second_move_id": "94"
+    },
+    {
+        "first_move_id": "93",
+        "second_move_id": "100"
+    },
+    {
+        "first_move_id": "93",
+        "second_move_id": "134"
+    },
+    {
+        "first_move_id": "93",
+        "second_move_id": "248"
+    },
+    {
+        "first_move_id": "94",
+        "second_move_id": "93"
+    },
+    {
+        "first_move_id": "94",
+        "second_move_id": "100"
+    },
+    {
+        "first_move_id": "94",
+        "second_move_id": "134"
+    },
+    {
+        "first_move_id": "94",
+        "second_move_id": "248"
+    },
+    {
+        "first_move_id": "95",
+        "second_move_id": "138"
+    },
+    {
+        "first_move_id": "95",
+        "second_move_id": "171"
+    },
+    {
+        "first_move_id": "99",
+        "second_move_id": "37"
+    },
+    {
+        "first_move_id": "99",
+        "second_move_id": "43"
+    },
+    {
+        "first_move_id": "99",
+        "second_move_id": "184"
+    },
+    {
+        "first_move_id": "104",
+        "second_move_id": "97"
+    },
+    {
+        "first_move_id": "104",
+        "second_move_id": "98"
+    },
+    {
+        "first_move_id": "104",
+        "second_move_id": "100"
+    },
+    {
+        "first_move_id": "106",
+        "second_move_id": "33"
+    },
+    {
+        "first_move_id": "106",
+        "second_move_id": "36"
+    },
+    {
+        "first_move_id": "106",
+        "second_move_id": "38"
+    },
+    {
+        "first_move_id": "106",
+        "second_move_id": "182"
+    },
+    {
+        "first_move_id": "106",
+        "second_move_id": "205"
+    },
+    {
+        "first_move_id": "111",
+        "second_move_id": "33"
+    },
+    {
+        "first_move_id": "111",
+        "second_move_id": "205"
+    },
+    {
+        "first_move_id": "116",
+        "second_move_id": "2"
+    },
+    {
+        "first_move_id": "116",
+        "second_move_id": "5"
+    },
+    {
+        "first_move_id": "116",
+        "second_move_id": "21"
+    },
+    {
+        "first_move_id": "116",
+        "second_move_id": "25"
+    },
+    {
+        "first_move_id": "116",
+        "second_move_id": "36"
+    },
+    {
+        "first_move_id": "116",
+        "second_move_id": "38"
+    },
+    {
+        "first_move_id": "116",
+        "second_move_id": "167"
+    },
+    {
+        "first_move_id": "116",
+        "second_move_id": "198"
+    },
+    {
+        "first_move_id": "116",
+        "second_move_id": "223"
+    },
+    {
+        "first_move_id": "116",
+        "second_move_id": "238"
+    },
+    {
+        "first_move_id": "116",
+        "second_move_id": "264"
+    },
+    {
+        "first_move_id": "116",
+        "second_move_id": "280"
+    },
+    {
+        "first_move_id": "116",
+        "second_move_id": "292"
+    },
+    {
+        "first_move_id": "116",
+        "second_move_id": "327"
+    },
+    {
+        "first_move_id": "123",
+        "second_move_id": "108"
+    },
+    {
+        "first_move_id": "124",
+        "second_move_id": "188"
+    },
+    {
+        "first_move_id": "125",
+        "second_move_id": "155"
+    },
+    {
+        "first_move_id": "125",
+        "second_move_id": "198"
+    },
+    {
+        "first_move_id": "134",
+        "second_move_id": "93"
+    },
+    {
+        "first_move_id": "134",
+        "second_move_id": "94"
+    },
+    {
+        "first_move_id": "134",
+        "second_move_id": "100"
+    },
+    {
+        "first_move_id": "134",
+        "second_move_id": "248"
+    },
+    {
+        "first_move_id": "135",
+        "second_move_id": "121"
+    },
+    {
+        "first_move_id": "155",
+        "second_move_id": "125"
+    },
+    {
+        "first_move_id": "155",
+        "second_move_id": "198"
+    },
+    {
+        "first_move_id": "156",
+        "second_move_id": "173"
+    },
+    {
+        "first_move_id": "156",
+        "second_move_id": "214"
+    },
+    {
+        "first_move_id": "170",
+        "second_move_id": "5"
+    },
+    {
+        "first_move_id": "170",
+        "second_move_id": "25"
+    },
+    {
+        "first_move_id": "170",
+        "second_move_id": "26"
+    },
+    {
+        "first_move_id": "170",
+        "second_move_id": "66"
+    },
+    {
+        "first_move_id": "170",
+        "second_move_id": "136"
+    },
+    {
+        "first_move_id": "170",
+        "second_move_id": "223"
+    },
+    {
+        "first_move_id": "170",
+        "second_move_id": "276"
+    },
+    {
+        "first_move_id": "170",
+        "second_move_id": "329"
+    },
+    {
+        "first_move_id": "174",
+        "second_move_id": "180"
+    },
+    {
+        "first_move_id": "174",
+        "second_move_id": "194"
+    },
+    {
+        "first_move_id": "174",
+        "second_move_id": "212"
+    },
+    {
+        "first_move_id": "174",
+        "second_move_id": "288"
+    },
+    {
+        "first_move_id": "181",
+        "second_move_id": "59"
+    },
+    {
+        "first_move_id": "184",
+        "second_move_id": "43"
+    },
+    {
+        "first_move_id": "184",
+        "second_move_id": "44"
+    },
+    {
+        "first_move_id": "184",
+        "second_move_id": "162"
+    },
+    {
+        "first_move_id": "184",
+        "second_move_id": "242"
+    },
+    {
+        "first_move_id": "187",
+        "second_move_id": "156"
+    },
+    {
+        "first_move_id": "188",
+        "second_move_id": "124"
+    },
+    {
+        "first_move_id": "189",
+        "second_move_id": "28"
+    },
+    {
+        "first_move_id": "189",
+        "second_move_id": "300"
+    },
+    {
+        "first_move_id": "198",
+        "second_move_id": "125"
+    },
+    {
+        "first_move_id": "198",
+        "second_move_id": "155"
+    },
+    {
+        "first_move_id": "199",
+        "second_move_id": "87"
+    },
+    {
+        "first_move_id": "199",
+        "second_move_id": "161"
+    },
+    {
+        "first_move_id": "199",
+        "second_move_id": "190"
+    },
+    {
+        "first_move_id": "199",
+        "second_move_id": "192"
+    },
+    {
+        "first_move_id": "199",
+        "second_move_id": "276"
+    },
+    {
+        "first_move_id": "201",
+        "second_move_id": "28"
+    },
+    {
+        "first_move_id": "201",
+        "second_move_id": "189"
+    },
+    {
+        "first_move_id": "201",
+        "second_move_id": "300"
+    },
+    {
+        "first_move_id": "201",
+        "second_move_id": "311"
+    },
+    {
+        "first_move_id": "201",
+        "second_move_id": "328"
+    },
+    {
+        "first_move_id": "201",
+        "second_move_id": "341"
+    },
+    {
+        "first_move_id": "203",
+        "second_move_id": "175"
+    },
+    {
+        "first_move_id": "203",
+        "second_move_id": "179"
+    },
+    {
+        "first_move_id": "203",
+        "second_move_id": "194"
+    },
+    {
+        "first_move_id": "203",
+        "second_move_id": "220"
+    },
+    {
+        "first_move_id": "203",
+        "second_move_id": "283"
+    },
+    {
+        "first_move_id": "203",
+        "second_move_id": "284"
+    },
+    {
+        "first_move_id": "204",
+        "second_move_id": "39"
+    },
+    {
+        "first_move_id": "204",
+        "second_move_id": "45"
+    },
+    {
+        "first_move_id": "204",
+        "second_move_id": "156"
+    },
+    {
+        "first_move_id": "204",
+        "second_move_id": "186"
+    },
+    {
+        "first_move_id": "204",
+        "second_move_id": "260"
+    },
+    {
+        "first_move_id": "212",
+        "second_move_id": "194"
+    },
+    {
+        "first_move_id": "212",
+        "second_move_id": "195"
+    },
+    {
+        "first_move_id": "225",
+        "second_move_id": "82"
+    },
+    {
+        "first_move_id": "225",
+        "second_move_id": "337"
+    },
+    {
+        "first_move_id": "225",
+        "second_move_id": "349"
+    },
+    {
+        "first_move_id": "230",
+        "second_move_id": "77"
+    },
+    {
+        "first_move_id": "230",
+        "second_move_id": "78"
+    },
+    {
+        "first_move_id": "230",
+        "second_move_id": "79"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "3"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "55"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "56"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "57"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "61"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "87"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "127"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "128"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "145"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "152"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "190"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "291"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "308"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "311"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "323"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "330"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "346"
+    },
+    {
+        "first_move_id": "240",
+        "second_move_id": "352"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "7"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "27"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "52"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "53"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "76"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "83"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "126"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "172"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "221"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "234"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "235"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "236"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "257"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "284"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "299"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "307"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "311"
+    },
+    {
+        "first_move_id": "241",
+        "second_move_id": "315"
+    },
+    {
+        "first_move_id": "252",
+        "second_move_id": "69"
+    },
+    {
+        "first_move_id": "252",
+        "second_move_id": "185"
+    },
+    {
+        "first_move_id": "252",
+        "second_move_id": "233"
+    },
+    {
+        "first_move_id": "252",
+        "second_move_id": "282"
+    },
+    {
+        "first_move_id": "252",
+        "second_move_id": "292"
+    },
+    {
+        "first_move_id": "254",
+        "second_move_id": "255"
+    },
+    {
+        "first_move_id": "254",
+        "second_move_id": "256"
+    },
+    {
+        "first_move_id": "258",
+        "second_move_id": "58"
+    },
+    {
+        "first_move_id": "258",
+        "second_move_id": "59"
+    },
+    {
+        "first_move_id": "258",
+        "second_move_id": "62"
+    },
+    {
+        "first_move_id": "258",
+        "second_move_id": "114"
+    },
+    {
+        "first_move_id": "258",
+        "second_move_id": "181"
+    },
+    {
+        "first_move_id": "258",
+        "second_move_id": "196"
+    },
+    {
+        "first_move_id": "258",
+        "second_move_id": "301"
+    },
+    {
+        "first_move_id": "258",
+        "second_move_id": "311"
+    },
+    {
+        "first_move_id": "258",
+        "second_move_id": "329"
+    },
+    {
+        "first_move_id": "258",
+        "second_move_id": "333"
+    },
+    {
+        "first_move_id": "268",
+        "second_move_id": "9"
+    },
+    {
+        "first_move_id": "268",
+        "second_move_id": "84"
+    },
+    {
+        "first_move_id": "268",
+        "second_move_id": "85"
+    },
+    {
+        "first_move_id": "268",
+        "second_move_id": "86"
+    },
+    {
+        "first_move_id": "268",
+        "second_move_id": "87"
+    },
+    {
+        "first_move_id": "268",
+        "second_move_id": "192"
+    },
+    {
+        "first_move_id": "268",
+        "second_move_id": "209"
+    },
+    {
+        "first_move_id": "268",
+        "second_move_id": "344"
+    },
+    {
+        "first_move_id": "268",
+        "second_move_id": "351"
+    },
+    {
+        "first_move_id": "269",
+        "second_move_id": "68"
+    },
+    {
+        "first_move_id": "269",
+        "second_move_id": "197"
+    },
+    {
+        "first_move_id": "269",
+        "second_move_id": "243"
+    },
+    {
+        "first_move_id": "281",
+        "second_move_id": "156"
+    },
+    {
+        "first_move_id": "281",
+        "second_move_id": "303"
+    },
+    {
+        "first_move_id": "291",
+        "second_move_id": "57"
+    },
+    {
+        "first_move_id": "300",
+        "second_move_id": "55"
+    },
+    {
+        "first_move_id": "300",
+        "second_move_id": "189"
+    },
+    {
+        "first_move_id": "300",
+        "second_move_id": "346"
+    },
+    {
+        "first_move_id": "319",
+        "second_move_id": "232"
+    },
+    {
+        "first_move_id": "346",
+        "second_move_id": "55"
+    },
+    {
+        "first_move_id": "346",
+        "second_move_id": "287"
+    },
+    {
+        "first_move_id": "346",
+        "second_move_id": "300"
+    },
+    {
+        "first_move_id": "347",
+        "second_move_id": "60"
+    },
+    {
+        "first_move_id": "347",
+        "second_move_id": "93"
+    },
+    {
+        "first_move_id": "347",
+        "second_move_id": "94"
+    },
+    {
+        "first_move_id": "347",
+        "second_move_id": "96"
+    },
+    {
+        "first_move_id": "347",
+        "second_move_id": "113"
+    },
+    {
+        "first_move_id": "347",
+        "second_move_id": "115"
+    },
+    {
+        "first_move_id": "347",
+        "second_move_id": "138"
+    },
+    {
+        "first_move_id": "347",
+        "second_move_id": "149"
+    },
+    {
+        "first_move_id": "347",
+        "second_move_id": "248"
+    },
+    {
+        "first_move_id": "347",
+        "second_move_id": "295"
+    },
+    {
+        "first_move_id": "347",
+        "second_move_id": "296"
+    },
+    {
+        "first_move_id": "347",
+        "second_move_id": "354"
+    },
+    {
+        "first_move_id": "349",
+        "second_move_id": "82"
+    },
+    {
+        "first_move_id": "349",
+        "second_move_id": "225"
+    },
+    {
+        "first_move_id": "349",
+        "second_move_id": "337"
+    }
+]

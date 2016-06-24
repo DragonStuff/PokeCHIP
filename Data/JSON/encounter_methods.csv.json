@@ -1,0 +1,87 @@
+[
+    {
+        "id": "1",
+        "identifier": "walk",
+        "order": "1"
+    },
+    {
+        "id": "2",
+        "identifier": "old-rod",
+        "order": "10"
+    },
+    {
+        "id": "3",
+        "identifier": "good-rod",
+        "order": "11"
+    },
+    {
+        "id": "4",
+        "identifier": "super-rod",
+        "order": "12"
+    },
+    {
+        "id": "5",
+        "identifier": "surf",
+        "order": "14"
+    },
+    {
+        "id": "6",
+        "identifier": "rock-smash",
+        "order": "16"
+    },
+    {
+        "id": "7",
+        "identifier": "headbutt",
+        "order": "17"
+    },
+    {
+        "id": "8",
+        "identifier": "dark-grass",
+        "order": "5"
+    },
+    {
+        "id": "9",
+        "identifier": "grass-spots",
+        "order": "2"
+    },
+    {
+        "id": "10",
+        "identifier": "cave-spots",
+        "order": "3"
+    },
+    {
+        "id": "11",
+        "identifier": "bridge-spots",
+        "order": "4"
+    },
+    {
+        "id": "12",
+        "identifier": "super-rod-spots",
+        "order": "13"
+    },
+    {
+        "id": "13",
+        "identifier": "surf-spots",
+        "order": "15"
+    },
+    {
+        "id": "14",
+        "identifier": "yellow-flowers",
+        "order": "6"
+    },
+    {
+        "id": "15",
+        "identifier": "purple-flowers",
+        "order": "7"
+    },
+    {
+        "id": "16",
+        "identifier": "red-flowers",
+        "order": "8"
+    },
+    {
+        "id": "17",
+        "identifier": "rough-terrain",
+        "order": "9"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "item_pocket_id": "1",
+        "local_language_id": "9",
+        "name": "Items"
+    },
+    {
+        "item_pocket_id": "2",
+        "local_language_id": "9",
+        "name": "Medicine"
+    },
+    {
+        "item_pocket_id": "3",
+        "local_language_id": "9",
+        "name": "Pok\u00e9 Balls"
+    },
+    {
+        "item_pocket_id": "4",
+        "local_language_id": "9",
+        "name": "TMs and HMs"
+    },
+    {
+        "item_pocket_id": "5",
+        "local_language_id": "9",
+        "name": "Berries"
+    },
+    {
+        "item_pocket_id": "6",
+        "local_language_id": "9",
+        "name": "Mail"
+    },
+    {
+        "item_pocket_id": "7",
+        "local_language_id": "9",
+        "name": "Battle Items"
+    },
+    {
+        "item_pocket_id": "8",
+        "local_language_id": "9",
+        "name": "Key Items"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "identifier": "misc"
+    },
+    {
+        "id": "2",
+        "identifier": "medicine"
+    },
+    {
+        "id": "3",
+        "identifier": "pokeballs"
+    },
+    {
+        "id": "4",
+        "identifier": "machines"
+    },
+    {
+        "id": "5",
+        "identifier": "berries"
+    },
+    {
+        "id": "6",
+        "identifier": "mail"
+    },
+    {
+        "id": "7",
+        "identifier": "battle"
+    },
+    {
+        "id": "8",
+        "identifier": "key"
+    }
+]

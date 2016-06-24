@@ -1,0 +1,222 @@
+[
+    {
+        "item_category_id": "1",
+        "local_language_id": "9",
+        "name": "Stat boosts"
+    },
+    {
+        "item_category_id": "2",
+        "local_language_id": "9",
+        "name": "Effort drop"
+    },
+    {
+        "item_category_id": "3",
+        "local_language_id": "9",
+        "name": "Medicine"
+    },
+    {
+        "item_category_id": "4",
+        "local_language_id": "9",
+        "name": "Other"
+    },
+    {
+        "item_category_id": "5",
+        "local_language_id": "9",
+        "name": "In a pinch"
+    },
+    {
+        "item_category_id": "6",
+        "local_language_id": "9",
+        "name": "Picky healing"
+    },
+    {
+        "item_category_id": "7",
+        "local_language_id": "9",
+        "name": "Type protection"
+    },
+    {
+        "item_category_id": "8",
+        "local_language_id": "9",
+        "name": "Baking only"
+    },
+    {
+        "item_category_id": "9",
+        "local_language_id": "9",
+        "name": "Collectibles"
+    },
+    {
+        "item_category_id": "10",
+        "local_language_id": "9",
+        "name": "Evolution"
+    },
+    {
+        "item_category_id": "11",
+        "local_language_id": "9",
+        "name": "Spelunking"
+    },
+    {
+        "item_category_id": "12",
+        "local_language_id": "9",
+        "name": "Held items"
+    },
+    {
+        "item_category_id": "13",
+        "local_language_id": "9",
+        "name": "Choice"
+    },
+    {
+        "item_category_id": "14",
+        "local_language_id": "9",
+        "name": "Effort training"
+    },
+    {
+        "item_category_id": "15",
+        "local_language_id": "9",
+        "name": "Bad held items"
+    },
+    {
+        "item_category_id": "16",
+        "local_language_id": "9",
+        "name": "Training"
+    },
+    {
+        "item_category_id": "17",
+        "local_language_id": "9",
+        "name": "Plates"
+    },
+    {
+        "item_category_id": "18",
+        "local_language_id": "9",
+        "name": "Species-specific"
+    },
+    {
+        "item_category_id": "19",
+        "local_language_id": "9",
+        "name": "Type enhancement"
+    },
+    {
+        "item_category_id": "20",
+        "local_language_id": "9",
+        "name": "Event items"
+    },
+    {
+        "item_category_id": "21",
+        "local_language_id": "9",
+        "name": "Gameplay"
+    },
+    {
+        "item_category_id": "22",
+        "local_language_id": "9",
+        "name": "Plot advancement"
+    },
+    {
+        "item_category_id": "23",
+        "local_language_id": "9",
+        "name": "Unused"
+    },
+    {
+        "item_category_id": "24",
+        "local_language_id": "9",
+        "name": "Loot"
+    },
+    {
+        "item_category_id": "25",
+        "local_language_id": "9",
+        "name": "All mail"
+    },
+    {
+        "item_category_id": "26",
+        "local_language_id": "9",
+        "name": "Vitamins"
+    },
+    {
+        "item_category_id": "27",
+        "local_language_id": "9",
+        "name": "Healing"
+    },
+    {
+        "item_category_id": "28",
+        "local_language_id": "9",
+        "name": "PP recovery"
+    },
+    {
+        "item_category_id": "29",
+        "local_language_id": "9",
+        "name": "Revival"
+    },
+    {
+        "item_category_id": "30",
+        "local_language_id": "9",
+        "name": "Status cures"
+    },
+    {
+        "item_category_id": "32",
+        "local_language_id": "9",
+        "name": "Mulch"
+    },
+    {
+        "item_category_id": "33",
+        "local_language_id": "9",
+        "name": "Special balls"
+    },
+    {
+        "item_category_id": "34",
+        "local_language_id": "9",
+        "name": "Standard balls"
+    },
+    {
+        "item_category_id": "35",
+        "local_language_id": "9",
+        "name": "Dex completion"
+    },
+    {
+        "item_category_id": "36",
+        "local_language_id": "9",
+        "name": "Scarves"
+    },
+    {
+        "item_category_id": "37",
+        "local_language_id": "9",
+        "name": "All machines"
+    },
+    {
+        "item_category_id": "38",
+        "local_language_id": "9",
+        "name": "Flutes"
+    },
+    {
+        "item_category_id": "39",
+        "local_language_id": "9",
+        "name": "Apricorn balls"
+    },
+    {
+        "item_category_id": "40",
+        "local_language_id": "9",
+        "name": "Apricorn Box"
+    },
+    {
+        "item_category_id": "41",
+        "local_language_id": "9",
+        "name": "Data Cards"
+    },
+    {
+        "item_category_id": "42",
+        "local_language_id": "9",
+        "name": "Jewels"
+    },
+    {
+        "item_category_id": "43",
+        "local_language_id": "9",
+        "name": "Miracle Shooter"
+    },
+    {
+        "item_category_id": "44",
+        "local_language_id": "9",
+        "name": "Mega Stones"
+    },
+    {
+        "item_category_id": "10001",
+        "local_language_id": "9",
+        "name": "X/Y unknown"
+    }
+]

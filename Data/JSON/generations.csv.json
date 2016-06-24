@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "identifier": "generation-i",
+        "main_region_id": "1"
+    },
+    {
+        "id": "2",
+        "identifier": "generation-ii",
+        "main_region_id": "2"
+    },
+    {
+        "id": "3",
+        "identifier": "generation-iii",
+        "main_region_id": "3"
+    },
+    {
+        "id": "4",
+        "identifier": "generation-iv",
+        "main_region_id": "4"
+    },
+    {
+        "id": "5",
+        "identifier": "generation-v",
+        "main_region_id": "5"
+    },
+    {
+        "id": "6",
+        "identifier": "generation-vi",
+        "main_region_id": "6"
+    }
+]

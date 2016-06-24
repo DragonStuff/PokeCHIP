@@ -1,0 +1,37 @@
+[
+    {
+        "effect": "Badly poisons the target.",
+        "item_fling_effect_id": "1",
+        "local_language_id": "9"
+    },
+    {
+        "effect": "Burns the target.",
+        "item_fling_effect_id": "2",
+        "local_language_id": "9"
+    },
+    {
+        "effect": "Immediately activates the berry's effect on the target.",
+        "item_fling_effect_id": "3",
+        "local_language_id": "9"
+    },
+    {
+        "effect": "Immediately activates the herb's effect on the target.",
+        "item_fling_effect_id": "4",
+        "local_language_id": "9"
+    },
+    {
+        "effect": "Paralyzes the target.",
+        "item_fling_effect_id": "5",
+        "local_language_id": "9"
+    },
+    {
+        "effect": "Poisons the target.",
+        "item_fling_effect_id": "6",
+        "local_language_id": "9"
+    },
+    {
+        "effect": "Target will flinch if it has not yet gone this turn.",
+        "item_fling_effect_id": "7",
+        "local_language_id": "9"
+    }
+]

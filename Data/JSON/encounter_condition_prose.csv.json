@@ -1,0 +1,92 @@
+[
+    {
+        "encounter_condition_id": "1",
+        "local_language_id": "5",
+        "name": "Essaim"
+    },
+    {
+        "encounter_condition_id": "1",
+        "local_language_id": "6",
+        "name": "Schwarm"
+    },
+    {
+        "encounter_condition_id": "1",
+        "local_language_id": "9",
+        "name": "Swarm"
+    },
+    {
+        "encounter_condition_id": "2",
+        "local_language_id": "5",
+        "name": "P\u00e9riode horaire"
+    },
+    {
+        "encounter_condition_id": "2",
+        "local_language_id": "6",
+        "name": "Tageszeit"
+    },
+    {
+        "encounter_condition_id": "2",
+        "local_language_id": "9",
+        "name": "Time of day"
+    },
+    {
+        "encounter_condition_id": "3",
+        "local_language_id": "5",
+        "name": "Pok\u00e9 Radar"
+    },
+    {
+        "encounter_condition_id": "3",
+        "local_language_id": "6",
+        "name": "PokeRadar"
+    },
+    {
+        "encounter_condition_id": "3",
+        "local_language_id": "9",
+        "name": "PokeRadar"
+    },
+    {
+        "encounter_condition_id": "4",
+        "local_language_id": "5",
+        "name": "Jeu GBA dans le Slot 2"
+    },
+    {
+        "encounter_condition_id": "4",
+        "local_language_id": "6",
+        "name": "Spiel der 3. Generation in Slot 2"
+    },
+    {
+        "encounter_condition_id": "4",
+        "local_language_id": "9",
+        "name": "Gen 3 game in slot 2"
+    },
+    {
+        "encounter_condition_id": "5",
+        "local_language_id": "5",
+        "name": "Radio"
+    },
+    {
+        "encounter_condition_id": "5",
+        "local_language_id": "6",
+        "name": "Radio"
+    },
+    {
+        "encounter_condition_id": "5",
+        "local_language_id": "9",
+        "name": "Radio"
+    },
+    {
+        "encounter_condition_id": "6",
+        "local_language_id": "5",
+        "name": "Saison"
+    },
+    {
+        "encounter_condition_id": "6",
+        "local_language_id": "6",
+        "name": "Jahreszeit"
+    },
+    {
+        "encounter_condition_id": "6",
+        "local_language_id": "9",
+        "name": "Season"
+    }
+]

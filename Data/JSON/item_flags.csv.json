@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "identifier": "countable"
+    },
+    {
+        "id": "2",
+        "identifier": "consumable"
+    },
+    {
+        "id": "3",
+        "identifier": "usable-overworld"
+    },
+    {
+        "id": "4",
+        "identifier": "usable-in-battle"
+    },
+    {
+        "id": "5",
+        "identifier": "holdable"
+    },
+    {
+        "id": "6",
+        "identifier": "holdable-passive"
+    },
+    {
+        "id": "7",
+        "identifier": "holdable-active"
+    },
+    {
+        "id": "8",
+        "identifier": "underground"
+    }
+]

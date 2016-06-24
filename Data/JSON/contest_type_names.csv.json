@@ -1,0 +1,72 @@
+[
+    {
+        "color": "Rouge",
+        "contest_type_id": "1",
+        "flavor": "\u00c9pic\u00e9",
+        "local_language_id": "5",
+        "name": "Sang-froid"
+    },
+    {
+        "color": "Red",
+        "contest_type_id": "1",
+        "flavor": "Spicy",
+        "local_language_id": "9",
+        "name": "Cool"
+    },
+    {
+        "color": "Bleu",
+        "contest_type_id": "2",
+        "flavor": "Sec",
+        "local_language_id": "5",
+        "name": "Beaut\u00e9"
+    },
+    {
+        "color": "Blue",
+        "contest_type_id": "2",
+        "flavor": "Dry",
+        "local_language_id": "9",
+        "name": "Beauty"
+    },
+    {
+        "color": "Rose",
+        "contest_type_id": "3",
+        "flavor": "Sucr\u00e9",
+        "local_language_id": "5",
+        "name": "Gr\u00e2ce"
+    },
+    {
+        "color": "Pink",
+        "contest_type_id": "3",
+        "flavor": "Sweet",
+        "local_language_id": "9",
+        "name": "Cute"
+    },
+    {
+        "color": "Vert",
+        "contest_type_id": "4",
+        "flavor": "Am\u00e8re",
+        "local_language_id": "5",
+        "name": "Intelligence"
+    },
+    {
+        "color": "Green",
+        "contest_type_id": "4",
+        "flavor": "Bitter",
+        "local_language_id": "9",
+        "name": "Smart"
+    },
+    {
+        "color": "Jaune",
+        "contest_type_id": "5",
+        "flavor": "Acide",
+        "local_language_id": "5",
+        "name": "Robustesse"
+    },
+    {
+        "color": "Yellow",
+        "contest_type_id": "5",
+        "flavor": "Sour",
+        "local_language_id": "9",
+        "name": "Tough"
+    }
+]

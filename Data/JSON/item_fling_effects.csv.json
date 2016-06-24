@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "badly-poison"
+    },
+    {
+        "id": "2",
+        "name": "burn"
+    },
+    {
+        "id": "3",
+        "name": "berry-effect"
+    },
+    {
+        "id": "4",
+        "name": "herb-effect"
+    },
+    {
+        "id": "5",
+        "name": "paralyze"
+    },
+    {
+        "id": "6",
+        "name": "poison"
+    },
+    {
+        "id": "7",
+        "name": "flinch"
+    }
+]

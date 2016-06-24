@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "identifier": "monster"
+    },
+    {
+        "id": "2",
+        "identifier": "water1"
+    },
+    {
+        "id": "3",
+        "identifier": "bug"
+    },
+    {
+        "id": "4",
+        "identifier": "flying"
+    },
+    {
+        "id": "5",
+        "identifier": "ground"
+    },
+    {
+        "id": "6",
+        "identifier": "fairy"
+    },
+    {
+        "id": "7",
+        "identifier": "plant"
+    },
+    {
+        "id": "8",
+        "identifier": "humanshape"
+    },
+    {
+        "id": "9",
+        "identifier": "water3"
+    },
+    {
+        "id": "10",
+        "identifier": "mineral"
+    },
+    {
+        "id": "11",
+        "identifier": "indeterminate"
+    },
+    {
+        "id": "12",
+        "identifier": "water2"
+    },
+    {
+        "id": "13",
+        "identifier": "ditto"
+    },
+    {
+        "id": "14",
+        "identifier": "dragon"
+    },
+    {
+        "id": "15",
+        "identifier": "no-eggs"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "berry_firmness_id": "1",
+        "local_language_id": "5",
+        "name": "Tr\u00e8s tendre"
+    },
+    {
+        "berry_firmness_id": "1",
+        "local_language_id": "9",
+        "name": "Very Soft"
+    },
+    {
+        "berry_firmness_id": "2",
+        "local_language_id": "5",
+        "name": "Tendre"
+    },
+    {
+        "berry_firmness_id": "2",
+        "local_language_id": "9",
+        "name": "Soft"
+    },
+    {
+        "berry_firmness_id": "3",
+        "local_language_id": "5",
+        "name": "Ferme"
+    },
+    {
+        "berry_firmness_id": "3",
+        "local_language_id": "9",
+        "name": "Hard"
+    },
+    {
+        "berry_firmness_id": "4",
+        "local_language_id": "5",
+        "name": "Tr\u00e8s ferme"
+    },
+    {
+        "berry_firmness_id": "4",
+        "local_language_id": "9",
+        "name": "Very Hard"
+    },
+    {
+        "berry_firmness_id": "5",
+        "local_language_id": "5",
+        "name": "Super ferme"
+    },
+    {
+        "berry_firmness_id": "5",
+        "local_language_id": "9",
+        "name": "Super Hard"
+    }
+]
