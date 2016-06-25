@@ -61,5 +61,25 @@ touch $LOCK_FILE
 # --- Body --------------------------------------------------------
 # Searching using search.sh
 echo Searching for Pokemon: $search_Name
-./search.sh pokemon.csv identifier $search_Name
+data=``
+pid=`./search.sh pokemon.csv identifier $search_Name | grep \"id\"\: | sed 's/.$//'`
+pname=`./search.sh pokemon.csv identifier $search_Name | grep identifier | sed 's/.$//'`
+pheight=`./search.sh pokemon.csv identifier $search_Name | grep height | sed 's/.$//'`
+pweight=`./search.sh pokemon.csv identifier $search_Name | grep weight`
+ptype=``
+
+echo -e ________________________________________
+echo -e \| Info\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
+echo -e \|--------------------------------------\|
+echo -e \| `echo $pid`\ \| `echo $pname`\|
+echo -e \|--------------------------------------\|
+echo -e \| `echo $ptype`\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
+echo -e \|--------------------------------------\|
+echo -e \| `echo $pheight`         \| `echo $pweight`\ \ \ \ \ \ \ \|
+echo -e \|--------------------------------------\|
+echo -e \|`echo ${stringZ:0}` \|
+echo -e \| \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
+echo -e \| \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
+echo -e \| \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
+echo -e \|______________________________________\|
 # -----------------------------------------------------------------

@@ -63,12 +63,12 @@ touch $LOCK_FILE
 
 # --- Body --------------------------------------------------------
 # Searching using jq
-echo Arguments: $1, $2, $3
+#echo Arguments: $1, $2, $3
 export searchHeading
 export searchQuery
-echo Searching $dataset for "$searchHeading/$searchQuery"...
-echo File length: 
-cat Data/JSON/$dataset.json | jq 'length'
+#echo Searching $dataset for "$searchHeading/$searchQuery"...
+#echo File length: 
+#cat Data/JSON/$dataset.json | jq 'length'
 jq '.[] | select(."'$searchHeading'" == "'$searchQuery'")' Data/JSON/$dataset.json
 
 # -----------------------------------------------------------------
