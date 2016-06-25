@@ -5,8 +5,8 @@
 # ------------------------------------------------------------------
 
 VERSION=0.0.1
-SUBJECT=Search_Datasets
-USAGE="Usage: search.sh -ihv dataset search_heading search_query"
+SUBJECT=Search_Datasets_By_Name
+USAGE="Usage: namesearch.sh -ihv dataset search_heading search_query"
 
 # --- Options processing -------------------------------------------
 if [ $# == 0 ] ; then
@@ -45,10 +45,7 @@ while getopts ":i:vh" optname
 
 shift $(($OPTIND - 1))
 
-dataset=$1
-searchHeading=$2
-searchQuery=$3
-
+search_Name=$1
 
 # --- Locks -------------------------------------------------------
 LOCK_FILE=/tmp/$SUBJECT.lock
@@ -62,13 +59,7 @@ touch $LOCK_FILE
 
 
 # --- Body --------------------------------------------------------
-# Searching using jq
-echo Arguments: $1, $2, $3
-export searchHeading
-export searchQuery
-echo Searching $dataset for "$searchHeading/$searchQuery"...
-echo File length: 
-cat Data/JSON/$dataset.json | jq 'length'
-jq '.[] | select(."'$searchHeading'" == "'$searchQuery'")' Data/JSON/$dataset.json
-
+# Searching using search.sh
+echo Searching for Pokemon: $search_Name
+./search.sh pokemon.csv identifier $search_Name
 # -----------------------------------------------------------------
