@@ -66,14 +66,15 @@ pid=`./search.sh pokemon.csv identifier $search_Name | grep \"id\"\: | sed 's/.$
 pname=`./search.sh pokemon.csv identifier $search_Name | grep identifier | sed 's/.$//'`
 pheight=`./search.sh pokemon.csv identifier $search_Name | grep height | sed 's/.$//'`
 pweight=`./search.sh pokemon.csv identifier $search_Name | grep weight`
-ptype=``
+ptype_id_ext=`./search.sh pokemon.csv identifier $search_Name | grep \"id\"\: | grep -o '\"[0-9]*\"' | cut -d "\"" -f 2`
+ptype=`./search.sh types.csv id $ptype_id_ext | grep identifier`
 
 echo -e ________________________________________
 echo -e \| Info\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
 echo -e \|--------------------------------------\|
 echo -e \| `echo $pid`\ \| `echo $pname`\|
 echo -e \|--------------------------------------\|
-echo -e \| `echo $ptype`\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
+echo -e \| `echo $ptype`\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
 echo -e \|--------------------------------------\|
 echo -e \| `echo $pheight`         \| `echo $pweight`\ \ \ \ \ \ \ \|
 echo -e \|--------------------------------------\|
