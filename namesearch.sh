@@ -74,12 +74,12 @@ pdescription=`jq '.[] | select((.species_id == '$pdescription_ext') and (.langua
 echo -e ________________________________________
 echo -e \| Info\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
 echo -e \|--------------------------------------\|
-echo -e \| `echo $pid`\ \| `echo $pname`\|
+echo -e \| ID: `echo ${pid:8}| cut -d "\"" -f 2`\ \| `echo Name: ${pname:16}`
 echo -e \|--------------------------------------\|
-echo -e \| `echo $ptype`\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
+echo -e \| Type: `echo ${ptype:16} | cut -d "\"" -f 2`
 echo -e \|--------------------------------------\|
-echo -e \| `echo $pheight`         \| `echo $pweight`\ \ \ \ \ \ \ \|
+echo -e \| `echo H${pheight:10}`\ \| `echo W${pweight:10}`
 echo -e \|--------------------------------------\|
-echo -e `echo "$pdescription"`
+echo -e `echo "${pdescription:17}"`
 echo -e \|______________________________________\|
 # -----------------------------------------------------------------
