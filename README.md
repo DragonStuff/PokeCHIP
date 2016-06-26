@@ -9,16 +9,17 @@ Pokédex for PocketCHIP.
 `./search.sh -ihv dataset search_heading search_query`
 
 ## Example:
-`./search.sh pokemon.csv identifier $search_Name`
+
+    ./search.sh pokemon.csv identifier $search_Name
     {
-    "base_experience": "64",
-    "height": "7",
-    "id": "1",
-    "identifier": "bulbasaur",
-    "is_default": "1",
-    "order": "1",
-    "species_id": "1",
-    "weight": "69"
+        "base_experience": "64",
+        "height": "7",
+        "id": "1",
+        "identifier": "bulbasaur",
+        "is_default": "1",
+        "order": "1",
+        "species_id": "1",
+        "weight": "69"
     }
 
 ## Usage
