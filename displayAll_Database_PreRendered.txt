@@ -1,0 +1,811 @@
+- ID: 1 | Name: "bulbasaur" | Type: grass
+- ID: 2 | Name: "ivysaur" | Type: grass
+- ID: 3 | Name: "venusaur" | Type: grass
+- ID: 4 | Name: "charmander" | Type: fire
+- ID: 5 | Name: "charmeleon" | Type: fire
+- ID: 6 | Name: "charizard" | Type: fire
+- ID: 7 | Name: "squirtle" | Type: water
+- ID: 8 | Name: "wartortle" | Type: water
+- ID: 9 | Name: "blastoise" | Type: water
+- ID: 10 | Name: "caterpie" | Type: bug
+- ID: 11 | Name: "metapod" | Type: bug
+- ID: 12 | Name: "butterfree" | Type: bug
+- ID: 13 | Name: "weedle" | Type: bug
+- ID: 14 | Name: "kakuna" | Type: bug
+- ID: 15 | Name: "beedrill" | Type: bug
+- ID: 16 | Name: "pidgey" | Type: normal
+- ID: 17 | Name: "pidgeotto" | Type: normal
+- ID: 18 | Name: "pidgeot" | Type: normal
+- ID: 19 | Name: "rattata" | Type: normal
+- ID: 20 | Name: "raticate" | Type: normal
+- ID: 21 | Name: "spearow" | Type: normal
+- ID: 22 | Name: "fearow" | Type: normal
+- ID: 23 | Name: "ekans" | Type: poison
+- ID: 24 | Name: "arbok" | Type: poison
+- ID: 25 | Name: "pikachu" | Type: electric
+- ID: 26 | Name: "raichu" | Type: electric
+- ID: 27 | Name: "sandshrew" | Type: ground
+- ID: 28 | Name: "sandslash" | Type: ground
+- ID: 29 | Name: "nidoran-f" | Type: poison
+- ID: 30 | Name: "nidorina" | Type: poison
+- ID: 31 | Name: "nidoqueen" | Type: poison
+- ID: 32 | Name: "nidoran-m" | Type: poison
+- ID: 33 | Name: "nidorino" | Type: poison
+- ID: 34 | Name: "nidoking" | Type: poison
+- ID: 35 | Name: "clefairy" | Type: fairy
+- ID: 36 | Name: "clefable" | Type: fairy
+- ID: 37 | Name: "vulpix" | Type: fire
+- ID: 38 | Name: "ninetales" | Type: fire
+- ID: 39 | Name: "jigglypuff" | Type: normal
+- ID: 40 | Name: "wigglytuff" | Type: normal
+- ID: 41 | Name: "zubat" | Type: poison
+- ID: 42 | Name: "golbat" | Type: poison
+- ID: 43 | Name: "oddish" | Type: grass
+- ID: 44 | Name: "gloom" | Type: grass
+- ID: 45 | Name: "vileplume" | Type: grass
+- ID: 46 | Name: "paras" | Type: bug
+- ID: 47 | Name: "parasect" | Type: bug
+- ID: 48 | Name: "venonat" | Type: bug
+- ID: 49 | Name: "venomoth" | Type: bug
+- ID: 50 | Name: "diglett" | Type: ground
+- ID: 51 | Name: "dugtrio" | Type: ground
+- ID: 52 | Name: "meowth" | Type: normal
+- ID: 53 | Name: "persian" | Type: normal
+- ID: 54 | Name: "psyduck" | Type: water
+- ID: 55 | Name: "golduck" | Type: water
+- ID: 56 | Name: "mankey" | Type: fighting
+- ID: 57 | Name: "primeape" | Type: fighting
+- ID: 58 | Name: "growlithe" | Type: fire
+- ID: 59 | Name: "arcanine" | Type: fire
+- ID: 60 | Name: "poliwag" | Type: water
+- ID: 61 | Name: "poliwhirl" | Type: water
+- ID: 62 | Name: "poliwrath" | Type: water
+- ID: 63 | Name: "abra" | Type: psychic
+- ID: 64 | Name: "kadabra" | Type: psychic
+- ID: 65 | Name: "alakazam" | Type: psychic
+- ID: 66 | Name: "machop" | Type: fighting
+- ID: 67 | Name: "machoke" | Type: fighting
+- ID: 68 | Name: "machamp" | Type: fighting
+- ID: 69 | Name: "bellsprout" | Type: grass
+- ID: 70 | Name: "weepinbell" | Type: grass
+- ID: 71 | Name: "victreebel" | Type: grass
+- ID: 72 | Name: "tentacool" | Type: water
+- ID: 73 | Name: "tentacruel" | Type: water
+- ID: 74 | Name: "geodude" | Type: rock
+- ID: 75 | Name: "graveler" | Type: rock
+- ID: 76 | Name: "golem" | Type: rock
+- ID: 77 | Name: "ponyta" | Type: fire
+- ID: 78 | Name: "rapidash" | Type: fire
+- ID: 79 | Name: "slowpoke" | Type: water
+- ID: 80 | Name: "slowbro" | Type: water
+- ID: 81 | Name: "magnemite" | Type: electric
+- ID: 82 | Name: "magneton" | Type: electric
+- ID: 83 | Name: "farfetchd" | Type: normal
+- ID: 84 | Name: "doduo" | Type: normal
+- ID: 85 | Name: "dodrio" | Type: normal
+- ID: 86 | Name: "seel" | Type: water
+- ID: 87 | Name: "dewgong" | Type: water
+- ID: 88 | Name: "grimer" | Type: poison
+- ID: 89 | Name: "muk" | Type: poison
+- ID: 90 | Name: "shellder" | Type: water
+- ID: 91 | Name: "cloyster" | Type: water
+- ID: 92 | Name: "gastly" | Type: ghost
+- ID: 93 | Name: "haunter" | Type: ghost
+- ID: 94 | Name: "gengar" | Type: ghost
+- ID: 95 | Name: "onix" | Type: rock
+- ID: 96 | Name: "drowzee" | Type: psychic
+- ID: 97 | Name: "hypno" | Type: psychic
+- ID: 98 | Name: "krabby" | Type: water
+- ID: 99 | Name: "kingler" | Type: water
+- ID: 100 | Name: "voltorb" | Type: electric
+- ID: 101 | Name: "electrode" | Type: electric
+- ID: 102 | Name: "exeggcute" | Type: grass
+- ID: 103 | Name: "exeggutor" | Type: grass
+- ID: 104 | Name: "cubone" | Type: ground
+- ID: 105 | Name: "marowak" | Type: ground
+- ID: 106 | Name: "hitmonlee" | Type: fighting
+- ID: 107 | Name: "hitmonchan" | Type: fighting
+- ID: 108 | Name: "lickitung" | Type: normal
+- ID: 109 | Name: "koffing" | Type: poison
+- ID: 110 | Name: "weezing" | Type: poison
+- ID: 111 | Name: "rhyhorn" | Type: ground
+- ID: 112 | Name: "rhydon" | Type: ground
+- ID: 113 | Name: "chansey" | Type: normal
+- ID: 114 | Name: "tangela" | Type: grass
+- ID: 115 | Name: "kangaskhan" | Type: normal
+- ID: 116 | Name: "horsea" | Type: water
+- ID: 117 | Name: "seadra" | Type: water
+- ID: 118 | Name: "goldeen" | Type: water
+- ID: 119 | Name: "seaking" | Type: water
+- ID: 120 | Name: "staryu" | Type: water
+- ID: 121 | Name: "starmie" | Type: water
+- ID: 122 | Name: "mr-mime" | Type: psychic
+- ID: 123 | Name: "scyther" | Type: bug
+- ID: 124 | Name: "jynx" | Type: ice
+- ID: 125 | Name: "electabuzz" | Type: electric
+- ID: 126 | Name: "magmar" | Type: fire
+- ID: 127 | Name: "pinsir" | Type: bug
+- ID: 128 | Name: "tauros" | Type: normal
+- ID: 129 | Name: "magikarp" | Type: water
+- ID: 130 | Name: "gyarados" | Type: water
+- ID: 131 | Name: "lapras" | Type: water
+- ID: 132 | Name: "ditto" | Type: normal
+- ID: 133 | Name: "eevee" | Type: normal
+- ID: 134 | Name: "vaporeon" | Type: water
+- ID: 135 | Name: "jolteon" | Type: electric
+- ID: 136 | Name: "flareon" | Type: fire
+- ID: 137 | Name: "porygon" | Type: normal
+- ID: 138 | Name: "omanyte" | Type: rock
+- ID: 139 | Name: "omastar" | Type: rock
+- ID: 140 | Name: "kabuto" | Type: rock
+- ID: 141 | Name: "kabutops" | Type: rock
+- ID: 142 | Name: "aerodactyl" | Type: rock
+- ID: 143 | Name: "snorlax" | Type: normal
+- ID: 144 | Name: "articuno" | Type: ice
+- ID: 145 | Name: "zapdos" | Type: electric
+- ID: 146 | Name: "moltres" | Type: fire
+- ID: 147 | Name: "dratini" | Type: dragon
+- ID: 148 | Name: "dragonair" | Type: dragon
+- ID: 149 | Name: "dragonite" | Type: dragon
+- ID: 150 | Name: "mewtwo" | Type: psychic
+- ID: 151 | Name: "mew" | Type: psychic
+- ID: 152 | Name: "chikorita" | Type: grass
+- ID: 153 | Name: "bayleef" | Type: grass
+- ID: 154 | Name: "meganium" | Type: grass
+- ID: 155 | Name: "cyndaquil" | Type: fire
+- ID: 156 | Name: "quilava" | Type: fire
+- ID: 157 | Name: "typhlosion" | Type: fire
+- ID: 158 | Name: "totodile" | Type: water
+- ID: 159 | Name: "croconaw" | Type: water
+- ID: 160 | Name: "feraligatr" | Type: water
+- ID: 161 | Name: "sentret" | Type: normal
+- ID: 162 | Name: "furret" | Type: normal
+- ID: 163 | Name: "hoothoot" | Type: normal
+- ID: 164 | Name: "noctowl" | Type: normal
+- ID: 165 | Name: "ledyba" | Type: bug
+- ID: 166 | Name: "ledian" | Type: bug
+- ID: 167 | Name: "spinarak" | Type: bug
+- ID: 168 | Name: "ariados" | Type: bug
+- ID: 169 | Name: "crobat" | Type: poison
+- ID: 170 | Name: "chinchou" | Type: water
+- ID: 171 | Name: "lanturn" | Type: water
+- ID: 172 | Name: "pichu" | Type: electric
+- ID: 173 | Name: "cleffa" | Type: fairy
+- ID: 174 | Name: "igglybuff" | Type: normal
+- ID: 175 | Name: "togepi" | Type: fairy
+- ID: 176 | Name: "togetic" | Type: fairy
+- ID: 177 | Name: "natu" | Type: psychic
+- ID: 178 | Name: "xatu" | Type: psychic
+- ID: 179 | Name: "mareep" | Type: electric
+- ID: 180 | Name: "flaaffy" | Type: electric
+- ID: 181 | Name: "ampharos" | Type: electric
+- ID: 182 | Name: "bellossom" | Type: grass
+- ID: 183 | Name: "marill" | Type: water
+- ID: 184 | Name: "azumarill" | Type: water
+- ID: 185 | Name: "sudowoodo" | Type: rock
+- ID: 186 | Name: "politoed" | Type: water
+- ID: 187 | Name: "hoppip" | Type: grass
+- ID: 188 | Name: "skiploom" | Type: grass
+- ID: 189 | Name: "jumpluff" | Type: grass
+- ID: 190 | Name: "aipom" | Type: normal
+- ID: 191 | Name: "sunkern" | Type: grass
+- ID: 192 | Name: "sunflora" | Type: grass
+- ID: 193 | Name: "yanma" | Type: bug
+- ID: 194 | Name: "wooper" | Type: water
+- ID: 195 | Name: "quagsire" | Type: water
+- ID: 196 | Name: "espeon" | Type: psychic
+- ID: 197 | Name: "umbreon" | Type: dark
+- ID: 198 | Name: "murkrow" | Type: dark
+- ID: 199 | Name: "slowking" | Type: water
+- ID: 200 | Name: "misdreavus" | Type: ghost
+- ID: 201 | Name: "unown" | Type: psychic
+- ID: 202 | Name: "wobbuffet" | Type: psychic
+- ID: 203 | Name: "girafarig" | Type: normal
+- ID: 204 | Name: "pineco" | Type: bug
+- ID: 205 | Name: "forretress" | Type: bug
+- ID: 206 | Name: "dunsparce" | Type: normal
+- ID: 207 | Name: "gligar" | Type: ground
+- ID: 208 | Name: "steelix" | Type: steel
+- ID: 209 | Name: "snubbull" | Type: fairy
+- ID: 210 | Name: "granbull" | Type: fairy
+- ID: 211 | Name: "qwilfish" | Type: water
+- ID: 212 | Name: "scizor" | Type: bug
+- ID: 213 | Name: "shuckle" | Type: bug
+- ID: 214 | Name: "heracross" | Type: bug
+- ID: 215 | Name: "sneasel" | Type: dark
+- ID: 216 | Name: "teddiursa" | Type: normal
+- ID: 217 | Name: "ursaring" | Type: normal
+- ID: 218 | Name: "slugma" | Type: fire
+- ID: 219 | Name: "magcargo" | Type: fire
+- ID: 220 | Name: "swinub" | Type: ice
+- ID: 221 | Name: "piloswine" | Type: ice
+- ID: 222 | Name: "corsola" | Type: water
+- ID: 223 | Name: "remoraid" | Type: water
+- ID: 224 | Name: "octillery" | Type: water
+- ID: 225 | Name: "delibird" | Type: ice
+- ID: 226 | Name: "mantine" | Type: water
+- ID: 227 | Name: "skarmory" | Type: steel
+- ID: 228 | Name: "houndour" | Type: dark
+- ID: 229 | Name: "houndoom" | Type: dark
+- ID: 230 | Name: "kingdra" | Type: water
+- ID: 231 | Name: "phanpy" | Type: ground
+- ID: 232 | Name: "donphan" | Type: ground
+- ID: 233 | Name: "porygon2" | Type: normal
+- ID: 234 | Name: "stantler" | Type: normal
+- ID: 235 | Name: "smeargle" | Type: normal
+- ID: 236 | Name: "tyrogue" | Type: fighting
+- ID: 237 | Name: "hitmontop" | Type: fighting
+- ID: 238 | Name: "smoochum" | Type: ice
+- ID: 239 | Name: "elekid" | Type: electric
+- ID: 240 | Name: "magby" | Type: fire
+- ID: 241 | Name: "miltank" | Type: normal
+- ID: 242 | Name: "blissey" | Type: normal
+- ID: 243 | Name: "raikou" | Type: electric
+- ID: 244 | Name: "entei" | Type: fire
+- ID: 245 | Name: "suicune" | Type: water
+- ID: 246 | Name: "larvitar" | Type: rock
+- ID: 247 | Name: "pupitar" | Type: rock
+- ID: 248 | Name: "tyranitar" | Type: rock
+- ID: 249 | Name: "lugia" | Type: psychic
+- ID: 250 | Name: "ho-oh" | Type: fire
+- ID: 251 | Name: "celebi" | Type: psychic
+- ID: 252 | Name: "treecko" | Type: grass
+- ID: 253 | Name: "grovyle" | Type: grass
+- ID: 254 | Name: "sceptile" | Type: grass
+- ID: 255 | Name: "torchic" | Type: fire
+- ID: 256 | Name: "combusken" | Type: fire
+- ID: 257 | Name: "blaziken" | Type: fire
+- ID: 258 | Name: "mudkip" | Type: water
+- ID: 259 | Name: "marshtomp" | Type: water
+- ID: 260 | Name: "swampert" | Type: water
+- ID: 261 | Name: "poochyena" | Type: dark
+- ID: 262 | Name: "mightyena" | Type: dark
+- ID: 263 | Name: "zigzagoon" | Type: normal
+- ID: 264 | Name: "linoone" | Type: normal
+- ID: 265 | Name: "wurmple" | Type: bug
+- ID: 266 | Name: "silcoon" | Type: bug
+- ID: 267 | Name: "beautifly" | Type: bug
+- ID: 268 | Name: "cascoon" | Type: bug
+- ID: 269 | Name: "dustox" | Type: bug
+- ID: 270 | Name: "lotad" | Type: water
+- ID: 271 | Name: "lombre" | Type: water
+- ID: 272 | Name: "ludicolo" | Type: water
+- ID: 273 | Name: "seedot" | Type: grass
+- ID: 274 | Name: "nuzleaf" | Type: grass
+- ID: 275 | Name: "shiftry" | Type: grass
+- ID: 276 | Name: "taillow" | Type: normal
+- ID: 277 | Name: "swellow" | Type: normal
+- ID: 278 | Name: "wingull" | Type: water
+- ID: 279 | Name: "pelipper" | Type: water
+- ID: 280 | Name: "ralts" | Type: psychic
+- ID: 281 | Name: "kirlia" | Type: psychic
+- ID: 282 | Name: "gardevoir" | Type: psychic
+- ID: 283 | Name: "surskit" | Type: bug
+- ID: 284 | Name: "masquerain" | Type: bug
+- ID: 285 | Name: "shroomish" | Type: grass
+- ID: 286 | Name: "breloom" | Type: grass
+- ID: 287 | Name: "slakoth" | Type: normal
+- ID: 288 | Name: "vigoroth" | Type: normal
+- ID: 289 | Name: "slaking" | Type: normal
+- ID: 290 | Name: "nincada" | Type: bug
+- ID: 291 | Name: "ninjask" | Type: bug
+- ID: 292 | Name: "shedinja" | Type: bug
+- ID: 293 | Name: "whismur" | Type: normal
+- ID: 294 | Name: "loudred" | Type: normal
+- ID: 295 | Name: "exploud" | Type: normal
+- ID: 296 | Name: "makuhita" | Type: fighting
+- ID: 297 | Name: "hariyama" | Type: fighting
+- ID: 298 | Name: "azurill" | Type: normal
+- ID: 299 | Name: "nosepass" | Type: rock
+- ID: 300 | Name: "skitty" | Type: normal
+- ID: 301 | Name: "delcatty" | Type: normal
+- ID: 302 | Name: "sableye" | Type: dark
+- ID: 303 | Name: "mawile" | Type: steel
+- ID: 304 | Name: "aron" | Type: steel
+- ID: 305 | Name: "lairon" | Type: steel
+- ID: 306 | Name: "aggron" | Type: steel
+- ID: 307 | Name: "meditite" | Type: fighting
+- ID: 308 | Name: "medicham" | Type: fighting
+- ID: 309 | Name: "electrike" | Type: electric
+- ID: 310 | Name: "manectric" | Type: electric
+- ID: 311 | Name: "plusle" | Type: electric
+- ID: 312 | Name: "minun" | Type: electric
+- ID: 313 | Name: "volbeat" | Type: bug
+- ID: 314 | Name: "illumise" | Type: bug
+- ID: 315 | Name: "roselia" | Type: grass
+- ID: 316 | Name: "gulpin" | Type: poison
+- ID: 317 | Name: "swalot" | Type: poison
+- ID: 318 | Name: "carvanha" | Type: water
+- ID: 319 | Name: "sharpedo" | Type: water
+- ID: 320 | Name: "wailmer" | Type: water
+- ID: 321 | Name: "wailord" | Type: water
+- ID: 322 | Name: "numel" | Type: fire
+- ID: 323 | Name: "camerupt" | Type: fire
+- ID: 324 | Name: "torkoal" | Type: fire
+- ID: 325 | Name: "spoink" | Type: psychic
+- ID: 326 | Name: "grumpig" | Type: psychic
+- ID: 327 | Name: "spinda" | Type: normal
+- ID: 328 | Name: "trapinch" | Type: ground
+- ID: 329 | Name: "vibrava" | Type: ground
+- ID: 330 | Name: "flygon" | Type: ground
+- ID: 331 | Name: "cacnea" | Type: grass
+- ID: 332 | Name: "cacturne" | Type: grass
+- ID: 333 | Name: "swablu" | Type: normal
+- ID: 334 | Name: "altaria" | Type: dragon
+- ID: 335 | Name: "zangoose" | Type: normal
+- ID: 336 | Name: "seviper" | Type: poison
+- ID: 337 | Name: "lunatone" | Type: rock
+- ID: 338 | Name: "solrock" | Type: rock
+- ID: 339 | Name: "barboach" | Type: water
+- ID: 340 | Name: "whiscash" | Type: water
+- ID: 341 | Name: "corphish" | Type: water
+- ID: 342 | Name: "crawdaunt" | Type: water
+- ID: 343 | Name: "baltoy" | Type: ground
+- ID: 344 | Name: "claydol" | Type: ground
+- ID: 345 | Name: "lileep" | Type: rock
+- ID: 346 | Name: "cradily" | Type: rock
+- ID: 347 | Name: "anorith" | Type: rock
+- ID: 348 | Name: "armaldo" | Type: rock
+- ID: 349 | Name: "feebas" | Type: water
+- ID: 350 | Name: "milotic" | Type: water
+- ID: 351 | Name: "castform" | Type: normal
+- ID: 352 | Name: "kecleon" | Type: normal
+- ID: 353 | Name: "shuppet" | Type: ghost
+- ID: 354 | Name: "banette" | Type: ghost
+- ID: 355 | Name: "duskull" | Type: ghost
+- ID: 356 | Name: "dusclops" | Type: ghost
+- ID: 357 | Name: "tropius" | Type: grass
+- ID: 358 | Name: "chimecho" | Type: psychic
+- ID: 359 | Name: "absol" | Type: dark
+- ID: 360 | Name: "wynaut" | Type: psychic
+- ID: 361 | Name: "snorunt" | Type: ice
+- ID: 362 | Name: "glalie" | Type: ice
+- ID: 363 | Name: "spheal" | Type: ice
+- ID: 364 | Name: "sealeo" | Type: ice
+- ID: 365 | Name: "walrein" | Type: ice
+- ID: 366 | Name: "clamperl" | Type: water
+- ID: 367 | Name: "huntail" | Type: water
+- ID: 368 | Name: "gorebyss" | Type: water
+- ID: 369 | Name: "relicanth" | Type: water
+- ID: 370 | Name: "luvdisc" | Type: water
+- ID: 371 | Name: "bagon" | Type: dragon
+- ID: 372 | Name: "shelgon" | Type: dragon
+- ID: 373 | Name: "salamence" | Type: dragon
+- ID: 374 | Name: "beldum" | Type: steel
+- ID: 375 | Name: "metang" | Type: steel
+- ID: 376 | Name: "metagross" | Type: steel
+- ID: 377 | Name: "regirock" | Type: rock
+- ID: 378 | Name: "regice" | Type: ice
+- ID: 379 | Name: "registeel" | Type: steel
+- ID: 380 | Name: "latias" | Type: dragon
+- ID: 381 | Name: "latios" | Type: dragon
+- ID: 382 | Name: "kyogre" | Type: water
+- ID: 383 | Name: "groudon" | Type: ground
+- ID: 384 | Name: "rayquaza" | Type: dragon
+- ID: 385 | Name: "jirachi" | Type: steel
+- ID: 386 | Name: "deoxys-normal" | Type: psychic
+- ID: 387 | Name: "turtwig" | Type: grass
+- ID: 388 | Name: "grotle" | Type: grass
+- ID: 389 | Name: "torterra" | Type: grass
+- ID: 390 | Name: "chimchar" | Type: fire
+- ID: 391 | Name: "monferno" | Type: fire
+- ID: 392 | Name: "infernape" | Type: fire
+- ID: 393 | Name: "piplup" | Type: water
+- ID: 394 | Name: "prinplup" | Type: water
+- ID: 395 | Name: "empoleon" | Type: water
+- ID: 396 | Name: "starly" | Type: normal
+- ID: 397 | Name: "staravia" | Type: normal
+- ID: 398 | Name: "staraptor" | Type: normal
+- ID: 399 | Name: "bidoof" | Type: normal
+- ID: 400 | Name: "bibarel" | Type: normal
+- ID: 401 | Name: "kricketot" | Type: bug
+- ID: 402 | Name: "kricketune" | Type: bug
+- ID: 403 | Name: "shinx" | Type: electric
+- ID: 404 | Name: "luxio" | Type: electric
+- ID: 405 | Name: "luxray" | Type: electric
+- ID: 406 | Name: "budew" | Type: grass
+- ID: 407 | Name: "roserade" | Type: grass
+- ID: 408 | Name: "cranidos" | Type: rock
+- ID: 409 | Name: "rampardos" | Type: rock
+- ID: 410 | Name: "shieldon" | Type: rock
+- ID: 411 | Name: "bastiodon" | Type: rock
+- ID: 412 | Name: "burmy" | Type: bug
+- ID: 413 | Name: "wormadam-plant" | Type: bug
+- ID: 414 | Name: "mothim" | Type: bug
+- ID: 415 | Name: "combee" | Type: bug
+- ID: 416 | Name: "vespiquen" | Type: bug
+- ID: 417 | Name: "pachirisu" | Type: electric
+- ID: 418 | Name: "buizel" | Type: water
+- ID: 419 | Name: "floatzel" | Type: water
+- ID: 420 | Name: "cherubi" | Type: grass
+- ID: 421 | Name: "cherrim" | Type: grass
+- ID: 422 | Name: "shellos" | Type: water
+- ID: 423 | Name: "gastrodon" | Type: water
+- ID: 424 | Name: "ambipom" | Type: normal
+- ID: 425 | Name: "drifloon" | Type: ghost
+- ID: 426 | Name: "drifblim" | Type: ghost
+- ID: 427 | Name: "buneary" | Type: normal
+- ID: 428 | Name: "lopunny" | Type: normal
+- ID: 429 | Name: "mismagius" | Type: ghost
+- ID: 430 | Name: "honchkrow" | Type: dark
+- ID: 431 | Name: "glameow" | Type: normal
+- ID: 432 | Name: "purugly" | Type: normal
+- ID: 433 | Name: "chingling" | Type: psychic
+- ID: 434 | Name: "stunky" | Type: poison
+- ID: 435 | Name: "skuntank" | Type: poison
+- ID: 436 | Name: "bronzor" | Type: steel
+- ID: 437 | Name: "bronzong" | Type: steel
+- ID: 438 | Name: "bonsly" | Type: rock
+- ID: 439 | Name: "mime-jr" | Type: psychic
+- ID: 440 | Name: "happiny" | Type: normal
+- ID: 441 | Name: "chatot" | Type: normal
+- ID: 442 | Name: "spiritomb" | Type: ghost
+- ID: 443 | Name: "gible" | Type: dragon
+- ID: 444 | Name: "gabite" | Type: dragon
+- ID: 445 | Name: "garchomp" | Type: dragon
+- ID: 446 | Name: "munchlax" | Type: normal
+- ID: 447 | Name: "riolu" | Type: fighting
+- ID: 448 | Name: "lucario" | Type: fighting
+- ID: 449 | Name: "hippopotas" | Type: ground
+- ID: 450 | Name: "hippowdon" | Type: ground
+- ID: 451 | Name: "skorupi" | Type: poison
+- ID: 452 | Name: "drapion" | Type: poison
+- ID: 453 | Name: "croagunk" | Type: poison
+- ID: 454 | Name: "toxicroak" | Type: poison
+- ID: 455 | Name: "carnivine" | Type: grass
+- ID: 456 | Name: "finneon" | Type: water
+- ID: 457 | Name: "lumineon" | Type: water
+- ID: 458 | Name: "mantyke" | Type: water
+- ID: 459 | Name: "snover" | Type: grass
+- ID: 460 | Name: "abomasnow" | Type: grass
+- ID: 461 | Name: "weavile" | Type: dark
+- ID: 462 | Name: "magnezone" | Type: electric
+- ID: 463 | Name: "lickilicky" | Type: normal
+- ID: 464 | Name: "rhyperior" | Type: ground
+- ID: 465 | Name: "tangrowth" | Type: grass
+- ID: 466 | Name: "electivire" | Type: electric
+- ID: 467 | Name: "magmortar" | Type: fire
+- ID: 468 | Name: "togekiss" | Type: fairy
+- ID: 469 | Name: "yanmega" | Type: bug
+- ID: 470 | Name: "leafeon" | Type: grass
+- ID: 471 | Name: "glaceon" | Type: ice
+- ID: 472 | Name: "gliscor" | Type: ground
+- ID: 473 | Name: "mamoswine" | Type: ice
+- ID: 474 | Name: "porygon-z" | Type: normal
+- ID: 475 | Name: "gallade" | Type: psychic
+- ID: 476 | Name: "probopass" | Type: rock
+- ID: 477 | Name: "dusknoir" | Type: ghost
+- ID: 478 | Name: "froslass" | Type: ice
+- ID: 479 | Name: "rotom" | Type: electric
+- ID: 480 | Name: "uxie" | Type: psychic
+- ID: 481 | Name: "mesprit" | Type: psychic
+- ID: 482 | Name: "azelf" | Type: psychic
+- ID: 483 | Name: "dialga" | Type: steel
+- ID: 484 | Name: "palkia" | Type: water
+- ID: 485 | Name: "heatran" | Type: fire
+- ID: 486 | Name: "regigigas" | Type: normal
+- ID: 487 | Name: "giratina-altered" | Type: ghost
+- ID: 488 | Name: "cresselia" | Type: psychic
+- ID: 489 | Name: "phione" | Type: water
+- ID: 490 | Name: "manaphy" | Type: water
+- ID: 491 | Name: "darkrai" | Type: dark
+- ID: 492 | Name: "shaymin-land" | Type: grass
+- ID: 493 | Name: "arceus" | Type: normal
+- ID: 494 | Name: "victini" | Type: psychic
+- ID: 495 | Name: "snivy" | Type: grass
+- ID: 496 | Name: "servine" | Type: grass
+- ID: 497 | Name: "serperior" | Type: grass
+- ID: 498 | Name: "tepig" | Type: fire
+- ID: 499 | Name: "pignite" | Type: fire
+- ID: 500 | Name: "emboar" | Type: fire
+- ID: 501 | Name: "oshawott" | Type: water
+- ID: 502 | Name: "dewott" | Type: water
+- ID: 503 | Name: "samurott" | Type: water
+- ID: 504 | Name: "patrat" | Type: normal
+- ID: 505 | Name: "watchog" | Type: normal
+- ID: 506 | Name: "lillipup" | Type: normal
+- ID: 507 | Name: "herdier" | Type: normal
+- ID: 508 | Name: "stoutland" | Type: normal
+- ID: 509 | Name: "purrloin" | Type: dark
+- ID: 510 | Name: "liepard" | Type: dark
+- ID: 511 | Name: "pansage" | Type: grass
+- ID: 512 | Name: "simisage" | Type: grass
+- ID: 513 | Name: "pansear" | Type: fire
+- ID: 514 | Name: "simisear" | Type: fire
+- ID: 515 | Name: "panpour" | Type: water
+- ID: 516 | Name: "simipour" | Type: water
+- ID: 517 | Name: "munna" | Type: psychic
+- ID: 518 | Name: "musharna" | Type: psychic
+- ID: 519 | Name: "pidove" | Type: normal
+- ID: 520 | Name: "tranquill" | Type: normal
+- ID: 521 | Name: "unfezant" | Type: normal
+- ID: 522 | Name: "blitzle" | Type: electric
+- ID: 523 | Name: "zebstrika" | Type: electric
+- ID: 524 | Name: "roggenrola" | Type: rock
+- ID: 525 | Name: "boldore" | Type: rock
+- ID: 526 | Name: "gigalith" | Type: rock
+- ID: 527 | Name: "woobat" | Type: psychic
+- ID: 528 | Name: "swoobat" | Type: psychic
+- ID: 529 | Name: "drilbur" | Type: ground
+- ID: 530 | Name: "excadrill" | Type: ground
+- ID: 531 | Name: "audino" | Type: normal
+- ID: 532 | Name: "timburr" | Type: fighting
+- ID: 533 | Name: "gurdurr" | Type: fighting
+- ID: 534 | Name: "conkeldurr" | Type: fighting
+- ID: 535 | Name: "tympole" | Type: water
+- ID: 536 | Name: "palpitoad" | Type: water
+- ID: 537 | Name: "seismitoad" | Type: water
+- ID: 538 | Name: "throh" | Type: fighting
+- ID: 539 | Name: "sawk" | Type: fighting
+- ID: 540 | Name: "sewaddle" | Type: bug
+- ID: 541 | Name: "swadloon" | Type: bug
+- ID: 542 | Name: "leavanny" | Type: bug
+- ID: 543 | Name: "venipede" | Type: bug
+- ID: 544 | Name: "whirlipede" | Type: bug
+- ID: 545 | Name: "scolipede" | Type: bug
+- ID: 546 | Name: "cottonee" | Type: grass
+- ID: 547 | Name: "whimsicott" | Type: grass
+- ID: 548 | Name: "petilil" | Type: grass
+- ID: 549 | Name: "lilligant" | Type: grass
+- ID: 550 | Name: "basculin-red-striped" | Type: water
+- ID: 551 | Name: "sandile" | Type: ground
+- ID: 552 | Name: "krokorok" | Type: ground
+- ID: 553 | Name: "krookodile" | Type: ground
+- ID: 554 | Name: "darumaka" | Type: fire
+- ID: 555 | Name: "darmanitan-standard" | Type: fire
+- ID: 556 | Name: "maractus" | Type: grass
+- ID: 557 | Name: "dwebble" | Type: bug
+- ID: 558 | Name: "crustle" | Type: bug
+- ID: 559 | Name: "scraggy" | Type: dark
+- ID: 560 | Name: "scrafty" | Type: dark
+- ID: 561 | Name: "sigilyph" | Type: psychic
+- ID: 562 | Name: "yamask" | Type: ghost
+- ID: 563 | Name: "cofagrigus" | Type: ghost
+- ID: 564 | Name: "tirtouga" | Type: water
+- ID: 565 | Name: "carracosta" | Type: water
+- ID: 566 | Name: "archen" | Type: rock
+- ID: 567 | Name: "archeops" | Type: rock
+- ID: 568 | Name: "trubbish" | Type: poison
+- ID: 569 | Name: "garbodor" | Type: poison
+- ID: 570 | Name: "zorua" | Type: dark
+- ID: 571 | Name: "zoroark" | Type: dark
+- ID: 572 | Name: "minccino" | Type: normal
+- ID: 573 | Name: "cinccino" | Type: normal
+- ID: 574 | Name: "gothita" | Type: psychic
+- ID: 575 | Name: "gothorita" | Type: psychic
+- ID: 576 | Name: "gothitelle" | Type: psychic
+- ID: 577 | Name: "solosis" | Type: psychic
+- ID: 578 | Name: "duosion" | Type: psychic
+- ID: 579 | Name: "reuniclus" | Type: psychic
+- ID: 580 | Name: "ducklett" | Type: water
+- ID: 581 | Name: "swanna" | Type: water
+- ID: 582 | Name: "vanillite" | Type: ice
+- ID: 583 | Name: "vanillish" | Type: ice
+- ID: 584 | Name: "vanilluxe" | Type: ice
+- ID: 585 | Name: "deerling" | Type: normal
+- ID: 586 | Name: "sawsbuck" | Type: normal
+- ID: 587 | Name: "emolga" | Type: electric
+- ID: 588 | Name: "karrablast" | Type: bug
+- ID: 589 | Name: "escavalier" | Type: bug
+- ID: 590 | Name: "foongus" | Type: grass
+- ID: 591 | Name: "amoonguss" | Type: grass
+- ID: 592 | Name: "frillish" | Type: water
+- ID: 593 | Name: "jellicent" | Type: water
+- ID: 594 | Name: "alomomola" | Type: water
+- ID: 595 | Name: "joltik" | Type: bug
+- ID: 596 | Name: "galvantula" | Type: bug
+- ID: 597 | Name: "ferroseed" | Type: grass
+- ID: 598 | Name: "ferrothorn" | Type: grass
+- ID: 599 | Name: "klink" | Type: steel
+- ID: 600 | Name: "klang" | Type: steel
+- ID: 601 | Name: "klinklang" | Type: steel
+- ID: 602 | Name: "tynamo" | Type: electric
+- ID: 603 | Name: "eelektrik" | Type: electric
+- ID: 604 | Name: "eelektross" | Type: electric
+- ID: 605 | Name: "elgyem" | Type: psychic
+- ID: 606 | Name: "beheeyem" | Type: psychic
+- ID: 607 | Name: "litwick" | Type: ghost
+- ID: 608 | Name: "lampent" | Type: ghost
+- ID: 609 | Name: "chandelure" | Type: ghost
+- ID: 610 | Name: "axew" | Type: dragon
+- ID: 611 | Name: "fraxure" | Type: dragon
+- ID: 612 | Name: "haxorus" | Type: dragon
+- ID: 613 | Name: "cubchoo" | Type: ice
+- ID: 614 | Name: "beartic" | Type: ice
+- ID: 615 | Name: "cryogonal" | Type: ice
+- ID: 616 | Name: "shelmet" | Type: bug
+- ID: 617 | Name: "accelgor" | Type: bug
+- ID: 618 | Name: "stunfisk" | Type: ground
+- ID: 619 | Name: "mienfoo" | Type: fighting
+- ID: 620 | Name: "mienshao" | Type: fighting
+- ID: 621 | Name: "druddigon" | Type: dragon
+- ID: 622 | Name: "golett" | Type: ground
+- ID: 623 | Name: "golurk" | Type: ground
+- ID: 624 | Name: "pawniard" | Type: dark
+- ID: 625 | Name: "bisharp" | Type: dark
+- ID: 626 | Name: "bouffalant" | Type: normal
+- ID: 627 | Name: "rufflet" | Type: normal
+- ID: 628 | Name: "braviary" | Type: normal
+- ID: 629 | Name: "vullaby" | Type: dark
+- ID: 630 | Name: "mandibuzz" | Type: dark
+- ID: 631 | Name: "heatmor" | Type: fire
+- ID: 632 | Name: "durant" | Type: bug
+- ID: 633 | Name: "deino" | Type: dark
+- ID: 634 | Name: "zweilous" | Type: dark
+- ID: 635 | Name: "hydreigon" | Type: dark
+- ID: 636 | Name: "larvesta" | Type: bug
+- ID: 637 | Name: "volcarona" | Type: bug
+- ID: 638 | Name: "cobalion" | Type: steel
+- ID: 639 | Name: "terrakion" | Type: rock
+- ID: 640 | Name: "virizion" | Type: grass
+- ID: 641 | Name: "tornadus-incarnate" | Type: flying
+- ID: 642 | Name: "thundurus-incarnate" | Type: electric
+- ID: 643 | Name: "reshiram" | Type: dragon
+- ID: 644 | Name: "zekrom" | Type: dragon
+- ID: 645 | Name: "landorus-incarnate" | Type: ground
+- ID: 646 | Name: "kyurem" | Type: dragon
+- ID: 647 | Name: "keldeo-ordinary" | Type: water
+- ID: 648 | Name: "meloetta-aria" | Type: normal
+- ID: 649 | Name: "genesect" | Type: bug
+- ID: 650 | Name: "chespin" | Type: grass
+- ID: 651 | Name: "quilladin" | Type: grass
+- ID: 652 | Name: "chesnaught" | Type: grass
+- ID: 653 | Name: "fennekin" | Type: fire
+- ID: 654 | Name: "braixen" | Type: fire
+- ID: 655 | Name: "delphox" | Type: fire
+- ID: 656 | Name: "froakie" | Type: water
+- ID: 657 | Name: "frogadier" | Type: water
+- ID: 658 | Name: "greninja" | Type: water
+- ID: 659 | Name: "bunnelby" | Type: normal
+- ID: 660 | Name: "diggersby" | Type: normal
+- ID: 661 | Name: "fletchling" | Type: normal
+- ID: 662 | Name: "fletchinder" | Type: fire
+- ID: 663 | Name: "talonflame" | Type: fire
+- ID: 664 | Name: "scatterbug" | Type: bug
+- ID: 665 | Name: "spewpa" | Type: bug
+- ID: 666 | Name: "vivillon" | Type: bug
+- ID: 667 | Name: "litleo" | Type: fire
+- ID: 668 | Name: "pyroar" | Type: fire
+- ID: 669 | Name: "flabebe" | Type: fairy
+- ID: 670 | Name: "floette" | Type: fairy
+- ID: 671 | Name: "florges" | Type: fairy
+- ID: 672 | Name: "skiddo" | Type: grass
+- ID: 673 | Name: "gogoat" | Type: grass
+- ID: 674 | Name: "pancham" | Type: fighting
+- ID: 675 | Name: "pangoro" | Type: fighting
+- ID: 676 | Name: "furfrou" | Type: normal
+- ID: 677 | Name: "espurr" | Type: psychic
+- ID: 678 | Name: "meowstic-male" | Type: psychic
+- ID: 679 | Name: "honedge" | Type: steel
+- ID: 680 | Name: "doublade" | Type: steel
+- ID: 681 | Name: "aegislash-shield" | Type: steel
+- ID: 682 | Name: "spritzee" | Type: fairy
+- ID: 683 | Name: "aromatisse" | Type: fairy
+- ID: 684 | Name: "swirlix" | Type: fairy
+- ID: 685 | Name: "slurpuff" | Type: fairy
+- ID: 686 | Name: "inkay" | Type: dark
+- ID: 687 | Name: "malamar" | Type: dark
+- ID: 688 | Name: "binacle" | Type: rock
+- ID: 689 | Name: "barbaracle" | Type: rock
+- ID: 690 | Name: "skrelp" | Type: poison
+- ID: 691 | Name: "dragalge" | Type: poison
+- ID: 692 | Name: "clauncher" | Type: water
+- ID: 693 | Name: "clawitzer" | Type: water
+- ID: 694 | Name: "helioptile" | Type: electric
+- ID: 695 | Name: "heliolisk" | Type: electric
+- ID: 696 | Name: "tyrunt" | Type: rock
+- ID: 697 | Name: "tyrantrum" | Type: rock
+- ID: 698 | Name: "amaura" | Type: rock
+- ID: 699 | Name: "aurorus" | Type: rock
+- ID: 700 | Name: "sylveon" | Type: fairy
+- ID: 701 | Name: "hawlucha" | Type: fighting
+- ID: 702 | Name: "dedenne" | Type: electric
+- ID: 703 | Name: "carbink" | Type: rock
+- ID: 704 | Name: "goomy" | Type: dragon
+- ID: 705 | Name: "sliggoo" | Type: dragon
+- ID: 706 | Name: "goodra" | Type: dragon
+- ID: 707 | Name: "klefki" | Type: steel
+- ID: 708 | Name: "phantump" | Type: ghost
+- ID: 709 | Name: "trevenant" | Type: ghost
+- ID: 710 | Name: "pumpkaboo-average" | Type: ghost
+- ID: 711 | Name: "gourgeist-average" | Type: ghost
+- ID: 712 | Name: "bergmite" | Type: ice
+- ID: 713 | Name: "avalugg" | Type: ice
+- ID: 714 | Name: "noibat" | Type: flying
+- ID: 715 | Name: "noivern" | Type: flying
+- ID: 716 | Name: "xerneas" | Type: fairy
+- ID: 717 | Name: "yveltal" | Type: dark
+- ID: 718 | Name: "zygarde" | Type: dragon
+- ID: 719 | Name: "diancie" | Type: rock
+- ID: 720 | Name: "hoopa" | Type: psychic
+- ID: 721 | Name: "volcanion" | Type: fire
+- ID: 10001 | Name: "deoxys-attack" | Type:
+- ID: 10002 | Name: "deoxys-defense" | Type:
+- ID: 10003 | Name: "deoxys-speed" | Type:
+- ID: 10004 | Name: "wormadam-sandy" | Type:
+- ID: 10005 | Name: "wormadam-trash" | Type:
+- ID: 10006 | Name: "shaymin-sky" | Type:
+- ID: 10007 | Name: "giratina-origin" | Type:
+- ID: 10008 | Name: "rotom-heat" | Type:
+- ID: 10009 | Name: "rotom-wash" | Type:
+- ID: 10010 | Name: "rotom-frost" | Type:
+- ID: 10011 | Name: "rotom-fan" | Type:
+- ID: 10012 | Name: "rotom-mow" | Type:
+- ID: 10013 | Name: "castform-sunny" | Type:
+- ID: 10014 | Name: "castform-rainy" | Type:
+- ID: 10015 | Name: "castform-snowy" | Type:
+- ID: 10016 | Name: "basculin-blue-striped" | Type:
+- ID: 10017 | Name: "darmanitan-zen" | Type:
+- ID: 10018 | Name: "meloetta-pirouette" | Type:
+- ID: 10019 | Name: "tornadus-therian" | Type:
+- ID: 10020 | Name: "thundurus-therian" | Type:
+- ID: 10021 | Name: "landorus-therian" | Type:
+- ID: 10022 | Name: "kyurem-black" | Type:
+- ID: 10023 | Name: "kyurem-white" | Type:
+- ID: 10024 | Name: "keldeo-resolute" | Type:
+- ID: 10025 | Name: "meowstic-female" | Type:
+- ID: 10026 | Name: "aegislash-blade" | Type:
+- ID: 10027 | Name: "pumpkaboo-small" | Type:
+- ID: 10028 | Name: "pumpkaboo-large" | Type:
+- ID: 10029 | Name: "pumpkaboo-super" | Type:
+- ID: 10030 | Name: "gourgeist-small" | Type:
+- ID: 10031 | Name: "gourgeist-large" | Type:
+- ID: 10032 | Name: "gourgeist-super" | Type:
+- ID: 10033 | Name: "venusaur-mega" | Type:
+- ID: 10034 | Name: "charizard-mega-x" | Type:
+- ID: 10035 | Name: "charizard-mega-y" | Type:
+- ID: 10036 | Name: "blastoise-mega" | Type:
+- ID: 10037 | Name: "alakazam-mega" | Type:
+- ID: 10038 | Name: "gengar-mega" | Type:
+- ID: 10039 | Name: "kangaskhan-mega" | Type:
+- ID: 10040 | Name: "pinsir-mega" | Type:
+- ID: 10041 | Name: "gyarados-mega" | Type:
+- ID: 10042 | Name: "aerodactyl-mega" | Type:
+- ID: 10043 | Name: "mewtwo-mega-x" | Type:
+- ID: 10044 | Name: "mewtwo-mega-y" | Type:
+- ID: 10045 | Name: "ampharos-mega" | Type:
+- ID: 10046 | Name: "scizor-mega" | Type:
+- ID: 10047 | Name: "heracross-mega" | Type:
+- ID: 10048 | Name: "houndoom-mega" | Type:
+- ID: 10049 | Name: "tyranitar-mega" | Type:
+- ID: 10050 | Name: "blaziken-mega" | Type:
+- ID: 10051 | Name: "gardevoir-mega" | Type:
+- ID: 10052 | Name: "mawile-mega" | Type:
+- ID: 10053 | Name: "aggron-mega" | Type:
+- ID: 10054 | Name: "medicham-mega" | Type:
+- ID: 10055 | Name: "manectric-mega" | Type:
+- ID: 10056 | Name: "banette-mega" | Type:
+- ID: 10057 | Name: "absol-mega" | Type:
+- ID: 10058 | Name: "garchomp-mega" | Type:
+- ID: 10059 | Name: "lucario-mega" | Type:
+- ID: 10060 | Name: "abomasnow-mega" | Type:
+- ID: 10061 | Name: "floette-eternal" | Type:
+- ID: 10062 | Name: "latias-mega" | Type:
+- ID: 10063 | Name: "latios-mega" | Type:
+- ID: 10064 | Name: "swampert-mega" | Type:
+- ID: 10065 | Name: "sceptile-mega" | Type:
+- ID: 10066 | Name: "sableye-mega" | Type:
+- ID: 10067 | Name: "altaria-mega" | Type:
+- ID: 10068 | Name: "gallade-mega" | Type:
+- ID: 10069 | Name: "audino-mega" | Type:
+- ID: 10070 | Name: "sharpedo-mega" | Type:
+- ID: 10071 | Name: "slowbro-mega" | Type:
+- ID: 10072 | Name: "steelix-mega" | Type:
+- ID: 10073 | Name: "pidgeot-mega" | Type:
+- ID: 10074 | Name: "glalie-mega" | Type:
+- ID: 10075 | Name: "diancie-mega" | Type:
+- ID: 10076 | Name: "metagross-mega" | Type:
+- ID: 10077 | Name: "kyogre-primal" | Type:
+- ID: 10078 | Name: "groudon-primal" | Type:
+- ID: 10079 | Name: "rayquaza-mega" | Type:
+- ID: 10080 | Name: "pikachu-rock-star" | Type:
+- ID: 10081 | Name: "pikachu-belle" | Type:
+- ID: 10082 | Name: "pikachu-pop-star" | Type:
+- ID: 10083 | Name: "pikachu-phd" | Type:
+- ID: 10084 | Name: "pikachu-libre" | Type:
+- ID: 10085 | Name: "pikachu-cosplay" | Type:
+- ID: 10086 | Name: "hoopa-unbound" | Type:
+- ID: 10087 | Name: "camerupt-mega" | Type:
+- ID: 10088 | Name: "lopunny-mega" | Type:
+- ID: 10089 | Name: "salamence-mega" | Type:
+- ID: 10090 | Name: "beedrill-mega" | Type:
