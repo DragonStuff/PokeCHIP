@@ -6,7 +6,7 @@
 
 VERSION=0.0.1
 SUBJECT=Search_Datasets_By_Name
-USAGE="Usage: namesearch.sh -ihv dataset search_heading search_query"
+USAGE="Usage: namesearch.sh -ihv search_query"
 
 # --- Options processing -------------------------------------------
 if [ $# == 0 ] ; then
