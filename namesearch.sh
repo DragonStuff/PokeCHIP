@@ -68,6 +68,8 @@ pheight=`./search.sh pokemon.csv identifier $search_Name | grep height | sed 's/
 pweight=`./search.sh pokemon.csv identifier $search_Name | grep weight`
 ptype_id_ext=`./search.sh pokemon.csv identifier $search_Name | grep \"id\"\: | grep -o '\"[0-9]*\"' | cut -d "\"" -f 2`
 ptype=`./search.sh types.csv id $ptype_id_ext | grep identifier`
+pdescription_ext=`./search.sh pokemon.csv identifier $search_Name | grep species_id | grep -o '\"[0-9]*\"' | cut -d "\"" -f 2`
+pdescription=`jq '.[] | select((.species_id == '$pdescription_ext') and (.language_id == 9) and (.version_id == 1))' Data/JSON/pokemon_species_flavor_text.csv.json | grep flavor_text`
 
 echo -e ________________________________________
 echo -e \| Info\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
@@ -78,9 +80,6 @@ echo -e \| `echo $ptype`\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
 echo -e \|--------------------------------------\|
 echo -e \| `echo $pheight`         \| `echo $pweight`\ \ \ \ \ \ \ \|
 echo -e \|--------------------------------------\|
-echo -e \|`echo ${stringZ:0}` \|
-echo -e \| \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
-echo -e \| \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
-echo -e \| \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \|
+echo -e `echo "$pdescription"`
 echo -e \|______________________________________\|
 # -----------------------------------------------------------------
