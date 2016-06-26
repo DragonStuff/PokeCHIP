@@ -70,7 +70,7 @@ Pokédex for PocketCHIP.
     
 ### Information:
 
-There are some datasets that did not process correctly due to the maintainer of the original datasets (https://github.com/PokeAPI/pokeapi/tree/master/data/v2/csv not implementing their CSV correctly- line breaks everywhere :( )
+There are some datasets that did not process correctly due to the maintainer of the original datasets (https://github.com/PokeAPI/pokeapi/tree/master/data/v2/csv) not implementing their CSV correctly- line breaks everywhere :sad_face:.
 
 Please see the file "datasets_to_be_fixed.txt" for datasets that processed with an error.
 
