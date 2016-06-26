@@ -47,3 +47,16 @@ Pokédex for PocketCHIP.
     and grows with
     this POKéMON."
     |______________________________________|
+    
+    
+### Information:
+
+There are some datasets that did not process correctly due to the maintainer of the original datasets (https://github.com/PokeAPI/pokeapi/tree/master/data/v2/csv not implementing their CSV correctly- line breaks everywhere :( )
+
+Please see the file "datasets_to_be_fixed.txt" for datasets that processed with an error.
+
+If you see that the dataset you want has an error, it's probably caused by either newlines or ending with the delimiter.
+
+You can fix this with: `sed '/[0-9],$/ s/$/null/'`
+
+You can also easily convert it without using the sometimes inaccurate tools in this repository by using: http://www.csvjson.com/csv2json
