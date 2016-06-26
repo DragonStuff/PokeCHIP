@@ -66,7 +66,8 @@ pid=`./search.sh pokemon.csv identifier $search_Name | grep \"id\"\: | sed 's/.$
 pname=`./search.sh pokemon.csv identifier $search_Name | grep identifier | sed 's/.$//'`
 pheight=`./search.sh pokemon.csv identifier $search_Name | grep height | sed 's/.$//'`
 pweight=`./search.sh pokemon.csv identifier $search_Name | grep weight`
-ptype_id_ext=`./search.sh pokemon_types.csv pokemon_id $i | grep \"type_id\"\: | grep -o '\"[0-9]*\"' | cut -d "\"" -f 2`
+ptype_convert_id=`echo ${pid:8}| cut -d "\"" -f 2`
+ptype_id_ext=`./search.sh pokemon_types.csv pokemon_id $ptype_convert_id | grep \"type_id\"\: | grep -o '\"[0-9]*\"' | cut -d "\"" -f 2`
 ptype=`./search.sh types.csv id $ptype_id_ext | grep identifier`
 pdescription_ext=`./search.sh pokemon.csv identifier $search_Name | grep species_id | grep -o '\"[0-9]*\"' | cut -d "\"" -f 2`
 pdescription=`jq '.[] | select((.species_id == '$pdescription_ext') and (.language_id == 9) and (.version_id == 1))' Data/JSON/pokemon_species_flavor_text.csv.json | grep flavor_text`
