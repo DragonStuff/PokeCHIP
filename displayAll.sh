@@ -63,7 +63,7 @@ for i in {1..721}
 do
     pid=`./search.sh pokemon.csv id $i | grep \"id\"\: | sed 's/.$//'`
     pname=`./search.sh pokemon.csv id $i | grep identifier | sed 's/.$//'`
-    ptype_id_ext=`./search.sh pokemon_dex_numbers.csv pokedex_number $i | grep \"pokedex_id\"\: | grep -o '\"[0-9]*\"' | cut -d "\"" -f 2`
+    ptype_id_ext=`./search.sh pokemon_types.csv pokemon_id $i | grep \"type_id\"\: | grep -o '\"[0-9]*\"' | cut -d "\"" -f 2`
     ptype=`./search.sh types.csv id $ptype_id_ext | grep identifier`
     echo - ID: `echo ${pid:8}| cut -d "\"" -f 2`\ \| `echo Name: ${pname:16}`\ \| Type: `echo ${ptype:16} | cut -d "\"" -f 2`
 done
