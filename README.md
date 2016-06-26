@@ -4,6 +4,25 @@
 Pokédex for PocketCHIP.
 
 ## Usage
+./displayAll.sh
+`./displayAll.sh`
+
+## Example:
+
+    ./displayAll.sh
+    - ID: 1 | Name: "bulbasaur" | Type: grass
+    - ID: 2 | Name: "ivysaur" | Type: grass
+    - ID: 3 | Name: "venusaur" | Type: grass
+    - ID: 4 | Name: "charmander" | Type: fire
+    - ID: 5 | Name: "charmeleon" | Type: fire
+    - ID: 6 | Name: "charizard" | Type: fire
+    - ID: 7 | Name: "squirtle" | Type: water
+    - ID: 8 | Name: "wartortle" | Type: water
+    - ID: 9 | Name: "blastoise" | Type: water
+    ...
+
+
+## Usage
 
 ./search.sh 
 `./search.sh -ihv dataset search_heading search_query`
