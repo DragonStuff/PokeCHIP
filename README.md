@@ -88,7 +88,7 @@ Pokédex for PocketCHIP.
     "It was created by
     a scientist after
     years of horrific
-                    gene splicing and
+    gene splicing and
     DNA engineering
     experiments."
     |______________________________________|
