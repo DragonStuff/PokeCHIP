@@ -74,24 +74,23 @@ Pokédex for PocketCHIP.
 
 ## Example:
 
-    namesearch.sh bulbasaur
-    
-    Searching for Pokemon: bulbasaur
+    ./namesearch.sh mewtwo
+    Searching for Pokémon: mewtwo
     ________________________________________
     | Info                                 |
     |--------------------------------------|
-    | ID: 1 | Name: "bulbasaur"
+    | ID: 150 | Name: "mewtwo"
     |--------------------------------------|
-    | Type: normal
+    | Type: psychic
     |--------------------------------------|
-    | H: "7" | W: "69"
+    | H: "20" | W: "1220"
     |--------------------------------------|
-    "A strange seed was
-    planted on its
-    back at birth.
-    The plant sprouts
-    and grows with
-    this POKéMON."
+    "It was created by
+    a scientist after
+    years of horrific
+                    gene splicing and
+    DNA engineering
+    experiments."
     |______________________________________|
     
     
