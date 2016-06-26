@@ -4,6 +4,33 @@
 Pokédex for PocketCHIP.
 
 ## Usage
+
+./displayAll_similar.sh
+`./displayAll_similar.sh -ihv search_query`
+
+
+## Example:
+
+    ./displayAll_similar.sh grass
+    Searching for Pokémon type, name or id similar to: grass
+    Number of similarities: 66
+    - ID: 1 | Name: "bulbasaur" | Type: grass
+    - ID: 2 | Name: "ivysaur" | Type: grass
+    - ID: 3 | Name: "venusaur" | Type: grass
+    - ID: 43 | Name: "oddish" | Type: grass
+    - ID: 44 | Name: "gloom" | Type: grass
+    - ID: 45 | Name: "vileplume" | Type: grass
+    - ID: 69 | Name: "bellsprout" | Type: grass
+    - ID: 70 | Name: "weepinbell" | Type: grass
+    - ID: 71 | Name: "victreebel" | Type: grass
+    - ID: 102 | Name: "exeggcute" | Type: grass
+    - ID: 103 | Name: "exeggutor" | Type: grass
+    - ID: 114 | Name: "tangela" | Type: grass
+    - ID: 152 | Name: "chikorita" | Type: grass
+    ...
+
+## Usage
+
 ./displayAll.sh
 `./displayAll.sh`
 

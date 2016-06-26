@@ -9,7 +9,7 @@ SUBJECT=Show_All_Pokemon
 USAGE="Usage: displayAll.sh"
 
 # --- Options processing -------------------------------------------
-if [ $# == 1 ] ; then
+if [ $# <= 1 ] ; then
     echo $USAGE
     exit 1;
 fi

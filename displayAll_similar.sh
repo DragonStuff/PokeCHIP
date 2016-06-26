@@ -1,12 +1,12 @@
 #!/bin/bash
 # ------------------------------------------------------------------
 # [DragonStuff] PokeCHIP
-#  This file searches a specific dataset and outputs matches.
+#  This file displays similarities from a text file.
 # ------------------------------------------------------------------
 
 VERSION=0.0.1
-SUBJECT=Search_Datasets_By_Name
-USAGE="Usage: namesearch.sh -ihv search_query"
+SUBJECT=Search_Database_by_query
+USAGE="Usage: displayAll_similar.sh -ihv search_query"
 
 # --- Options processing -------------------------------------------
 if [ $# == 0 ] ; then
@@ -60,6 +60,6 @@ touch $LOCK_FILE
 
 # --- Body --------------------------------------------------------
 # Searching using search.sh
-echo Searching for pokemon type, name or id similar to: $search_Name
+echo Searching for Pokémon type, name or id similar to: $search_Name
 echo Number of similarities: `cat displayAll_Database_PreRendered.txt | grep -c $search_Name`
 cat displayAll_Database_PreRendered.txt | grep $search_Name

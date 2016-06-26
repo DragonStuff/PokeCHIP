@@ -60,7 +60,7 @@ touch $LOCK_FILE
 
 # --- Body --------------------------------------------------------
 # Searching using search.sh
-echo Searching for Pokemon: $search_Name
+echo Searching for Pokémon: $search_Name
 data=``
 pid=`./search.sh pokemon.csv identifier $search_Name | grep \"id\"\: | sed 's/.$//'`
 pname=`./search.sh pokemon.csv identifier $search_Name | grep identifier | sed 's/.$//'`
