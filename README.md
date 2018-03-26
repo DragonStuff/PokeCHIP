@@ -1,5 +1,5 @@
 # PokeCHIP
-[![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/MakeNowJust/sushi-ware)
+![Green Tea Licence Badge](https://img.shields.io/badge/LICENCE-Green%20Tea-brightgreen.svg?link=https://github.com/DragonStuff/GreenTeaLicence&link=https://github.com/DragonStuff/GreenTeaLicence)
 
 Pokédex for PocketCHIP.
 
